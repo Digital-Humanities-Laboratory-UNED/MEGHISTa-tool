@@ -1,0 +1,272 @@
+Aalcala;Alcalá de Henares;http://pleiades.stoa.org/places/246352;http://sws.geonames.org/3130616/;null; ; ; 
+Aben;null;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/915817; ;An ancient place, cited: BAtlas 93 unlocated Aban;GENT;TEXT.AAN;Pleiades
+Africa;	África;https://pleiades.stoa.org/places/775; ; ; ;TEXT.AAN;Freeling
+Agora; ;http://pleiades.stoa.org/places/501332; ;An ancient place, cited: BAtlas 51 H3 Agora; ;TEXT.ACN;Pleiades
+Al; ; ;http://sws.geonames.org/6424297;null;GENT;TEXT.AAN;Geonames
+Albayda;Al'bajda,Albajda,a er wa yi da,Албайда,Альбайда,阿尔瓦伊达; ;http://sws.geonames.org/6361871;null;GENT;TEXT.AAN;Geonames
+Alcala;Alcalá de Henares;http://pleiades.stoa.org/places/246352;http://sws.geonames.org/3130616/;null; ; ; 
+Alcala de Guadayra;Alcalá de Guadaira; ;http://sws.geonames.org/2522165/;null; ; ; 
+Alcala del Rio;Alcalá del Rio;https://pleiades.stoa.org/places/256222/;http://www.geonames.org/6360960/;null; ; ; 
+Alcalá de Guadaira;Alcalá de Guadaira; ;http://sws.geonames.org/2522165/;null; ; ; 
+Alcalá del Río;Alcalá del Rio;https://pleiades.stoa.org/places/256222/;http://www.geonames.org/6360960/;null; ; ; 
+Algacila; ; ; ;null; ; ; 
+Algazila; ; ; ;null; ; ; 
+Alguazila; ; ; ;null; ; ; 
+Almonaster;Almonaster la Real; ;http://www.geonames.org/2521859/;null; ; ; 
+Almonaster la Real;Almonaster la Real; ;http://www.geonames.org/2521859/;null; ; ; 
+Aloquaz;Torres Alocaz;https://pleiades.stoa.org/places/256501; ;null; ; ; 
+Andalucía;Andaluzia; ;http://sws.geonames.org/2593109/ ;null; ; ; 
+Andaluzia;Andalucía; ;http://sws.geonames.org/2593109/; ; ;TEXT.ACN;Freeling
+Andeualo;El Cerro de Andévalo?; ;http://www.geonames.org/2518575/;null; ; ; 
+Aracena;Aracena; ;http://www.geonames.org/2521694/;null; ; ; 
+Aragon;Aragón; ;http://sws.geonames.org/3129906/; ; ;TEXT.AAN;Freeling
+Aragonum;Aragón; ;http://sws.geonames.org/3129906/;null; ; ; 
+Arcos;Arcos de la Frontera;http://pleiades.stoa.org/places/255981;http://sws.geonames.org/2521665/;null; ; ; 
+Arcos de la Frontera;Arcos de la Frontera;http://pleiades.stoa.org/places/255981;http://sws.geonames.org/2521665/;null; ; ; 
+Aroche;Aroche; ;http://www.geonames.org/2521585/;null; ; ; 
+Atalaia; ; ;http://sws.geonames.org/9171616;null;GENT;TEXT.AAN;Geonames
+Atiença; ; ;http://sws.geonames.org/6357841;null;GENT;TEXT.ACN;Geonames
+Auila;Ávila;http://pleiades.stoa.org/places/236361;http://sws.geonames.org/6355632/; ; ;TEXT.ACN;Freeling
+Axaraf de Seuilla;El Aljarafe; ;http://sws.geonames.org/2518744/;null; ; ; 
+Axaraffe;El Aljarafe; ;http://sws.geonames.org/2518744/ ;null; ; ; 
+Ayamonte;Ayamont;https://pleiades.stoa.org/places/256348;http://www.geonames.org/2521456/;null; ; ; 
+Aymont; ;http://pleiades.stoa.org/places/434022175; ;A Spanish village that borders Portugal and is located in the southwest of the province of Huenca. Known as Ayamonte today, it once belonged to the kingdom of Alfonso X.; ;TEXT.AAN;Pleiades
+Azoaga;Asuaga,Azuaga,a su a jia,azwagha,Азуага,Асуага,أزواغا,阿苏阿加; ;http://sws.geonames.org/6355879;null;GENT;TEXT.AAN;Geonames
+Badaioz;Badajoz; ;http://sws.geonames.org/2521420/;null; ; ; 
+Badajioz;Badajoz; ;http://sws.geonames.org/2521420/;null; ; ; 
+Badajoz;Badajoz; ;http://sws.geonames.org/2521420/;null; ; ; 
+Badallocio;Baeza; ;http://www.geonames.org/2521413/;null;GENT;TEXT.AAN;Medieval
+Badalloz;Badajoz; ;http://sws.geonames.org/2521420/;null; ; ; 
+Badalloç;Badajoz; ;http://sws.geonames.org/2521420/;null; ; ; 
+Baecia;Baeza; ;http://www.geonames.org/2521413/;null;GENT;TEXT.AAN;Medieval
+Baeza;Baeza;https://pleiades.stoa.org/places/266099;http://www.geonames.org/2521413/;null; ; ; 
+Baeça;Baeza;https://pleiades.stoa.org/places/266099;http://www.geonames.org/2521413/;null; ; ; 
+Bayona;Bajona,Bayona,bai ao na,baiona,baiyona,bayna,baywna,Байона,Բայոնա,بايونا,باینا,ባዮና,バイヨーナ,拜奥纳,바이오나; ;http://sws.geonames.org/6360207;null;GENT;TEXT.AAN;Geonames
+Beatriç; ; ;http://sws.geonames.org/10241696;null;GENT;TEXT.AAN;Geonames
+Bella;null;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/494544; ;An ancient place, cited: BAtlas 50 unlocated *Balla;GENT;TEXT.AAN;Pleiades
+Benacazon;Benacazón; ;http://www.geonames.org/2521154/;null; ; ; 
+Benacazón;Benacazón; ;http://www.geonames.org/2521154/;null; ; ; 
+Biçena;Lopera; ;http://sws.geonames.org/2514896/;null; ; ; 
+Bocas;Bogas,Bogás,Caserio Bogas,Caserío Bogás; ;http://sws.geonames.org/2520881;null;GENT;TEXT.AAN;Geonames
+Bodanna;null;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/236627; ;An ancient place, cited: BAtlas 24 H3 Rauda;GENT;TEXT.AAN;Pleiades
+Borg; ;http://pleiades.stoa.org/places/272861914; ;A large Roman courtyard villa covering ca. 7.5 ha.; ;TEXT.AAN;Pleiades
+Boriauenzohar;Benacazón; ;http://www.geonames.org/2521154/;null; ; ; 
+Bormujos;Bormujos; ;http://sws.geonames.org/2520833/;null; ; ; 
+Cabeça; ; ;http://sws.geonames.org/9167635;null;GENT;TEXT.ACN;Geonames
+Calaforra; ; ;http://sws.geonames.org/6359026;null;GENT;TEXT.AAN;Geonames
+Calatraua; ; ; ; ;PPT;TEXT.AAN; 
+Calle; ;http://pleiades.stoa.org/places/442520; ;An ancient place, cited: BAtlas 45 D3 Calle; ;TEXT.AAN;Pleiades
+Camino; ;http://pleiades.stoa.org/places/138261; ;An ancient place, cited: BAtlas 14 G4 Camino; ;TEXT.AAN;Pleiades
+Cannas; ; ;http://sws.geonames.org/6359030;null;GENT;TEXT.AAN;Geonames
+Canno; ; ;http://sws.geonames.org/3126547;null;GENT;TEXT.AAN;Geonames
+Cantillana;Cantillana;https://pleiades.stoa.org/places/256323;http://www.geonames.org/2520215/;null; ; ; 
+Carmo;Carmona;https://pleiades.stoa.org/places/256058;http://www.geonames.org/6360979/;null; ; ; 
+Carmona;Carmona;https://pleiades.stoa.org/places/256058;http://www.geonames.org/6360979/;null; ; ; 
+Carthagena; ; ;http://sws.geonames.org/6359521;null;GENT;TEXT.ACN;Geonames
+Castella; ; ;http://sws.geonames.org/6355429;null;GENT;TEXT.AAN;Geonames
+Castelle; ; ;http://sws.geonames.org/6355429;null;GENT;TEXT.ACN;Geonames
+Castiel; ;http://pleiades.stoa.org/places/187341; ;An ancient place, cited: BAtlas 19 B3 Castiel; ;TEXT.AAN;Pleiades
+Castiell; ; ; ;An ancient place, cited: BAtlas 19 B3 Castiel;GENT;TEXT.AAN;Medieval
+Castiella;Castiella; ; ;null; ;TEXT.AAN;medieval
+Castiello de Cot;Castillo de Cote; ;http://www.geonames.org/maps/google_36.9_-5.52.html ;null; ; ; 
+Castilla;Castiella; ; ;null; ; ; 
+Castillo de Cote;Castillo de Cote; ;http://www.geonames.org/maps/google_36.9_-5.52.html;null; ; ; 
+Castro; ;http://pleiades.stoa.org/places/413072; ;An ancient place, cited: BAtlas 42 B3 Castro; ;TEXT.AAN;Pleiades
+Caten;null;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/69483; ;An ancient place, cited: BAtlas 7 F2 Caen;GENT;TEXT.AAN;Pleiades
+Ceret;Jerez;http://pleiades.stoa.org/places/256091/;http://www.geonames.org/6356935/;null; ; ; 
+Cho;Cho; ;http://sws.geonames.org/9166464;null; ; ; 
+Cisneros;Sevilla;http://pleiades.stoa.org/places/256210;http://sws.geonames.org/2510911/; ; ;TEXT.ACN;medieval
+Constantina;Constantina; ;http://www.geonames.org/2519278/;null; ; ; 
+Constantinopla;Constantinopla /Estambul; ;http://sws.geonames.org/745042/; ;GENT;TEXT.ACN;Medieval
+Cordoua;Córdoba;http://pleiades.stoa.org/places/256128;http://sws.geonames.org/6357216/ ;null; ; ; 
+Corduba;Baeza;https://pleiades.stoa.org/places/266099; ;null;GENT;TEXT.AAN;Medieval
+Cortegana;Cortegana;https://pleiades.stoa.org/places/256244;http://www.geonames.org/6358201/;null; ; ; 
+Cosa; ;http://pleiades.stoa.org/places/246360; ;An ancient place, cited: BAtlas 25 G1 Cosa; ;TEXT.ACN;Pleiades
+Costantina;Constantina; ;http://www.geonames.org/2519278/;null;GENT;TEXT.AAN;Medieval
+Costantinopla;Constantinopla /Estambul;http://pleiades.stoa.org/places/520998;http://sws.geonames.org/745042/; ; ;TEXT.ACN;Freeling
+Córdoba;Córdoba;http://pleiades.stoa.org/places/256128;http://sws.geonames.org/6357216/;null; ; ; 
+Damos; ;http://pleiades.stoa.org/places/599585; ;An ancient place, cited: BAtlas 61 D4 Damos; ;TEXT.AAN;Pleiades
+Dia; ;http://pleiades.stoa.org/places/573184; ;An ancient settlement, attested by literary or documentary sources, whose precise location cannot be determined today; ;TEXT.ACN;Pleiades
+Dias; ;http://pleiades.stoa.org/places/642516; ;An ancient place, cited: BAtlas 65 unlocated Dias; ;TEXT.ACN;Pleiades
+Dol;null;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/187365; ;An ancient place, cited: BAtlas 19 F3 Duel;GENT;TEXT.AAN;Pleiades
+Don;Dou; ;http://sws.geonames.org/3123798;null; ; ; 
+El Algarbe;El Algarve; ;http://www.geonames.org/2271989/ ;null; ; ; 
+El Algarue;El Algarve; ;http://www.geonames.org/2271989/ ;null; ; ; 
+El Algarve;El Algarve; ;http://www.geonames.org/2271989/;null; ; ; 
+El Alguacil; ; ;  ;null; ; ; 
+El Aljarafe;El Aljarafe; ;http://sws.geonames.org/2518744/;null; ; ; 
+El Andévalo;El Cerro de Andévalo?; ;http://www.geonames.org/2518575/;null; ; ; 
+Espanna;España;http://pleiades.stoa.org/places/992072; ; ; ;TEXT.ACN;Freeling
+Espera;Espera; ;http://sws.geonames.org/6356932/;null; ; ; 
+Estremadura;Comunidad Autonoma de Extremadura,Comunidad Autónoma de Extremadura,Ehstrehmadura,Ehstremadura,Ehstremadurae,Ekstremadura,Ekstremaduro,Ekstremadûra,Estremadura,Estremadure,Estremadūra,Estremaura,Estremaúra,Estrémadure,Extremadoura,Extremadura,Extremadúra,Ikstrimadura,ai si te lei ma du la,akstrmadwra,akstrymadwra,eseuteulemadula jibang,estremadura,esutoremado~ura zhou,esuto~uremado~ura,mntqt akstrymadwra,Èstrèmadura,Εξτρεμαδούρα,Екстремадура,Естремадура,Эстремадурæ,Эстремадура,Эстрэмадура,Էստրեմադուրա,אקסטרמדורה,اكستريمادورا,اکسترمادورا,ایکسٹریماڈورا,منطقة إكستريمادورا,एस्त्रेमादुरा,แคว้นเอกซ์เตรมาดูรา,ესტრემადურა,エストゥレマドゥーラ,エストレマドゥーラ州,埃斯特雷馬杜拉,埃斯特雷马杜拉,에스트레마두라 지방; ;http://sws.geonames.org/2593112;null;GENT;TEXT.ACN;Geonames
+Facta; ; ;http://sws.geonames.org/3122691;null;GENT;TEXT.ACN;Geonames
+Fernando;Fernando; ;http://sws.geonames.org/3122557;null; ; ; 
+Françia;Francia;http://pleiades.stoa.org/places/993;http://sws.geonames.org/3017382/; ; ;TEXT.AAN;Freeling
+Galicia;Galicia;http://pleiades.stoa.org/places/991317;http://sws.geonames.org/3336902/;null; ; ; 
+Galizia;Galicia;http://pleiades.stoa.org/places/991317;http://sws.geonames.org/3336902/; ; ;TEXT.ACN;Freeling
+Gallecie;Baeza;https://pleiades.stoa.org/places/266099; ;null;GENT;TEXT.AAN;Medieval
+Gallecie Sebilla;Baeza; ;http://www.geonames.org/2521413/;null;GENT;TEXT.AAN;Medieval
+Gallecie Sebilla Corduba;Baeza; ;http://www.geonames.org/2521413/;null;GENT;TEXT.AAN;Medieval
+Gallicia;Galicia;http://pleiades.stoa.org/places/991317;http://sws.geonames.org/3336902/; ; ;TEXT.ACN;Freeling
+Gallizia;Galicia;http://pleiades.stoa.org/places/991317;http://sws.geonames.org/3336902/ ;null; ; ; 
+Galliçia;Galicia;http://pleiades.stoa.org/places/991317;http://sws.geonames.org/3336902/; ; ;TEXT.ACN;Freeling
+Granada;Granada; ;http://sws.geonames.org/6357709;null; ; ; 
+Grande; ;http://pleiades.stoa.org/places/481850; ;null; ; ; 
+Guadiela;río Guadiela; ;http://www.geonames.org/3121053/; ; ; ; 
+Guiral;San Martin,San Martín; ;http://sws.geonames.org/3120997;null;GENT;TEXT.AAN;Geonames
+Guta;Gua,Gúa; ;http://sws.geonames.org/3121071;null;GENT;TEXT.AAN;Geonames
+Haro;Sevilla;http://pleiades.stoa.org/places/256210;http://sws.geonames.org/2510911/; ; ;TEXT.ACN;medieval
+Hispalis;Sevilla;http://pleiades.stoa.org/places/256210;http://sws.geonames.org/2510911/;null; ; ; 
+Iahen;Jaén;http://pleiades.stoa.org/places/265810;http://sws.geonames.org/2516395/;null; ; ; 
+Ilipla;Niebla;https://pleiades.stoa.org/places/256221;http://www.geonames.org/6358229/;null; ; ; 
+Ilipoula;Niebla;https://pleiades.stoa.org/places/256221;http://www.geonames.org/6358229/;null; ; ; 
+Ispanie;An Spainn,An Spàinn,An Spáinn,Caxtillan,Esipanye,Esipaɲi,Espaan,Espaañ,Espagne,Espaina,Espainia,Espana,Espangne,Espanha,Espania,Espanja,Espanjja,Espanya,Espanye,Espay,España,Espánjja,Espânye,Estado Espanol,Estado Español,Gispania,Hesperia,Hisipaniya,Hispaania,Hispania,Hispanio,Hispanujo,Hiszpania,Isbeyn,Ispagna,Ispana,Ispani,Ispania,Ispanija,Ispaniya,Ispanya,Ispaña,Isponijo,Ispuanii,Kingdom of Spain,La pell de brau,La piel de toro,Nsipani,Orileede Sipani,Orílẹ́ède Sipani,Pain,Paniora,Pāniora,Regne d'Espanya,Reino de Espana,Reino de España,Sbaen,Sepania,Sepanyol,Sepeni,Shpanija,Sipeini,Sipen,Sipeyini,Spagn,Spagna,Spagne,Spain,Spanelsko,Spania,Spania nutome,Spanielsko,Spanien,Spanija,Spanish State,Spaniska,Spanja,Spanje,Spanjolska,Spanjë,Spann,Spanya,Spanyaen,Spanyol,Spanyolorszag,Spanyolország,Spanyän,Spayn,Spen,Spena,Speonland,Spuenien,Spánia,Spánn,Spéonland,Spānija,Spēna,Spēonland,Szpansko,Szpańskô,Tay Ban Nha,Tây Ban Nha,Uhispania,Yn Spaainey,asbanya,aspanya,aspyn,eseupanya,hspanyh,i-Spain,la Madre Patria,prathes spen,sangue,seupein,spain,spe'ina,spen,spena,speyin,sprd,spyn,supein,xi ban ya,yyspanya,Èspagne,İspaniya,İspanya,Španielsko,Španija,Španiska,Španjolska,Španělsko,Ισπανία,Іспанія,Гішпанія,Испани,Испания,Испониё,Шпанија,Իսպանիա,ספרד,שפאניע,أسبانيا,إسبانيا,ئىسپانىيە,ئیسپانیا,اسبانيا,اسپانیا,اسپین,سپین,هسپانیه,ہسپانیہ,ܐܣܦܢܝܐ,स्पेन,স্পেন,સ્પેઇન,સ્પેન,ସ୍ପେନ୍,ஸ்பெயின்,స్పేన్,ಸ್ಪೈನ್,സ്പെയിന്‍,ස්පාඤ්ඤය,ประเทศสเปน,สเปน,ສະເປນ,སཔན་,སི་པན།,སིཔཱེན,སིཔཱེན་,စပိန်,ესპანეთი,ስፔን,እስፓንያ,អេស្ប៉ាញ,スペイン,西班牙,스페인,에스파냐; ;http://sws.geonames.org/2510769;null;GENT;TEXT.ACN;Geonames
+Jahen;Jaén;http://pleiades.stoa.org/places/265810;http://sws.geonames.org/2516395/;null; ; ; 
+Jahenno;Baeza; ;http://www.geonames.org/2521413/;null;GENT;TEXT.AAN;Medieval
+Jaén;Jaén;http://pleiades.stoa.org/places/265810;http://sws.geonames.org/2516395/;null; ; ; 
+Jerez;Jerez;http://pleiades.stoa.org/places/256091/;http://www.geonames.org/6356935/;null; ; ; 
+La Renconada;La Rinconada; ;http://sws.geonames.org/8129113/;null; ; ; 
+La Rinconada;La Rinconada; ;http://sws.geonames.org/8129113/;null; ; ; 
+Ladro; ; ;http://sws.geonames.org/3119103;null;GENT;TEXT.AAN;Geonames
+Lares; ;http://pleiades.stoa.org/places/315061; ;An ancient place, cited: BAtlas 32 C4 Lares; ;TEXT.ACN;Pleiades
+Las Torres de Alocaz;Torres Alocaz;https://pleiades.stoa.org/places/256501;  ;null; ; ; 
+Lebrija;Lebrija;https://pleiades.stoa.org/places/256322;http://sws.geonames.org/6361008/;null; ; ; 
+Lebrissa; Lebrija;https://pleiades.stoa.org/places/256322;http://sws.geonames.org/6361008/;null; ; ; 
+Lebrixa;Lebrija;https://pleiades.stoa.org/places/256322;http://sws.geonames.org/6361008/;null; ; ; 
+Leon; ;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/109101; ;An ancient place, cited: BAtlas 11 D3 Laon; ;TEXT.AAN;Pleiades
+Leys; ; ;http://sws.geonames.org/3118564;null;GENT;TEXT.AAN;Geonames
+León;Leon;http://pleiades.stoa.org/places/236512; ;null; ; ; 
+Limia; ;http://pleiades.stoa.org/places/236517; ;An ancient place, cited: BAtlas 24 C3 Limia; ;TEXT.AAN;Pleiades
+Linares; ;http://pleiades.stoa.org/places/265950; ;An ancient place, cited: BAtlas 27 B3 Linares; ;TEXT.AAN;Pleiades
+Logronno;Logrono,Logroño; ;http://sws.geonames.org/6359078;null;GENT;TEXT.AAN;Geonames
+Lopera;Lopera; ;http://sws.geonames.org/2514896/;null; ; ; 
+Madina;Madina; ;http://sws.geonames.org/6325382;null; ; ; 
+Madre; ; ;http://sws.geonames.org/9169929;null;GENT;TEXT.AAN;Geonames
+Madrid;Madrid; ;http://sws.geonames.org/6359304/;null; ; ; 
+Madrit;Madrid; ;http://sws.geonames.org/6359304/; ; ;TEXT.ACN;Freeling
+Madryt;Madrid; ;http://sws.geonames.org/6359304/; ;GENT;TEXT.ACN;Medieval
+Mafomath;; ;Mahomath;;GENT;TEXT.AAN;none
+Mafon;MAH,Mahon,Mahón,Mao,Maó,Port Mahon; ;http://sws.geonames.org/6533953;null;GENT;TEXT.AAN;Geonames
+Malea; ;http://pleiades.stoa.org/places/570454; ;An ancient place, cited: BAtlas 58 C3 Malea; ;TEXT.ACN;Pleiades
+Maleha;null;http://pleiades.stoa.org/places/570454; ;An ancient place, cited: BAtlas 58 C3 Malea;GENT;TEXT.ACN;Pleiades
+Mançanares; ; ;http://sws.geonames.org/9179363;null;GENT;TEXT.ACN;Geonames
+Mathe; ;http://pleiades.stoa.org/places/806354; ;An ancient place, cited: BAtlas 82 unlocated Mathe; ;TEXT.ACN;Pleiades
+Mayrena; ; ;http://sws.geonames.org/2514290;null;GENT;TEXT.AAN;Geonames
+Maçanedo;Sevilla;http://pleiades.stoa.org/places/256210;http://sws.geonames.org/2510911/; ; ;TEXT.ACN;medieval
+Medina;Madina; ;http://sws.geonames.org/6325382;null; ;TEXT.AAN;medieval
+Medine;Madina; ;http://sws.geonames.org/6325382;null; ; ; 
+Meent;San Pedro,Tenoiro,Tenorio; ;http://sws.geonames.org/3108167;null;GENT;TEXT.AAN;Geonames
+Meneses;Sevilla;http://pleiades.stoa.org/places/256210;http://sws.geonames.org/2510911/; ; ;TEXT.ACN;medieval
+Mesa; ; ;http://sws.geonames.org/3117313;null;GENT;TEXT.AAN;Geonames
+Millan; ; ;http://sws.geonames.org/9406783;null;GENT;TEXT.ACN;Geonames
+Moguer;Moger; ;http://www.geonames.org/6358226/;null; ; ; 
+Molina; ; ;http://sws.geonames.org/6359477;null;GENT;TEXT.ACN;Geonames
+Mondonnedo; ; ;http://sws.geonames.org/6359191;null;GENT;TEXT.ACN;Geonames
+Montellano;Montellano; ;http://sws.geonames.org/2513637;null; ; ; 
+Montemolin;Montemolín;https://pleiades.stoa.org/places/256309; ;null; ; ; 
+Monzal;Monzo,San Martin,San Martín; ;http://sws.geonames.org/3116225;null;GENT;TEXT.AAN;Geonames
+Mora; ;http://pleiades.stoa.org/places/493070521; ;A Spanish village that belonged to the kingdom of Alfonso X.  It is now known as Moura, and is located in the country of Portugal, across the border from the Spanish cities of Huelva and Badajoz.; ;TEXT.AAN;Pleiades
+Morana; ;http://pleiades.stoa.org/places/265975; ;An ancient place, cited: BAtlas 27 A4 Morana; ;TEXT.AAN;Pleiades
+Moriel; ; ;http://sws.geonames.org/6362227;null;GENT;TEXT.ACN;Geonames
+Mormuios;Bormujos; ;http://sws.geonames.org/2520833/ ;null; ; ; 
+Moron;Morón de la Frontera;https://pleiades.stoa.org/places/256275;http://sws.geonames.org/6361020/ ;null; ; ; 
+Morón de la Frontera;Morón de la Frontera;https://pleiades.stoa.org/places/256275;http://sws.geonames.org/6361020/;null; ; ; 
+Moura;Mora;https://pleiades.stoa.org/places/256312;  ;null; ; ; 
+Munnoz;Munoz,Muñoz,QLM; ;http://sws.geonames.org/3115884;null;GENT;TEXT.AAN;Geonames
+Murcia;Murcia; ;http://sws.geonames.org/6362997/ ;null; ; ; 
+Murzia;Murcia; ;http://sws.geonames.org/6362997/; ; ;TEXT.AAN;Freeling
+Murçia;Murcia; ;http://sws.geonames.org/6362997/; ; ;TEXT.ACN;Freeling
+Nador; ;http://pleiades.stoa.org/places/305114; ;An ancient place, cited: BAtlas 31 H4 Nador; ;TEXT.AAN;Pleiades
+Nauarra;Navarra; ;http://sws.geonames.org/3115609/; ; ;TEXT.AAN;Freeling
+Naçar; ; ;http://sws.geonames.org/6359730;null;GENT;TEXT.ACN;Geonames
+Niebla;Niebla;https://pleiades.stoa.org/places/256221;http://www.geonames.org/6358229/;null; ; ; 
+Onde; ; ;http://sws.geonames.org/6526771;null;GENT;TEXT.ACN;Geonames
+Ordonno;Caserio La Guarena,Caserío La Guarena,La Guarena,La Guareña,Ordono,Ordoño; ;http://sws.geonames.org/3119643;null;GENT;TEXT.AAN;Geonames
+Orens;null;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/992080; ;An ancient place, cited: BAtlas 101 M6 Oriens;GENT;TEXT.ACN;Pleiades
+Paisoula;Salteras;https://pleiades.stoa.org/places/256352/;http://www.geonames.org/6361040/;null; ; ; 
+Palaçio; ; ;http://sws.geonames.org/9170613;null;GENT;TEXT.AAN;Geonames
+Palentia;null;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/236591; ;The chief town of the Vaccaei in the northern part of Hispania Tarraconensis.;GENT;TEXT.AAN;Pleiades
+Palenzia; ; ;http://sws.geonames.org/6360072;null;GENT;TEXT.AAN;Geonames
+Palençia;Palencia; ;http://sws.geonames.org/6360072/; ; ;TEXT.ACN;Freeling
+Palma; ;http://pleiades.stoa.org/places/265998; ;The site of Palma, on the island of Majorca, experienced multiple phases of settlement from Talaiotic to Roman.; ;TEXT.AAN;Pleiades
+Papa; ;http://pleiades.stoa.org/places/789755; ;An ancient settlement, attested by literary or documentary sources, whose precise location cannot be determined today; ;TEXT.AAN;Pleiades
+Pay;null;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/236627; ;An ancient place, cited: BAtlas 24 H3 Rauda;GENT;TEXT.AAN;Pleiades
+Penna;Asuaga,Azuaga,a su a jia,azwagha,Азуага,Асуага,أزواغا,阿苏阿加; ;http://sws.geonames.org/6355879;null;GENT;TEXT.AAN;Geonames
+Pere; ; ;http://sws.geonames.org/3114399;null;GENT;TEXT.AAN;Geonames
+Pilas;Pilas; ;http://sws.geonames.org/6361030/;null; ; ; 
+Pilias;Pilas; ;http://sws.geonames.org/6361030/;null; ; ; 
+Pinal;Pino,Pino del Oro; ;http://sws.geonames.org/3113435;null;GENT;TEXT.AAN;Geonames
+Plazentia;null;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/383741; ;Placentia (modern Piacenza) was an ancient site with Gallic and Etruscan occupation before the Roman conquest of 218 B.C. The city persisted into Late Antiquity.;GENT;TEXT.AAN;Pleiades
+Polo;El Puelo,Puelo; ;http://sws.geonames.org/3123323;null;GENT;TEXT.AAN;Geonames
+Portizuelo; ; ;http://sws.geonames.org/6356846;null;GENT;TEXT.AAN;Geonames
+Portogal;Portugal;http://pleiades.stoa.org/places/991319;http://sws.geonames.org/2264397/; ; ;TEXT.ACN;Freeling
+Portugal;Portugal;http://pleiades.stoa.org/places/991319;http://sws.geonames.org/2264397/; ; ;TEXT.AAN;medieval
+Puerta;Porta,San Pedro; ;http://sws.geonames.org/3113152;null;GENT;TEXT.AAN;Geonames
+Rabuda;null;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/236627; ;An ancient place, cited: BAtlas 24 H3 Rauda;GENT;TEXT.AAN;Pleiades
+Rey;Rey; ;http://sws.geonames.org/3111903;null; ; ; 
+Rey Fernando;Actur; ;http://sws.geonames.org/6640331;null; ; ; 
+Reyna;null;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/678362; ;An ancient place, cited: BAtlas 69 B4 Reina;GENT;TEXT.ACN;Pleiades
+Rio;Río; ;http://sws.geonames.org/3111713;null; ; ; 
+Rio de Tajo; ; ; ;null; ; ; 
+Roma;Roma;http://pleiades.stoa.org/places/423025;http://sws.geonames.org/3169070/; ; ;TEXT.AAN;Freeling
+Roys;Rois,Rojs,luo yi si,roisu,rwyas,rwys,Роис,Ройс,رويس,رویاس,ロイス,罗伊斯; ;http://sws.geonames.org/6357342;null;GENT;TEXT.AAN;Geonames
+Ruuio;Asuaga,Azuaga,a su a jia,azwagha,Азуага,Асуага,أزواغا,阿苏阿加; ;http://sws.geonames.org/6355879;null;GENT;TEXT.AAN;Geonames
+Salamanca;Salamanca;http://pleiades.stoa.org/places/236642;http://sws.geonames.org/6360513/; ; ;TEXT.ACN;Freeling
+Salteras;Salteras;https://pleiades.stoa.org/places/256352/;http://www.geonames.org/6361040/;null; ; ; 
+Sancto; ; ;http://sws.geonames.org/9170929;null;GENT;TEXT.ACN;Geonames
+Sane; ;http://pleiades.stoa.org/places/491715; ;An ancient place, cited: BAtlas 50 D4 Sane; ;TEXT.ACN;Pleiades
+Sanlúcar del Guadiana;Sanlúcar de Guadina; ;http://www.geonames.org/2511305/;null; ; ; 
+Santiague; ; ;http://sws.geonames.org/9224885;null;GENT;TEXT.AAN;Geonames
+Sebilla;Baeza;https://pleiades.stoa.org/places/266099; ;null;GENT;TEXT.AAN;Medieval
+Sebilla Corduba;Baeza; ;http://www.geonames.org/2521413/;null;GENT;TEXT.AAN;Medieval
+Segouia;Segovia;http://pleiades.stoa.org/places/236658;http://sws.geonames.org/6360915/	; ; ;TEXT.ACN;Freeling
+Segouiola;Benacazón; ;http://www.geonames.org/2521154/;null; ; ; 
+Segura; ;http://pleiades.stoa.org/places/256441; ;An ancient place, cited: BAtlas 26 D2 Segura; ;TEXT.ACN;Pleiades
+Serpa;Serpa;http://pleiades.stoa.org/places/256446;http://sws.geonames.org/2263049/ ;null; ; ; 
+Seuilia;Sevilla;http://pleiades.stoa.org/places/256210;http://sws.geonames.org/2510911/;null; ; ; 
+Seuilla;Sevilla;http://pleiades.stoa.org/places/256210;http://sws.geonames.org/2510911/; ; ;TEXT.AAN;medieval
+Seuillia;Sevilla; ;http://sws.geonames.org/2510911/;null;GENT;TEXT.ACN;Medieval
+Seujlla;Sevilla;http://pleiades.stoa.org/places/256210;http://sws.geonames.org/2510911/; ; ;TEXT.ACN;Freeling
+Sevilla;Sevilla;http://pleiades.stoa.org/places/256210;http://sws.geonames.org/2510911/;null; ; ; 
+Sietmalos; ; ; ;null; ; ; 
+Silue;null;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/688028; ;An ancient place, cited: BAtlas 70 G1 Silo;GENT;TEXT.ACN;Pleiades
+Silues;Los Silos,Silos; ;http://sws.geonames.org/2514452;null;GENT;TEXT.AAN;Geonames
+Sisa; ; ;http://sws.geonames.org/6358418;null;GENT;TEXT.AAN;Geonames
+Solucar;Sanlúcar de Guadina; ;http://www.geonames.org/2511305/;null; ; ; 
+Spera;Espera; ;http://sws.geonames.org/6356932/;null; ; ; 
+Suer;Suar; ;http://sws.geonames.org/3108532;null;GENT;TEXT.AAN;Geonames
+Taio;Tajo; ; ; ; ; ; 
+Talauera;Talavera de la Reina;http://pleiades.stoa.org/places/265834;http://sws.geonames.org/6361825/; ; ;TEXT.AAN;Freeling
+Talavera de la Reina;Talauera;http://pleiades.stoa.org/places/265834;http://sws.geonames.org/6361825/ ;null; ; ; 
+Teiada;Tejada?;https://pleiades.stoa.org/places/6356613; ;null; ; ; 
+Tejada;Tejada?;https://pleiades.stoa.org/places/6356613; ;null; ; ; 
+Tenoyro;San Pedro,Tenoiro,Tenorio; ;http://sws.geonames.org/3108167;null;GENT;TEXT.AAN;Geonames
+Texada;Tejada?; ; ;null;GENT;TEXT.AAN;Medieval
+Texada de Solucar;Tejada?;https://pleiades.stoa.org/places/6356613; ;null; ; ; 
+Toledo;Toledo; ;http://sws.geonames.org/6361828/;null;GENT;TEXT.AAN;medieval
+Toleto;Toledo; ;http://sws.geonames.org/6361828/;null;GENT;TEXT.AAN;Medieval
+Toletum; ;http://pleiades.stoa.org/places/266066; ;null; ; ; 
+Tolledo;Toledo; ;http://sws.geonames.org/6361828/;null;GENT;TEXT.AAN;Medieval
+Tolosa;Tolosa; ;http://sws.geonames.org/2510400/	; ; ;TEXT.AAN;Freeling
+Torre de Guadiamar;Benacazón; ;http://www.geonames.org/2521154/;null; ; ; 
+Torre del Rey;Pilas; ;http://sws.geonames.org/6361030/;null; ; ; 
+Torres Alocaz;Torres Alocaz;https://pleiades.stoa.org/places/256501;   ;null; ; ; 
+Torres de Alocaz;Torres Alocaz;https://pleiades.stoa.org/places/256501;  ;null; ; ; 
+Tuy;Tuj,Tuy,to~ui,tu yi,twy,Туй,توي,توی,トゥイ,图伊; ;http://sws.geonames.org/6360252;null;GENT;TEXT.ACN;Geonames
+Uclés;Uclés;http://pleiades.stoa.org/places/265983;http://sws.geonames.org/6357543/;null; ; ; 
+Ugia;Torres Alocaz;https://pleiades.stoa.org/places/256501;  ;null; ; ; 
+Urgia;Torres Alocaz;https://pleiades.stoa.org/places/256501; ;null; ; ; 
+Valence;Província de València; ;http://sws.geonames.org/2509951;null; ; ; 
+Valencie;Província de València; ;http://sws.geonames.org/2509951;null;GENT;TEXT.AAN;Medieval
+Valencihuela;Valensuehla,Valensuela,ba lun su ai la,falynzwyla,Валенсуела,Валенсуэла,فالينزويلا,巴伦苏埃拉; ;http://sws.geonames.org/6357258;null;GENT;TEXT.AAN;Geonames
+Valladolid;Valladolid; ;http://sws.geonames.org/3106672/;null; ; ; 
+Valladolit;Valladolid; ;http://sws.geonames.org/3106672/;null; ; ; 
+Vcles;Uclés;http://pleiades.stoa.org/places/265983;http://sws.geonames.org/6357543/ ;null; ; ; 
+Vela;null;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/438868; ;An ancient place, cited: BAtlas 44 unlocated Vella;GENT;TEXT.AAN;Pleiades
+Viatia;Baeza;https://pleiades.stoa.org/places/266099;http://www.geonames.org/2521413/;null; ; ; 
+Vivatia;Baeza;https://pleiades.stoa.org/places/266099;http://www.geonames.org/2521413/;null; ; ; 
+Vizcaya;Sevilla;http://pleiades.stoa.org/places/256210;http://sws.geonames.org/2510911/; ; ;TEXT.ACN;medieval
+Xerez;Jerez;http://pleiades.stoa.org/places/256091/;http://www.geonames.org/6356935/;null; ; ; 
+Ynglaterra;Inglaterra;http://pleiades.stoa.org/places/981513;http://sws.geonames.org/2635167/	; ; ;TEXT.AAN;Freeling
+Ziza; ;http://pleiades.stoa.org/places/697767; ;An ancient place, cited: BAtlas 71 B2 Ziza; ;TEXT.AAN;Pleiades
+Zohar; ;http://pleiades.stoa.org/places/688050; ;An ancient place, cited: BAtlas 70 G3 Zohar; ;TEXT.AAN;Pleiades

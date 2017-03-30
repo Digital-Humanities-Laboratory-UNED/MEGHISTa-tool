@@ -1,0 +1,2914 @@
+TERM;POSITION;TYPE;MODE;URI;CURRENT_TERM;AMBIGUOUS;ANOTHER_MEANING;ANOTHER_MEANING_URI;DESCRIPTION;GAZETTEER;VERIFICATION
+Alfonso;5;PN;FT;;;yes;APLN;;;;FOUND
+Dios;31;PN;FT;;;;;;;;FOUND
+Castiella;44;PLN;FT; ;Castilla;not;;;null;Freeling;FOUND
+Toledo;57;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;;null;Freeling;FOUND
+Leon;67;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;;null;Freeling;FOUND
+Gallizia;75;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;;null;Freeling;FOUND
+Seuilla;87;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;;null;Freeling;FOUND
+Cordoua;98;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;;null;Freeling;FOUND
+Murcia;109;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;;null;Freeling;FOUND
+Jahen;119;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;;null;Freeling;FOUND
+Alcala;140;PLN;FT;http://pleiades.stoa.org/places/246352;Alcalá de Henares;not;;;null;Freeling;FOUND
+Alfonso;233;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Ferrando;268;PN;FT; ; ;not; ; ; ; ;FOUND
+Dios;447;PN;FT; ; ;not; ; ; ; ;FOUND
+Dios;497;PN;FT; ; ;not; ; ; ; ;FOUND
+Dios;536;PN;FT;;;;;;;;FOUND
+Alfonso;1077;PN;FT;;;yes;APLN;;;;FOUND
+Molina;1088;PN;FT;;;yes;APLN;;;;FOUND
+Frederic;1119;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Felip;1134;PN;FT; ; ;not; ; ; ; ;FOUND
+Emanuel;1146;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+cosa;3612;APLN;AT;http://pleiades.stoa.org/places/246360;null;yes;CN;;An ancient place, cited: BAtlas 25 G1 Cosa;Pleiades;VALIDATE
+Pascua;4251;UN;UNI;;;not;;;;;UNIDENTIFIED
+dias;5814;APLN;AT;http://pleiades.stoa.org/places/642516;null;yes;CN;;An ancient place, cited: BAtlas 65 unlocated Dias;Pleiades;VALIDATE
+Et;7678;PPLN;PPT;;;not;;;;;VALIDATE
+Sant Martin;12212;PSTN;PPT;;;;;;;;VALIDATE
+Sant Martin;12233;PSTN;PPT;;;;;;;;VALIDATE
+Alfonso;14515;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Ferrando;14563;PN;FT; ; ;not; ; ; ; ;FOUND
+Sant Migael;19450;PSTN;PPT;;;;;;;;VALIDATE
+Calatraua;20666;PN;FT;;;;;;;;FOUND
+Vcles;20682;PPLN;PPT;;;not;;;;;VALIDATE
+Alcantara;20694;PLN;FT;http://sws.geonames.org/10241080; ;not;;;null;Geonames;FOUND
+Temple;20711;PLN;FT;http://sws.geonames.org/3108180; ;not;;;null;Geonames;FOUND
+Hospital;20725;PLN;FT;http://sws.geonames.org/3120627; ;not;;;null;Geonames;FOUND
+Alfonso;21738;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Alfonso;21897;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Alfonso;22070;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Alfonso;22167;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Alfonso;24183;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Alfonso;24767;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Alfonso;24919;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Miramomelin;25016;PN;FT;;;;;;;;FOUND
+Alfonso;26340;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Alfonso;26410;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Alfonso;28384;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Alfonso;28576;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Alfonso;28909;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Pedro;31930;PN;FT;;;yes;APLN;;;;FOUND
+Perez;31936;PN;FT;;;;;;;;FOUND
+Segouia;31945;PLN;FT;http://pleiades.stoa.org/places/236658;Segovia;not;;;null;Freeling;FOUND
+Alfonso;32035;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;32060;PN;FT;;;;;;;;FOUND
+Castiella;32073;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;32088;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;32098;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;32106;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilia;32118;PPLN;GENT;http://sws.geonames.org/2510911/;Sevilla;not;;; ;Medieval;VALIDATE
+Cordoua;32129;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;32140;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;32152;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Alcoçer;32180;PPLN;PPT;;;not;;;;;VALIDATE
+Vhepte;32198;PPLN;PPT;;;not;;;;;VALIDATE
+Sancho;32705;APLN;AT;http://sws.geonames.org/9170929; ;yes;PN; ;null;Geonames;VALIDATE
+Perez;32712;PN;FT;;;;;;;;FOUND
+Alfonso;32850;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;32875;PN;FT;;;;;;;;FOUND
+Castiella;32888;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;32901;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;32911;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;32919;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;32931;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;32942;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;32953;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Iaen;32965;PPLN;PPT;;;not;;;;;VALIDATE
+Yolant;32997;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Cuenca;33056;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Focalcaçar;33311;PPLN;PPT;;;not;;;;;VALIDATE
+Aluar;33795;PN;FT;;;;;;;;FOUND
+Garçia;33801;PN;FT;;;;;;;;FOUND
+Fromesta;33811;PPLN;PPT;;;not;;;;;VALIDATE
+Alfonso;33839;PN;FT;;;yes;APLN;;;;FOUND
+Dios;33865;PN;FT;;;;;;;;FOUND
+Castiella;33878;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;33891;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;33901;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;33909;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilia;33921;PLN;FT;http://sws.geonames.org/2510911/;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;33932;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murçia;33943;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;;null;Freeling;FOUND
+Jahen;33955;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Ferrando;34063;PN;FT; ; ;not; ; ; ; ;FOUND
+Sant;34172;PPLN;PPT;;;not;;;;;VALIDATE
+Medina;34193;PPLN;GENT;;;not;;;;;VALIDATE
+Cuenca;34236;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Huepte;34251;PPLN;PPT;;;not;;;;;VALIDATE
+Molina;34271;PN;FT;;;;;;;;FOUND
+Beteta;34314;PLN;FT;http://sws.geonames.org/6357394; ;not;;;null;Geonames;FOUND
+Huelamo;34329;PPLN;PPT;;;not;;;;;VALIDATE
+Sant;34518;PPLN;PPT;;;not;;;;;VALIDATE
+Medina;34539;PPLN;GENT;;;not;;;;;VALIDATE
+Cuenca;34579;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Huepte;34594;PPLN;PPT;;;not;;;;;VALIDATE
+Molina;34614;PN;FT;;;;;;;;FOUND
+Taio;34636;PPLN;GENT;http://sws.geonames.org/6357350; ; ; ; ;null;Geonames;VALIDATE
+Beteta;34653;PLN;FT;http://sws.geonames.org/6357394; ;not;;;null;Geonames;FOUND
+Huelamo;34668;PPLN;PPT;;;not;;;;;VALIDATE
+Ferrando;34768;PN;FT; ; ;not; ; ; ; ;FOUND
+Martin;35680;PN;FT; ; ;not; ; ; ; ;FOUND
+Alfonso;35713;PN;FT;;;yes;APLN;;;;FOUND
+Dios;35739;PN;FT;;;;;;;;FOUND
+Castilla;35752;PLN;FT;http://sws.geonames.org/9404707; ;not;;;null;Geonames;FOUND
+Toledo;35764;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;35774;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;35782;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;35794;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;35805;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murçia;35816;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;35829;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Toledo;35973;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Toledo;36084;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Toledo;36995;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Mayo;42189;PPLN;PPT;;;not;;;;;VALIDATE
+Alfonsso;42340;PN;FT; ; ;not; ; ; ; ;FOUND
+Alfonso;42361;PN;FT;;;yes;APLN;;;;FOUND
+Dios;42387;PN;FT;;;;;;;;FOUND
+Castilla;42400;PLN;FT;http://sws.geonames.org/9404707; ;not;;;null;Geonames;FOUND
+Toledo;42412;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;42422;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;42430;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuillia;42442;PPLN;GENT;;Sevilla;not;;; ;Medieval;VALIDATE
+Cordoua;42454;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;42465;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;42477;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Ferrand;42490;PN;FT;;;;;;;;FOUND
+Godiel;42498;UN;UNI;;;not;;;;;UNIDENTIFIED
+Toledo;42518;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Toledo;42710;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Santa;42787;PPLN;PPT;;;not;;;;;VALIDATE
+Maria;42794;PN;FT;;;;;;;;FOUND
+Toledo;42803;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Toledo;42959;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Toledo;42996;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Johan;43194;PN;FT;;;;;;;;FOUND
+Perez;43200;PN;FT;;;;;;;;FOUND
+Berlanga;43209;PLN;FT;http://sws.geonames.org/6355884; ;not;;;null;Geonames;FOUND
+Alfonsso;43379;PN;FT; ; ;not; ; ; ; ;FOUND
+Dios;43405;PN;FT;;;;;;;;FOUND
+Castiella;43418;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;43431;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;43441;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;43449;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;43461;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;43472;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;43483;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;43495;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Yolant;43528;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Berenguella;43578;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Beatriz;43609;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10241696;null;Geonames;FOUND
+Dios;43660;PN;FT;;;;;;;;FOUND
+Dios;43749;PN;FT;;;;;;;;FOUND
+Dios;43794;PN;FT; ; ;not; ; ; ; ;FOUND
+Dios;44495;PN;FT;;;;;;;;FOUND
+Sancta;44505;PPN;GENT;;;;;;;;VALIDATE
+Maria;44513;PN;FT; ; ;not; ; ; ; ;FOUND
+Cuenca;44724;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+cosa;45245;APLN;AT;http://pleiades.stoa.org/places/246360; ;yes;CN;;An ancient place, cited: BAtlas 25 G1 Cosa;Medieval;VALIDATE
+Dios;45264;PN;FT;;;;;;;;FOUND
+Odoart;45606;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Henrric;45645;PN;FT;;;;;;;;FOUND
+Henrric;45645;PN;FT;;;;;;;;FOUND
+Anglatierra;45656;PPLN;PPT;;;not;;;;;VALIDATE
+Alfonso;45710;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Alfonso;45759;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Yolant;45801;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Berenguella;45851;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Beatriz;45882;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10241696;null;Geonames;FOUND
+Alfonso;46053;PN;FT;;;yes;APLN;;;;FOUND
+Molina;46064;PN;FT;;;yes;APLN;;;;FOUND
+Frederic;46086;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Henrric;46110;PN;FT;;;yes;APLN;;;;FOUND
+Felipp;46133;PN;FT;;;yes;APLN;;;;FOUND
+Seuilla;46151;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Johan;46174;PN;FT;;;yes;APLN;;;;FOUND
+Toledo;46194;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Aboabdille;46216;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Nazar;46233;PLN;FT;http://sws.geonames.org/6359730; ;not; ; ;null;Geonames;FOUND
+Granada;46246;PLN;FT;http://sws.geonames.org/6357709;Gorad Granada,Grana,Granaada,Granada,Granado,Granata,Graná,Grenada,Grenade,Lungsod ng Granada,Qranada,garanada,ge la na da,ge lan na da,geulanada,ghrnatt,granada,grndh,guranada,jranada,kiranata,kran a da,Γρανάδα,Горад Гранада,Гранаада,Гранада,Ґранада,Գրանադա,גרנדה,جرانادا,غرناطة,غرناطہ,گرانادا,ग्रानाडा,ग्रानादा,গ্রানাডা,ਗਰਾਨਾਦਾ,கிரனாதா,กรานาดา,გრანადა,ግራናዳ,グラナダ,格拉纳达,格蘭納達,그라나다;not;;;null;Geonames;FOUND
+Apparicio;46286;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Burgos;46307;PLN;FT;http://sws.geonames.org/6356377;Burgi,Burgos,Burgosas,Burgoso,Burgus,brghsh,brgws,bu er ge si,buleugoseu,bur kos,burugosu,bwrgws,Бургос,Бурґос,برغش,برگوس,بورگوس,บูร์โกส,ブルゴス,布尔戈斯,부르고스;not;;;null;Geonames;FOUND
+Pero;46326;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Palencia;46342;PLN;FT;http://sws.geonames.org/6360072; ;not;;;null;Geonames;FOUND
+Remondo;46366;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Segouia;46385;PLN;FT;http://pleiades.stoa.org/places/236658;Segovia;not;;; ;Medieval;FOUND
+Pero;46408;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Siguenza;46424;PPLN;PPT;;;not;;;;;VALIDATE
+Gil;46448;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Osma;46463;PLN;FT;http://sws.geonames.org/3114836;Osma;not;;;null;Geonames;FOUND
+Mathe;46483;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Cuenca;46500;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Benito;46522;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Auila;46540;PLN;FT;http://pleiades.stoa.org/places/236361;Ávila;not;;;null;Freeling;FOUND
+Aznar;46561;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Calahorra;46578;PLN;FT;http://sws.geonames.org/6359026; ;not;;;null;Geonames;FOUND
+Lop;46603;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Cordoua;46618;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Adam;46641;PN;FT;;;yes;APLN;;;;FOUND
+Plazencia;46657;PPLN;PPT;;;not;;;;;VALIDATE
+Pascual;46682;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Jahen;46701;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Cartagena;46742;PLN;FT;http://sws.geonames.org/6359521; ;not;;;null;Geonames;FOUND
+Pedryuannes;46767;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Calatraua;46803;PN;FT;;;;;;;;FOUND
+Nunno;46828;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Alfonso;46859;PN;FT;;;yes;APLN;;;;FOUND
+Rodrigo;46888;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Symon;46921;PN;FT;;;yes;APLN;;;;FOUND
+Royz;46927;PN;FT;;;;;;;;FOUND
+Alfonso;46947;PN;FT;;;yes;APLN;;;;FOUND
+Ferrand;46977;PN;FT;;;yes;APLN;;;;FOUND
+Royz;46985;PN;FT;;;yes;APLN;;;;FOUND
+Castro;46993;PLN;FT;http://pleiades.stoa.org/places/413072;null;yes;PN; ;An ancient place, cited: BAtlas 42 B3 Castro;Pleiades;FOUND
+Pero;47015;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Nunnez;47020;PN;FT;;;;;;;;FOUND
+Nunno;47042;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Guillem;47048;PN;FT;;;;;;;;FOUND
+Pero;47071;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Guzman;47076;PN;FT;;;;;;;;FOUND
+Rodrigo;47098;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rodrig;47140;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Aluarez;47147;PN;FT;;;;;;;;FOUND
+Ferrand;47170;PN;FT;;;yes;APLN;;;;FOUND
+Garcia;47178;PN;FT;;;;;;;;FOUND
+Alfonso;47200;PN;FT;;;yes;APLN;;;;FOUND
+Garcia;47208;PN;FT;;;;;;;;FOUND
+Diago;47230;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Gomez;47236;PN;FT;;;;;;;;FOUND
+Gomez;47257;PN;FT;;;yes;APLN;;;;FOUND
+Royz;47263;PN;FT;;;;;;;;FOUND
+Gaston;47283;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Beart;47303;PPLN;PPT;;;not;;;;;VALIDATE
+Gui;47341;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Limoges;47358;PPLN;PPT;;;not;;;;;VALIDATE
+Iuan;47426;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Garcia;47431;PN;FT;;;;;;;;FOUND
+Aben;47487;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Niebla;47507;PLN;FT;http://sws.geonames.org/6358229; ;not;;;null;Geonames;FOUND
+Martin;47546;PN;FT;;;yes;APLN;;;;FOUND
+Ferrandez;47553;PN;FT;;;;;;;;FOUND
+Leon;47574;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Pero;47594;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Ouiedo;47610;PPLN;PPT;;;not;;;;;VALIDATE
+Zamora;47642;PLN;FT;http://sws.geonames.org/6362695; ;not;;;null;Geonames;FOUND
+Pero;47661;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Salamanca;47677;PLN;FT;http://pleiades.stoa.org/places/236642;Salamanca;not;;;null;Freeling;FOUND
+Pero;47702;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Astorga;47718;PLN;FT;http://sws.geonames.org/6358559;Astorga,Astorgo,Asturica Augusta,Estorga,a si tuo er jia,aseutoleuga,astrqt,astwrkha,asutoruga,Асторга,Աստորգա,آستورخا,أسترقة,アストルガ,阿斯托尔加,아스토르가;not;;;null;Geonames;FOUND
+Leonard;47741;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Cipdat;47760;PPLN;PPT;;;not;;;;;VALIDATE
+Migael;47782;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Lugo;47800;PLN;FT;http://sws.geonames.org/6359189;Gorad Luga,Lougo,Lucus Augusti,Lugas,Lugo,Lugu,lu gao,lu ge,lu ko,lugo,luko,lwghw,lwgw,rugo,Λούγο,Горад Луга,Луго,Լուգո,לוגו,لوغو,لوگو,लूगो,லுகோ,ลูโก,ლუგო,ሉጎ,ルーゴ,卢戈,盧高,루고;not;;;null;Geonames;FOUND
+Johan;47820;PN;FT;;;yes;APLN;;;;FOUND
+Orens;47837;PPLN;GENT;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/992080;null;not;;;An ancient place, cited: BAtlas 101 M6 Oriens;Pleiades;VALIDATE
+Gil;47858;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Tuy;47873;PPLN;GENT;http://sws.geonames.org/6360252;Tuj,Tuy,to~ui,tu yi,twy,Туй,توي,توی,トゥイ,图伊;not;;;null;Geonames;VALIDATE
+Johan;47892;PN;FT;;;yes;APLN;;;;FOUND
+Mendonedo;47909;PPLN;PPT;;;not;;;;;VALIDATE
+Pero;47934;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Coria;47950;PLN;FT;http://sws.geonames.org/6356764;Coria,Còria,Cória,Koria,Korija,ke li ya,qwryt,Кория,Корія,Կորիա,قورية,科里亚;not;;;null;Geonames;FOUND
+Silue;47993;PPLN;GENT;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/688028;null;not;;;An ancient place, cited: BAtlas 70 G1 Silo;Pleiades;VALIDATE
+Pelay;48014;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Perez;48020;PN;FT;;;;;;;;FOUND
+Sanctyago;48050;PPLN;PPT;;;not;;;;;VALIDATE
+Rodrigo;48075;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Alfonso;48083;PN;FT;;;;;;;;FOUND
+Martin;48106;PN;FT;;;yes;APLN;;;;FOUND
+Alfonso;48113;PN;FT;;;;;;;;FOUND
+Rodrigo;48136;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Gomez;48144;PN;FT;;;;;;;;FOUND
+Rodrigo;48165;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Johan;48195;PN;FT;;;yes;APLN;;;;FOUND
+Perez;48201;PN;FT;;;;;;;;FOUND
+Ferrand;48222;PN;FT;;;yes;APLN;;;;FOUND
+Martin;48253;PN;FT;;;yes;APLN;;;;FOUND
+Gil;48260;PLN;FT;http://sws.geonames.org/10055472; ;not;;;null;Geonames;FOUND
+Andreo;48279;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Sanctiago;48301;PPLN;PPT;;;not;;;;;VALIDATE
+Gonzaluo;48326;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rodrigo;48358;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rodriguez;48366;PN;FT;;;;;;;;FOUND
+Aluar;48391;PN;FT;;;yes;APLN;;;;FOUND
+Diaz;48397;PN;FT;;;;;;;;FOUND
+Pelay;48417;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Perez;48423;PN;FT;;;;;;;;FOUND
+Sancho;48491;PN;FT;;;yes;APLN;;;;FOUND
+Martinez;48498;PN;FT;;;yes;APLN;;;;FOUND
+Xodar;48510;PPLN;PPT;;;not;;;;;VALIDATE
+Garci;48553;PN;FT;;;;;;;;FOUND
+Perez;48559;PN;FT;;;;;;;;FOUND
+Toledo;48568;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Suero;48714;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Perez;48720;PN;FT;;;;;;;;FOUND
+Johan;48761;PN;FT;;;;;;;;FOUND
+Perez;48767;PN;FT;;;;;;;;FOUND
+Cuenca;48776;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Alfonso;48827;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Alfonso;48916;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;48941;PN;FT;;;;;;;;FOUND
+Castiella;48954;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;48967;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;48977;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;48985;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;48997;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;49008;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;49019;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;49031;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Yolant;49064;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Berenguella;49114;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Beatriz;49145;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10241696;null;Geonames;FOUND
+Sancho;49175;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Dios;49199;PN;FT;;;;;;;;FOUND
+Sancta;49229;PPN;GENT;;;;;;;;VALIDATE
+Maria;49237;PN;FT;;;;;;;;FOUND
+Toledo;49246;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Fita;49318;PPLN;PPT;;;not;;;;;VALIDATE
+C'uferuela;49347;PPLN;PPT;;;not;;;;;VALIDATE
+Toledo;49440;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Toledo;49895;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+cosa;50172;APLN;AT;http://pleiades.stoa.org/places/246360; ;yes;CN;;An ancient place, cited: BAtlas 25 G1 Cosa;Medieval;VALIDATE
+Sancho;50420;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Dios;50444;PN;FT;;;;;;;;FOUND
+Toledo;50474;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Dios;50588;PN;FT;;;;;;;;FOUND
+Castiella;50601;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;50614;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;50624;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;50632;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;50644;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;50655;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;50666;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;50678;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Fita;50768;PPLN;PPT;;;not;;;;;VALIDATE
+Toledo;51296;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Sancho;51363;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Alfonso;51453;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Yolant;51495;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Berenguella;51546;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Beatriz;51577;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10241696;null;Geonames;FOUND
+Odoart;51898;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Henrric;51937;PN;FT;;;;;;;;FOUND
+Henrric;51937;PN;FT;;;;;;;;FOUND
+Anglatierra;51948;PPLN;PPT;;;not;;;;;VALIDATE
+Alfonso;52002;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Alfonso;52029;PN;FT;;;yes;APLN;;;;FOUND
+Molina;52040;PN;FT;;;yes;APLN;;;;FOUND
+Frederic;52061;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Henrric;52084;PN;FT;;;yes;APLN;;;;FOUND
+Manuel;52106;PN;FT;;;yes;APLN;;;;FOUND
+Ferrando;52127;PN;FT;;;yes;APLN;;;;FOUND
+Felipp;52151;PN;FT;;;yes;APLN;;;;FOUND
+Seuilla;52169;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Sancho;52191;PN;FT;;;yes;APLN;;;;FOUND
+Toledo;52209;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Johan;52251;PN;FT;;;yes;APLN;;;;FOUND
+Sanctyago;52271;PPLN;PPT;;;not;;;;;VALIDATE
+Aboabdille;52296;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Aben;52307;PPLN;GENT;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/915817;null;not;;;An ancient place, cited: BAtlas 93 unlocated Aban;Pleiades;VALIDATE
+Naçar;52312;PPLN;GENT;http://sws.geonames.org/6359730; ;not;;;null;Geonames;VALIDATE
+Rey;52318;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Granada;52326;PLN;FT;http://sws.geonames.org/6357709;Gorad Granada,Grana,Granaada,Granada,Granado,Granata,Graná,Grenada,Grenade,Lungsod ng Granada,Qranada,garanada,ge la na da,ge lan na da,geulanada,ghrnatt,granada,grndh,guranada,jranada,kiranata,kran a da,Γρανάδα,Горад Гранада,Гранаада,Гранада,Ґранада,Գրանադա,גרנדה,جرانادا,غرناطة,غرناطہ,گرانادا,ग्रानाडा,ग्रानादा,গ্রানাডা,ਗਰਾਨਾਦਾ,கிரனாதா,กรานาดา,გრანადა,ግራናዳ,グラナダ,格拉纳达,格蘭納達,그라나다;not;;;null;Geonames;FOUND
+Rey;52348;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Mahomat;52366;PN;FT;;;;;;;;FOUND
+Aben;52374;PLN;FT;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/915817; ;not;;;An ancient place, cited: BAtlas 93 unlocated Aban;Medieval;FOUND
+Aben;52387;PLN;FT;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/915817; ;not;;;An ancient place, cited: BAtlas 93 unlocated Aban;Medieval;FOUND
+Murcia;52404;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Aben;52442;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Niebla;52462;PLN;FT;http://sws.geonames.org/6358229; ;not;;;null;Geonames;FOUND
+Apparicio;52501;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Burgos;52522;PLN;FT;http://sws.geonames.org/6356377;Burgi,Burgos,Burgosas,Burgoso,Burgus,brghsh,brgws,bu er ge si,buleugoseu,bur kos,burugosu,bwrgws,Бургос,Бурґос,برغش,برگوس,بورگوس,บูร์โกส,ブルゴス,布尔戈斯,부르고스;not;;;null;Geonames;FOUND
+Pero;52544;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Palencia;52560;PLN;FT;http://sws.geonames.org/6360072; ;not;;;null;Geonames;FOUND
+Remondo;52584;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Segouia;52603;PLN;FT;http://pleiades.stoa.org/places/236658;Segovia;not;;; ;Medieval;FOUND
+Pero;52626;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Siguença;52642;PPLN;PPT;;;not;;;;;VALIDATE
+Gil;52666;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Osma;52681;PLN;FT;http://sws.geonames.org/3114836;Osma;not;;;null;Geonames;FOUND
+Mathe;52701;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Cuenca;52718;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Benito;52740;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Auila;52758;PLN;FT;http://pleiades.stoa.org/places/236361;Ávila;not;;; ;Medieval;FOUND
+Aznar;52779;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Calahorra;52796;PLN;FT;http://sws.geonames.org/6359026; ;not;;;null;Geonames;FOUND
+Lop;52821;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Cordoua;52836;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Adam;52859;PN;FT;;;yes;APLN;;;;FOUND
+Plazencia;52875;PPLN;PPT;;;not;;;;;VALIDATE
+Pascual;52900;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Jahen;52919;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Cartagena;52960;PLN;FT;http://sws.geonames.org/6359521; ;not;;;null;Geonames;FOUND
+Pedryuannes;52985;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Maestre;52997;PLN;FT;http://sws.geonames.org/6478142; ;not;;;null;Geonames;FOUND
+Orden;53012;UN;UNI;;;not;;;;;UNIDENTIFIED
+Calatraua;53021;PN;FT;;;;;;;;FOUND
+Castiella;53082;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Garci;53103;PN;FT;;;;;;;;FOUND
+Suarez;53109;UN;UNI;;;not;;;;;UNIDENTIFIED
+Murcia;53145;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Ferrando;53171;PN;FT;;;;;;;;FOUND
+Nunno;53224;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Alfonso;53255;PN;FT;;;yes;APLN;;;;FOUND
+Rodrigo;53284;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Symon;53317;PN;FT;;;yes;APLN;;;;FOUND
+Royz;53323;PN;FT;;;;;;;;FOUND
+Alfonso;53343;PN;FT;;;yes;APLN;;;;FOUND
+Ferrand;53373;PN;FT;;;yes;APLN;;;;FOUND
+Royz;53381;PN;FT;;;yes;APLN;;;;FOUND
+Castro;53389;PLN;FT;http://pleiades.stoa.org/places/413072; ;yes;PN; ;An ancient place, cited: BAtlas 42 B3 Castro;Medieval;FOUND
+Pero;53411;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Nunnez;53416;PN;FT;;;;;;;;FOUND
+Nunno;53438;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Guillem;53444;PN;FT;;;;;;;;FOUND
+Pero;53467;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Guzman;53472;PN;FT;;;;;;;;FOUND
+Rodrigo;53494;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rodrig;53536;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Aluarez;53543;PN;FT;;;;;;;;FOUND
+Ferrand;53566;PN;FT;;;yes;APLN;;;;FOUND
+Garcia;53574;PN;FT;;;;;;;;FOUND
+Alfonso;53596;PN;FT;;;yes;APLN;;;;FOUND
+Garcia;53604;PN;FT;;;;;;;;FOUND
+Diago;53626;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Gomez;53632;PN;FT;;;;;;;;FOUND
+Gomez;53653;PN;FT;;;yes;APLN;;;;FOUND
+Royz;53659;PN;FT;;;;;;;;FOUND
+Gaston;53679;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Beart;53699;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;53719;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Gui;53738;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Limoges;53755;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;53777;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Alfonso;53810;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Iuan;53823;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Garcia;53828;PN;FT;;;;;;;;FOUND
+Sancho;53955;PN;FT;;;yes;APLN;;;;FOUND
+Martinez;53962;PN;FT;;;yes;APLN;;;;FOUND
+Xodar;53974;PPLN;PPT;;;not;;;;;VALIDATE
+Garci;54017;PN;FT;;;;;;;;FOUND
+Perez;54023;PN;FT;;;;;;;;FOUND
+Toledo;54032;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Martin;54083;PN;FT;;;yes;APLN;;;;FOUND
+Ferrandez;54090;PN;FT;;;;;;;;FOUND
+Leon;54111;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Pero;54131;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Ouiedo;54147;PPLN;PPT;;;not;;;;;VALIDATE
+C'amora;54179;PPLN;PPT;;;not;;;;;VALIDATE
+Pero;54199;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Salamanca;54215;PLN;FT;http://pleiades.stoa.org/places/236642;Salamanca;not;;; ;Medieval;FOUND
+Pedro;54240;PN;FT;;;yes;APLN;;;;FOUND
+Astorga;54257;PLN;FT;http://sws.geonames.org/6358559;Astorga,Astorgo,Asturica Augusta,Estorga,a si tuo er jia,aseutoleuga,astrqt,astwrkha,asutoruga,Асторга,Աստորգա,آستورخا,أسترقة,アストルガ,阿斯托尔加,아스토르가;not;;;null;Geonames;FOUND
+Leonard;54280;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Cibdat;54299;PPLN;PPT;;;not;;;;;VALIDATE
+Migael;54321;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Lugo;54339;PLN;FT;http://sws.geonames.org/6359189;Gorad Luga,Lougo,Lucus Augusti,Lugas,Lugo,Lugu,lu gao,lu ge,lu ko,lugo,luko,lwghw,lwgw,rugo,Λούγο,Горад Луга,Луго,Լուգո,לוגו,لوغو,لوگو,लूगो,லுகோ,ลูโก,ლუგო,ሉጎ,ルーゴ,卢戈,盧高,루고;not;;;null;Geonames;FOUND
+Johan;54359;PN;FT;;;yes;APLN;;;;FOUND
+Orens;54376;PLN;FT;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/992080;null;not;;;An ancient place, cited: BAtlas 101 M6 Oriens;Medieval;FOUND
+Gil;54397;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Tuy;54412;PLN;FT;http://sws.geonames.org/6360252;Tuj,Tuy,to~ui,tu yi,twy,Туй,توي,توی,トゥイ,图伊;not;;;null;Medieval;FOUND
+Johan;54431;PN;FT;;;yes;APLN;;;;FOUND
+Mondonnedo;54448;PPLN;GENT;http://sws.geonames.org/6359191; ;not;;;null;Geonames;VALIDATE
+Pero;54474;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Coria;54490;PLN;FT;http://sws.geonames.org/6356764;Coria,Còria,Cória,Koria,Korija,ke li ya,qwryt,Кория,Корія,Կորիա,قورية,科里亚;not;;;null;Geonames;FOUND
+Silue;54533;PLN;FT;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/688028;null;not;;;An ancient place, cited: BAtlas 70 G1 Silo;Medieval;FOUND
+Pelay;54554;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Perez;54560;PN;FT;;;;;;;;FOUND
+Maestre;54566;PLN;FT;http://sws.geonames.org/6478142; ;not;;;null;Geonames;FOUND
+Orden;54581;UN;UNI;;;not;;;;;UNIDENTIFIED
+Sanctyago;54590;PPLN;PPT;;;not;;;;;VALIDATE
+Gonçaluo;54611;PN;FT;;;;;;;;FOUND
+Morant;54620;UN;UNI;;;not;;;;;UNIDENTIFIED
+Suero;54706;UN;UNI;;;not;;;;;UNIDENTIFIED
+Perez;54712;PN;FT;;;;;;;;FOUND
+Notario;54718;UN;UNI;;;not;;;;;UNIDENTIFIED
+Rey;54731;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Rodrig;54758;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Alfonso;54765;PN;FT;;;;;;;;FOUND
+Martin;54788;PN;FT;;;yes;APLN;;;;FOUND
+Alfonso;54795;PN;FT;;;;;;;;FOUND
+Rodrigo;54818;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Gomez;54826;PN;FT;;;;;;;;FOUND
+Rodrigo;54847;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Johan;54877;PN;FT;;;yes;APLN;;;;FOUND
+Perez;54883;PN;FT;;;;;;;;FOUND
+Ferand;54904;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Martin;54934;PN;FT;;;yes;APLN;;;;FOUND
+Gil;54941;PLN;FT;http://sws.geonames.org/10055472; ;not;;;null;Geonames;FOUND
+Andreo;54960;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Sanctyago;54982;PPLN;PPT;;;not;;;;;VALIDATE
+Gonçaluo;55007;PN;FT;;;yes;APLN;;;;FOUND
+Rodrigo;55039;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rodriguez;55047;PN;FT;;;;;;;;FOUND
+Aluar;55072;PN;FT;;;yes;APLN;;;;FOUND
+Diaz;55078;PN;FT;;;;;;;;FOUND
+Pelay;55098;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Perez;55104;PN;FT;;;;;;;;FOUND
+Millan;55121;UN;UNI;;;not;;;;;UNIDENTIFIED
+Ayllon;55131;PPLN;PPT;;;not;;;;;VALIDATE
+Alfonso;55182;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Alfonso;55271;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Dios;55297;PN;FT;;;;;;;;FOUND
+Castiella;55310;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;55323;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;55333;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;55341;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuillia;55353;PLN;FT;;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;55365;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;55376;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;55388;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Sancho;55408;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Toledo;55451;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Fita;55494;PPLN;PPT;;;not;;;;;VALIDATE
+Garci;55605;PN;FT;;;;;;;;FOUND
+Martinez;55611;PN;FT;;;yes;APLN;;;;FOUND
+Toledo;55623;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Sancho;55944;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Toledo;56009;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Johan;56296;PN;FT;;;;;;;;FOUND
+Perez;56302;PN;FT;;;;;;;;FOUND
+Cuenca;56311;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Alfonso;56362;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Alfonso;56451;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;56476;PN;FT;;;;;;;;FOUND
+Castiella;56489;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;56502;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;56512;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;56520;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;56532;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;56543;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;56554;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;56566;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Yolant;56599;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Berenguella;56649;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Beatriz;56680;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10241696;null;Geonames;FOUND
+Cuenca;56760;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+cosa;57534;APLN;AT;http://pleiades.stoa.org/places/246360; ;yes;CN;;An ancient place, cited: BAtlas 25 G1 Cosa;Medieval;VALIDATE
+Dios;57553;PN;FT;;;;;;;;FOUND
+Odoart;58047;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Henrric;58086;PN;FT;;;;;;;;FOUND
+Henrric;58086;PN;FT;;;;;;;;FOUND
+Anglatierra;58097;PPLN;PPT;;;not;;;;;VALIDATE
+Alfonso;58151;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Alfonso;58200;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Yolant;58242;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Berenguella;58292;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Beatriz;58323;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10241696;null;Geonames;FOUND
+Sancho;58494;PN;FT;;;yes;APLN;;;;FOUND
+Toledo;58512;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Rey;58536;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Felipp;58552;PN;FT;;;yes;APLN;;;;FOUND
+Seuilla;58570;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Alfonsso;58590;PN;FT;;;yes;APLN;;;;FOUND
+Molina;58602;PN;FT;;;yes;APLN;;;;FOUND
+Frederich;58621;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Henrrich;58643;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Aboabdille;58664;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Naçar;58681;PPLN;GENT;http://sws.geonames.org/6359730; ; ; ; ;null;Geonames;VALIDATE
+Granada;58694;PLN;FT;http://sws.geonames.org/6357709;Gorad Granada,Grana,Granaada,Granada,Granado,Granata,Graná,Grenada,Grenade,Lungsod ng Granada,Qranada,garanada,ge la na da,ge lan na da,geulanada,ghrnatt,granada,grndh,guranada,jranada,kiranata,kran a da,Γρανάδα,Горад Гранада,Гранаада,Гранада,Ґранада,Գրանադա,גרנדה,جرانادا,غرناطة,غرناطہ,گرانادا,ग्रानाडा,ग्रानादा,গ্রানাডা,ਗਰਾਨਾਦਾ,கிரனாதா,กรานาดา,გრანადა,ግራናዳ,グラナダ,格拉纳达,格蘭納達,그라나다;not;;;null;Geonames;FOUND
+Apparicio;58731;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Burgos;58752;PLN;FT;http://sws.geonames.org/6356377;Burgi,Burgos,Burgosas,Burgoso,Burgus,brghsh,brgws,bu er ge si,buleugoseu,bur kos,burugosu,bwrgws,Бургос,Бурґос,برغش,برگوس,بورگوس,บูร์โกส,ブルゴス,布尔戈斯,부르고스;not;;;null;Geonames;FOUND
+Pero;58771;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Palencia;58787;PLN;FT;http://sws.geonames.org/6360072; ;not;;;null;Geonames;FOUND
+Remondo;58808;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Segouia;58827;PLN;FT;http://pleiades.stoa.org/places/236658;Segovia;not;;; ;Medieval;FOUND
+Pero;58847;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Siguença;58863;PPLN;PPT;;;not;;;;;VALIDATE
+Gil;58884;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Osma;58899;PLN;FT;http://sws.geonames.org/3114836;Osma;not;;;null;Geonames;FOUND
+Mathe;58916;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Cuenca;58933;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Benito;58952;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Auila;58970;PLN;FT;http://pleiades.stoa.org/places/236361;Ávila;not;;; ;Medieval;FOUND
+Aznar;58988;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Calahorra;59005;PLN;FT;http://sws.geonames.org/6359026; ;not;;;null;Geonames;FOUND
+Lopp;59027;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Cordoua;59043;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Adam;59063;PN;FT;;;yes;APLN;;;;FOUND
+Plazencia;59079;PPLN;PPT;;;not;;;;;VALIDATE
+Paschual;59101;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Jahen;59121;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Carthagena;59159;PPLN;GENT;http://sws.geonames.org/6359521; ;not;;;null;Geonames;VALIDATE
+Pedriuanes;59182;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Calatraua;59217;PN;FT;;;;;;;;FOUND
+Nunno;59239;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Alfonsso;59267;PN;FT;;;yes;APLN;;;;FOUND
+Rodrigo;59294;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Simon;59324;PN;FT;;;yes;APLN;;;;FOUND
+Royz;59330;PN;FT;;;;;;;;FOUND
+Alfonsso;59347;PN;FT;;;yes;APLN;;;;FOUND
+Ferrand;59376;PN;FT;;;yes;APLN;;;;FOUND
+Royz;59384;PN;FT;;;yes;APLN;;;;FOUND
+Castro;59392;PLN;FT;http://pleiades.stoa.org/places/413072; ;yes;PN; ;An ancient place, cited: BAtlas 42 B3 Castro;Medieval;FOUND
+Pero;59411;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Nunnez;59416;PN;FT;;;;;;;;FOUND
+Nunno;59435;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Guillem;59441;PN;FT;;;;;;;;FOUND
+Pero;59461;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Guzman;59466;PN;FT;;;;;;;;FOUND
+Rodrigo;59485;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rodrigo;59524;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Aluarez;59532;PN;FT;;;;;;;;FOUND
+Ferrand;59552;PN;FT;;;yes;APLN;;;;FOUND
+Garcia;59560;PN;FT;;;;;;;;FOUND
+Alfonso;59579;PN;FT;;;yes;APLN;;;;FOUND
+Garcia;59587;PN;FT;;;;;;;;FOUND
+Diago;59606;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Gomez;59612;PN;FT;;;;;;;;FOUND
+Gomez;59630;PN;FT;;;yes;APLN;;;;FOUND
+Royz;59636;PN;FT;;;;;;;;FOUND
+Gutier;59653;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Suer;59679;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Alfonsso;59704;PN;FT;;;yes;APLN;;;;FOUND
+Costantinopla;59746;PLN;FT;http://pleiades.stoa.org/places/520998;Constantinopla /Estambul;not;;;null;Freeling;FOUND
+Berenguella;59786;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Loys;59835;PN;FT;;;yes;APLN;;;;FOUND
+Belmont;59900;PPLN;PPT;;;not;;;;;VALIDATE
+Johan;59937;PN;FT;;;yes;APLN;;;;FOUND
+Montfort;60003;PPLN;PPT;;;not;;;;;VALIDATE
+Mahomath;60041;PN;FT;;;yes;APLN;;;;FOUND
+Mahomath;60056;PN;FT; ; ;not; ; ; ; ;FOUND
+Murcia;60082;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Gaston;60118;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Beart;60138;PPLN;PPT;;;not;;;;;VALIDATE
+Guy;60173;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Limoges;60190;PPLN;PPT;;;not;;;;;VALIDATE
+Iuan;60255;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Garcia;60260;PN;FT;;;;;;;;FOUND
+Johan;60313;PN;FT;;;yes;APLN;;;;FOUND
+Sanctiago;60333;PPLN;PPT;;;not;;;;;VALIDATE
+Manuel;60375;PN;FT;;;yes;APLN;;;;FOUND
+Ferrando;60394;PN;FT;;;yes;APLN;;;;FOUND
+Loys;60415;PN;FT;;;yes;APLN;;;;FOUND
+Aben;60432;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Niebla;60453;PLN;FT;http://sws.geonames.org/6358229; ;not;;;null;Geonames;FOUND
+Martin;60489;PN;FT;;;yes;APLN;;;;FOUND
+Leon;60507;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Pero;60524;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Ouiedo;60540;PPLN;PPT;;;not;;;;;VALIDATE
+Suero;60559;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Perez;60565;PN;FT;;;;;;;;FOUND
+C'amora;60582;PPLN;PPT;;;not;;;;;VALIDATE
+Pero;60602;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Salamanca;60618;PLN;FT;http://pleiades.stoa.org/places/236642;Salamanca;not;;; ;Medieval;FOUND
+Pero;60640;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Astorga;60656;PLN;FT;http://sws.geonames.org/6358559;Astorga,Astorgo,Asturica Augusta,Estorga,a si tuo er jia,aseutoleuga,astrqt,astwrkha,asutoruga,Асторга,Աստորգա,آستورخا,أسترقة,アストルガ,阿斯托尔加,아스토르가;not;;;null;Geonames;FOUND
+Leonart;60676;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Cipdat;60695;PPLN;PPT;;;not;;;;;VALIDATE
+Migael;60714;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Lugo;60732;PLN;FT;http://sws.geonames.org/6359189;Gorad Luga,Lougo,Lucus Augusti,Lugas,Lugo,Lugu,lu gao,lu ge,lu ko,lugo,luko,lwghw,lwgw,rugo,Λούγο,Горад Луга,Луго,Լուգո,לוגו,لوغو,لوگو,लूगो,லுகோ,ลูโก,ლუგო,ሉጎ,ルーゴ,卢戈,盧高,루고;not;;;null;Geonames;FOUND
+Johan;60749;PN;FT;;;yes;APLN;;;;FOUND
+Orens;60766;PLN;FT;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/992080;null;not;;;An ancient place, cited: BAtlas 101 M6 Oriens;Medieval;FOUND
+Gil;60784;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Tuy;60799;PLN;FT;http://sws.geonames.org/6360252;Tuj,Tuy,to~ui,tu yi,twy,Туй,توي,توی,トゥイ,图伊;not;;;null;Medieval;FOUND
+Johan;60815;PN;FT;;;yes;APLN;;;;FOUND
+Mendonnedo;60832;PPLN;PPT;;;not;;;;;VALIDATE
+Pero;60855;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Coria;60871;PLN;FT;http://sws.geonames.org/6356764;Coria,Còria,Cória,Koria,Korija,ke li ya,qwryt,Кория,Корія,Կորիա,قورية,科里亚;not;;;null;Geonames;FOUND
+Silue;60911;PLN;FT;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/688028;null;not;;;An ancient place, cited: BAtlas 70 G1 Silo;Medieval;FOUND
+Pelay;60929;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Perez;60935;PN;FT;;;;;;;;FOUND
+Santiago;60965;PN;FT;;;;;;;;FOUND
+Garci;60986;PN;FT;;;yes;APLN;;;;FOUND
+Ferrandez;60992;PN;FT;;;;;;;;FOUND
+Alcantara;61026;PLN;FT;http://sws.geonames.org/10241080; ;not;;;null;Geonames;FOUND
+Martin;61048;PN;FT;;;yes;APLN;;;;FOUND
+Nunnez;61055;PN;FT;;;;;;;;FOUND
+Temple;61087;PLN;FT;http://sws.geonames.org/3108180; ;not;;;null;Geonames;FOUND
+Alfonso;61106;PN;FT;;;yes;APLN;;;;FOUND
+Ferrandez;61114;PN;FT;;;;;;;;FOUND
+Rodrigo;61149;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Alfonsso;61157;PN;FT;;;;;;;;FOUND
+Martin;61178;PN;FT;;;yes;APLN;;;;FOUND
+Alfonso;61185;PN;FT;;;;;;;;FOUND
+Rodrigo;61205;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Gomez;61213;PN;FT;;;;;;;;FOUND
+Rodrigo;61231;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Johan;61258;PN;FT;;;yes;APLN;;;;FOUND
+Perez;61264;PN;FT;;;;;;;;FOUND
+Ferrand;61282;PN;FT;;;yes;APLN;;;;FOUND
+Martin;61310;PN;FT;;;yes;APLN;;;;FOUND
+Gil;61317;PLN;FT;http://sws.geonames.org/10055472; ;not;;;null;Geonames;FOUND
+Andreo;61333;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Sanctiago;61355;PPLN;PPT;;;not;;;;;VALIDATE
+Gonçaluo;61377;PN;FT;;;yes;APLN;;;;FOUND
+Rodrigo;61406;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rodriguez;61414;PN;FT;;;;;;;;FOUND
+Aluar;61436;PN;FT;;;yes;APLN;;;;FOUND
+Diaz;61442;PN;FT;;;;;;;;FOUND
+Pelay;61459;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Perez;61465;PN;FT;;;;;;;;FOUND
+Castiella;61519;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Garci;61537;PN;FT;;;;;;;;FOUND
+Suarez;61543;UN;UNI;;;not;;;;;UNIDENTIFIED
+Regno;61568;PPLN;PPT;;;not;;;;;VALIDATE
+Murcia;61577;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Ferrando;61600;PN;FT;;;;;;;;FOUND
+Sancho;61694;PN;FT;;;yes;APLN;;;;FOUND
+Martinez;61701;PN;FT;;;yes;APLN;;;;FOUND
+Xodar;61713;PPLN;PPT;;;not;;;;;VALIDATE
+Garci;61753;PN;FT;;;;;;;;FOUND
+Perez;61759;PN;FT;;;;;;;;FOUND
+Toledo;61768;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Andaluzia;61798;PLN;FT;http://sws.geonames.org/2593109/;Andalucía;not; ; ;null;Freeling;FOUND
+Gonçaluo;61815;PN;FT;;;;;;;;FOUND
+Morant;61824;UN;UNI;;;not;;;;;UNIDENTIFIED
+Leon;61848;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;61889;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Suero;61910;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Perez;61916;PN;FT;;;;;;;;FOUND
+C'amora;61933;PPLN;PPT;;;not;;;;;VALIDATE
+Johan;61975;PN;FT;;;;;;;;FOUND
+Perez;61981;PN;FT;;;;;;;;FOUND
+Cuenca;61990;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Alfonsso;62040;PN;FT; ; ;not; ; ; ; ;FOUND
+Alfonsso;62130;PN;FT; ; ;not; ; ; ; ;FOUND
+Dios;62156;PN;FT;;;;;;;;FOUND
+Castiella;62169;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;62182;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;62192;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;62200;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;62212;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;62223;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;62234;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;62246;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Yolant;62279;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Ferrando;62326;PN;FT; ; ;not; ; ; ; ;FOUND
+Dios;62378;PN;FT;;;;;;;;FOUND
+Dios;62467;PN;FT;;;;;;;;FOUND
+Dios;62512;PN;FT; ; ;not; ; ; ; ;FOUND
+Dios;63212;PN;FT;;;;;;;;FOUND
+Sancta;63222;PPN;GENT;;;;;;;;VALIDATE
+Maria;63230;PN;FT; ; ;not; ; ; ; ;FOUND
+Toledo;63457;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+cosa;63976;APLN;AT;http://pleiades.stoa.org/places/246360; ;yes;CN;;An ancient place, cited: BAtlas 25 G1 Cosa;Medieval;VALIDATE
+Dios;63995;PN;FT;;;;;;;;FOUND
+Alfonso;64346;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Yolant;64388;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Ferrando;64435;PN;FT; ; ;not; ; ; ; ;FOUND
+Sancho;64608;PN;FT;;;yes;APLN;;;;FOUND
+Toledo;64626;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Phelip;64665;PN;FT;;;yes;APLN;;;;FOUND
+Seuilla;64683;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Aboabdille;64706;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Nazar;64723;PLN;FT;http://sws.geonames.org/6359730; ;not; ; ;null;Geonames;FOUND
+Granada;64736;PLN;FT;http://sws.geonames.org/6357709;Gorad Granada,Grana,Granaada,Granada,Granado,Granata,Graná,Grenada,Grenade,Lungsod ng Granada,Qranada,garanada,ge la na da,ge lan na da,geulanada,ghrnatt,granada,grndh,guranada,jranada,kiranata,kran a da,Γρανάδα,Горад Гранада,Гранаада,Гранада,Ґранада,Գրանադա,גרנדה,جرانادا,غرناطة,غرناطہ,گرانادا,ग्रानाडा,ग्रानादा,গ্রানাডা,ਗਰਾਨਾਦਾ,கிரனாதா,กรานาดา,გრანადა,ግራናዳ,グラナダ,格拉纳达,格蘭納達,그라나다;not;;;null;Geonames;FOUND
+Apparicio;64776;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Burgos;64797;PLN;FT;http://sws.geonames.org/6356377;Burgi,Burgos,Burgosas,Burgoso,Burgus,brghsh,brgws,bu er ge si,buleugoseu,bur kos,burugosu,bwrgws,Бургос,Бурґос,برغش,برگوس,بورگوس,บูร์โกส,ブルゴス,布尔戈斯,부르고스;not;;;null;Geonames;FOUND
+Ferrando;64816;PN;FT;;;yes;APLN;;;;FOUND
+Palencia;64836;PLN;FT;http://sws.geonames.org/6360072; ;not;;;null;Geonames;FOUND
+Remondo;64857;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Segouia;64876;PLN;FT;http://pleiades.stoa.org/places/236658;Segovia;not;;; ;Medieval;FOUND
+Pero;64896;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Siguença;64912;PPLN;PPT;;;not;;;;;VALIDATE
+Gil;64933;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Osma;64948;PLN;FT;http://sws.geonames.org/3114836;Osma;not;;;null;Geonames;FOUND
+Mathe;64965;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Cuenca;64982;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Benito;65001;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Auila;65019;PLN;FT;http://pleiades.stoa.org/places/236361;Ávila;not;;; ;Medieval;FOUND
+Aznar;65037;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Calahorra;65054;PLN;FT;http://sws.geonames.org/6359026; ;not;;;null;Geonames;FOUND
+Lop;65076;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Cordoua;65091;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Adam;65111;PN;FT;;;yes;APLN;;;;FOUND
+Plazencia;65127;PPLN;PPT;;;not;;;;;VALIDATE
+Pasqual;65149;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Jahen;65168;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Carthagena;65206;PLN;FT;http://sws.geonames.org/6359521; ;not;;;null;Medieval;FOUND
+Pedriuannes;65229;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Calatraua;65265;PN;FT;;;;;;;;FOUND
+Alfonsso;65287;PN;FT;;;yes;APLN;;;;FOUND
+Molina;65299;PN;FT;;;yes;APLN;;;;FOUND
+Fredric;65318;PN;FT;;;yes;APLN;;;;FOUND
+Nunno;65338;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Alfonsso;65366;PN;FT;;;yes;APLN;;;;FOUND
+Symon;65393;PN;FT;;;yes;APLN;;;;FOUND
+Royz;65399;PN;FT;;;;;;;;FOUND
+Alfonsso;65416;PN;FT;;;yes;APLN;;;;FOUND
+Royz;65453;PN;FT;;;yes;APLN;;;;FOUND
+Castro;65461;PLN;FT;http://pleiades.stoa.org/places/413072; ;yes;PN; ;An ancient place, cited: BAtlas 42 B3 Castro;Medieval;FOUND
+Pero;65480;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Nunnez;65485;PN;FT;;;;;;;;FOUND
+Nunno;65504;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Guillem;65510;PN;FT;;;;;;;;FOUND
+Pero;65530;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Guzman;65535;PN;FT;;;;;;;;FOUND
+Rodrigo;65554;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rodrigo;65593;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Aluarez;65601;PN;FT;;;;;;;;FOUND
+Ferrant;65621;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Garcia;65629;PN;FT;;;;;;;;FOUND
+Alfonsso;65648;PN;FT;;;yes;APLN;;;;FOUND
+Garcia;65657;PN;FT;;;;;;;;FOUND
+Diago;65676;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Gomez;65682;PN;FT;;;;;;;;FOUND
+Gomez;65700;PN;FT;;;yes;APLN;;;;FOUND
+Royz;65706;PN;FT;;;;;;;;FOUND
+Gutier;65723;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Suer;65749;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Alfonsso;65774;PN;FT;;;yes;APLN;;;;FOUND
+Constantinopla;65816;PPLN;GENT;;;not;;;;;VALIDATE
+Berenguella;65857;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Loys;65906;PN;FT;;;yes;APLN;;;;FOUND
+Belmont;65971;PPLN;PPT;;;not;;;;;VALIDATE
+Iohan;66008;PN;FT;;;yes;APLN;;;;FOUND
+Montfort;66074;PPLN;PPT;;;not;;;;;VALIDATE
+Mahomat;66112;PN;FT;;;yes;APLN;;;;FOUND
+Mahomat;66126;PN;FT; ; ;not; ; ; ; ;FOUND
+Murcia;66150;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Gaston;66186;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Beart;66206;PPLN;PPT;;;not;;;;;VALIDATE
+Gui;66241;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Limoges;66258;PPLN;PPT;;;not;;;;;VALIDATE
+Iuan;66323;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Garcia;66328;PN;FT;;;;;;;;FOUND
+Iohan;66384;PN;FT;;;yes;APLN;;;;FOUND
+Sanctiago;66404;PPLN;PPT;;;not;;;;;VALIDATE
+Aben;66446;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Niebla;66466;PLN;FT;http://sws.geonames.org/6358229; ;not;;;null;Geonames;FOUND
+Martin;66502;PN;FT;;;yes;APLN;;;;FOUND
+Leon;66520;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Pero;66537;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Ouiedo;66553;PPLN;PPT;;;not;;;;;VALIDATE
+Suero;66572;PPN;PPT;;;yes;APLN;;;;VALIDATE
+C'amora;66589;PPLN;PPT;;;not;;;;;VALIDATE
+Pero;66609;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Salamanca;66625;PLN;FT;http://pleiades.stoa.org/places/236642;Salamanca;not;;; ;Medieval;FOUND
+Pero;66647;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Astorga;66663;PLN;FT;http://sws.geonames.org/6358559;Astorga,Astorgo,Asturica Augusta,Estorga,a si tuo er jia,aseutoleuga,astrqt,astwrkha,asutoruga,Асторга,Աստորգա,آستورخا,أسترقة,アストルガ,阿斯托尔加,아스토르가;not;;;null;Geonames;FOUND
+Leonart;66683;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Cipdat;66702;PPLN;PPT;;;not;;;;;VALIDATE
+Migael;66721;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Lugo;66739;PLN;FT;http://sws.geonames.org/6359189;Gorad Luga,Lougo,Lucus Augusti,Lugas,Lugo,Lugu,lu gao,lu ge,lu ko,lugo,luko,lwghw,lwgw,rugo,Λούγο,Горад Луга,Луго,Լուգո,לוגו,لوغو,لوگو,लूगो,லுகோ,ลูโก,ლუგო,ሉጎ,ルーゴ,卢戈,盧高,루고;not;;;null;Geonames;FOUND
+Iohan;66756;PN;FT;;;yes;APLN;;;;FOUND
+Orens;66773;PLN;FT;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/992080;null;not;;;An ancient place, cited: BAtlas 101 M6 Oriens;Medieval;FOUND
+Gil;66791;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Tuy;66806;PLN;FT;http://sws.geonames.org/6360252;Tuj,Tuy,to~ui,tu yi,twy,Туй,توي,توی,トゥイ,图伊;not;;;null;Medieval;FOUND
+Iohan;66822;PN;FT;;;yes;APLN;;;;FOUND
+Mendonedo;66839;PPLN;PPT;;;not;;;;;VALIDATE
+Pero;66861;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Coria;66877;PLN;FT;http://sws.geonames.org/6356764;Coria,Còria,Cória,Koria,Korija,ke li ya,qwryt,Кория,Корія,Կորիա,قورية,科里亚;not;;;null;Geonames;FOUND
+Silue;66917;PLN;FT;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/688028;null;not;;;An ancient place, cited: BAtlas 70 G1 Silo;Medieval;FOUND
+Pelay;66935;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Perez;66941;PN;FT;;;;;;;;FOUND
+Sanctiago;66971;PPLN;PPT;;;not;;;;;VALIDATE
+Garci;66993;PN;FT;;;yes;APLN;;;;FOUND
+Ferrandez;66999;PN;FT;;;;;;;;FOUND
+Orden;67024;UN;UNI;;;not;;;;;UNIDENTIFIED
+Alcantara;67033;PLN;FT;http://sws.geonames.org/10241080; ;not;;;null;Geonames;FOUND
+Martin;67055;PN;FT;;;yes;APLN;;;;FOUND
+Nunnez;67062;PN;FT;;;;;;;;FOUND
+Temple;67094;PLN;FT;http://sws.geonames.org/3108180; ;not;;;null;Geonames;FOUND
+Manuel;67113;PN;FT;;;yes;APLN;;;;FOUND
+Ferrando;67132;PN;FT;;;yes;APLN;;;;FOUND
+Loys;67153;PN;FT;;;yes;APLN;;;;FOUND
+Alfonsso;67170;PN;FT;;;yes;APLN;;;;FOUND
+Rodrigo;67204;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Alfonsso;67212;PN;FT;;;;;;;;FOUND
+Martin;67233;PN;FT;;;yes;APLN;;;;FOUND
+Alfonsso;67240;PN;FT;;;;;;;;FOUND
+Rodrigo;67261;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Gomez;67269;PN;FT;;;;;;;;FOUND
+Rodrigo;67287;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Iohan;67314;PN;FT;;;yes;APLN;;;;FOUND
+Perez;67320;PN;FT;;;;;;;;FOUND
+Ferrant;67338;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Martin;67366;PN;FT;;;yes;APLN;;;;FOUND
+Gil;67373;PLN;FT;http://sws.geonames.org/10055472; ;not;;;null;Geonames;FOUND
+Gonçaluo;67389;PN;FT;;;yes;APLN;;;;FOUND
+Rodrigo;67418;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rodriguez;67426;PN;FT;;;;;;;;FOUND
+Aluar;67448;PN;FT;;;yes;APLN;;;;FOUND
+Diaz;67454;PN;FT;;;;;;;;FOUND
+Pelay;67471;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Perez;67477;PN;FT;;;;;;;;FOUND
+Garci;67491;PN;FT;;;;;;;;FOUND
+Suarez;67497;UN;UNI;;;not;;;;;UNIDENTIFIED
+Murcia;67531;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Ferrando;67550;PN;FT;;;yes;APLN;;;;FOUND
+Palencia;67570;PLN;FT;http://sws.geonames.org/6360072; ;not;;;null;Geonames;FOUND
+Sancho;67666;PN;FT;;;yes;APLN;;;;FOUND
+Martinez;67673;PN;FT;;;yes;APLN;;;;FOUND
+Xodar;67685;PPLN;PPT;;;not;;;;;VALIDATE
+Garci;67725;PN;FT;;;;;;;;FOUND
+Perez;67731;PN;FT;;;;;;;;FOUND
+Toledo;67740;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Andaluzia;67770;PLN;FT;http://sws.geonames.org/2593109/;Andalucía;not; ; ; ;Medieval;FOUND
+Gonçaluo;67787;PN;FT;;;;;;;;FOUND
+Morant;67796;UN;UNI;;;not;;;;;UNIDENTIFIED
+Leon;67820;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;67861;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Suero;67882;PPN;PPT;;;yes;APLN;;;;VALIDATE
+C'amora;67899;PPLN;PPT;;;not;;;;;VALIDATE
+Johan;67941;PN;FT;;;;;;;;FOUND
+Perez;67947;PN;FT;;;;;;;;FOUND
+Cuenca;67956;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Alfonsso;68006;PN;FT; ; ;not; ; ; ; ;FOUND
+Alfonsso;68090;PN;FT; ; ;not; ; ; ; ;FOUND
+Dios;68116;PN;FT;;;;;;;;FOUND
+Castiella;68129;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;68142;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;68152;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;68160;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;68172;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;68183;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;68194;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;68206;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Sancho;68234;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Toledo;68263;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Dios;68403;PN;FT; ; ;not; ; ; ; ;FOUND
+Gutier;68624;UN;UNI;;;not;;;;;UNIDENTIFIED
+Gonzalez;68631;PLN;FT;http://sws.geonames.org/6478651; ;not;;;null;Geonames;FOUND
+Alfonsso;68737;PN;FT;;;yes;APLN;;;;FOUND
+Dios;68764;PN;FT;;;;;;;;FOUND
+Castiella;68777;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;68790;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;68800;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;68808;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;68820;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;68831;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murçia;68842;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;68854;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Villa;69010;PLN;FT;http://sws.geonames.org/3105769; ;not;;;null;Geonames;FOUND
+Pozuelo;69056;PLN;FT;http://sws.geonames.org/6355356; ;not;;;null;Geonames;FOUND
+Toledo;69183;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Seuilla;69192;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Murçia;69202;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Mont Agudo;69761;PPLN;PPT;;;not;;;;;VALIDATE
+Johan;69810;PN;FT;;;;;;;;FOUND
+Mathe;69816;PLN;FT;http://pleiades.stoa.org/places/806354;null;not;;;An ancient place, cited: BAtlas 82 unlocated Mathe;Pleiades;FOUND
+Alfonsso;69994;PN;FT; ; ;not; ; ; ; ;FOUND
+Dios;70020;PN;FT;;;;;;;;FOUND
+Castiella;70033;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;70046;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;70056;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;70064;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;70076;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;70087;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;70098;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;70110;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Cuenca;70162;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Cuenca;70237;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Paracuellos;70293;PLN;FT;http://sws.geonames.org/6357491; ;not;;;null;Geonames;FOUND
+Matheo;70686;PN;FT; ; ;not; ; ; ; ;FOUND
+Dios;70710;PN;FT;;;;;;;;FOUND
+Cuenca;70726;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Cuenca;70780;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Alfonsso;70884;PN;FT; ; ;not; ; ; ; ;FOUND
+Ferrando;70925;PN;FT; ; ;not; ; ; ; ;FOUND
+Paracuellos;70992;PLN;FT;http://sws.geonames.org/6357491; ;not;;;null;Geonames;FOUND
+Cuenca;71075;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Cuenca;71138;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Alfonsso;71346;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Ferrando;71387;PN;FT; ; ;not; ; ; ; ;FOUND
+Cuenca;71435;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Cuenca;71506;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Moya;71518;PLN;FT;http://sws.geonames.org/6360183;Moja,Mojja,mo ya,mwya,Мойя,Моя,مويا,莫亚;not;;;null;Geonames;FOUND
+Alarcon;71528;PPLN;PPT;;;not;;;;;VALIDATE
+Paracuellos;71677;PLN;FT;http://sws.geonames.org/6357491; ;not;;;null;Geonames;FOUND
+Cuenca;71751;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Cuenca;72100;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Paracuellos;72223;PLN;FT;http://sws.geonames.org/6357491; ;not;;;null;Geonames;FOUND
+Cuenca;72274;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Paracuellos;72377;PLN;FT;http://sws.geonames.org/6357491; ;not;;;null;Geonames;FOUND
+Cuenca;72882;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Paracuellos;73014;PLN;FT;http://sws.geonames.org/6357491; ;not;;;null;Geonames;FOUND
+Cuenca;73133;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Cuenca;73249;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Cuenca;73320;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Cuenca;73546;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Montagudo;73824;PPLN;PPT;;;not;;;;;VALIDATE
+Paracuellos;73994;PLN;FT;http://sws.geonames.org/6357491; ;not;;;null;Geonames;FOUND
+Cuenca;74112;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Matheo;74238;PN;FT; ; ;not; ; ; ; ;FOUND
+Dios;74262;PN;FT;;;;;;;;FOUND
+Cuenca;74278;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Paracuellos;74581;PLN;FT;http://sws.geonames.org/6357491; ;not;;;null;Geonames;FOUND
+Alfonsso;74793;PN;FT; ; ;not; ; ; ; ;FOUND
+Ferrando;74829;PN;FT; ; ;not; ; ; ; ;FOUND
+Alfonsso;75011;PN;FT; ; ;not; ; ; ; ;FOUND
+Alfonsso;75164;PN;FT; ; ;not; ; ; ; ;FOUND
+Matheo;75183;PN;FT; ; ;not; ; ; ; ;FOUND
+Cuenca;75200;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Alfonsso;75372;PN;FT; ; ;not; ; ; ; ;FOUND
+Matheo;75412;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Cuenca;75457;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Cuenca;75499;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Alfonsso;75523;PN;FT; ; ;not; ; ; ; ;FOUND
+Matheo;75611;PN;FT; ; ;not; ; ; ; ;FOUND
+Cuenca;75642;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Alfonso;76109;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Dios;76135;PN;FT;;;;;;;;FOUND
+Castilla;76148;PLN;FT;http://sws.geonames.org/9404707; ;not;;;null;Geonames;FOUND
+Toledo;76160;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;76170;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;76178;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;76190;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;76201;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murçia;76212;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;76224;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Sancho;76249;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Toledo;76278;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Sant;76338;PPLN;PPT;;;not;;;;;VALIDATE
+Sant;76375;PPLN;PPT;;;not;;;;;VALIDATE
+Ferrando;76501;PN;FT; ; ;not; ; ; ; ;FOUND
+Sant;76539;PPLN;PPT;;;not;;;;;VALIDATE
+Sancho;76703;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Sancho;76750;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Sant;76799;PPLN;PPT;;;not;;;;;VALIDATE
+Sancho;76827;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Alfonso;76965;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Ferrando;77001;PN;FT; ; ;not; ; ; ; ;FOUND
+Sancho;77134;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Gonçalo;77347;PN;FT;;;;;;;;FOUND
+Perez;77355;PN;FT;;;;;;;;FOUND
+Aguilar;77364;PLN;FT;http://sws.geonames.org/3130827;Aguilar;not;;;null;Geonames;FOUND
+Alfonso;77492;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;77517;PN;FT;;;;;;;;FOUND
+Castiella;77530;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;77543;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;77553;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;77561;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;77573;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;77584;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;77595;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;77607;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Cuenca;77639;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Cuenca;77680;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+dias;77794;APLN;AT;http://pleiades.stoa.org/places/642516; ;yes;CN;;An ancient place, cited: BAtlas 65 unlocated Dias;Medieval;VALIDATE
+dias;77915;APLN;AT;http://pleiades.stoa.org/places/642516; ;yes;CN;;An ancient place, cited: BAtlas 65 unlocated Dias;Medieval;VALIDATE
+Rodrigo;77942;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Cuenca;77964;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Cuenca;78015;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Huerta;78044;PLN;FT;http://sws.geonames.org/6360406; ;not;;;null;Geonames;FOUND
+Gonçaluo;78103;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Cuenca;78151;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+dias;78355;APLN;AT;http://pleiades.stoa.org/places/642516; ;yes;CN;;An ancient place, cited: BAtlas 65 unlocated Dias;Medieval;VALIDATE
+Huerta;78564;PLN;FT;http://sws.geonames.org/6360406; ;not;;;null;Geonames;FOUND
+Cuenca;78649;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Cuenca;78913;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Mayor;78998;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+cosa;79190;APLN;AT;http://pleiades.stoa.org/places/246360; ;yes;CN;;An ancient place, cited: BAtlas 25 G1 Cosa;Medieval;VALIDATE
+Alfonso;79510;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Cuenca;79595;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Sancho;79910;APLN;AT;http://sws.geonames.org/9170929; ;yes;PN; ;null;Geonames;VALIDATE
+Perez;79917;PN;FT;;;;;;;;FOUND
+Pedryuannes;80065;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Calatrava;80088;PPLN;PPT;;;not;;;;;VALIDATE
+Toledo;80186;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Dios;80268;PN;FT;;;;;;;;FOUND
+Castiella;80281;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;80294;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;80304;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;80312;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Sevilla;80324;PLN;FT;http://sws.geonames.org/9170825; ;not;;;null;Geonames;FOUND
+Cordoua;80335;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;80346;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;80359;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Pedryuannes;80382;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Toledo;80448;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Alfonsso;80565;PN;FT; ; ;not; ; ; ; ;FOUND
+Ferrando;80650;PN;FT; ; ;not; ; ; ; ;FOUND
+Calatraua;80731;PN;FT;;;;;;;;FOUND
+Toledo;80795;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Ferrando;80856;PN;FT; ; ;not; ; ; ; ;FOUND
+Toledo;80991;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Calatraua;81046;PN;FT;;;;;;;;FOUND
+Alfonsso;81180;PN;FT; ; ;not; ; ; ; ;FOUND
+Pedryuanes;81393;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Calatrava;81415;PPLN;PPT;;;not;;;;;VALIDATE
+Calatraua;81639;PN;FT;;;;;;;;FOUND
+Toledo;81905;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Maqueda;81997;PLN;FT;http://sws.geonames.org/6361751; ;not;;;null;Geonames;FOUND
+Alfonso;82372;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Toledo;82476;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+dias;83278;APLN;AT;http://pleiades.stoa.org/places/642516; ;yes;CN;;An ancient place, cited: BAtlas 65 unlocated Dias;Medieval;VALIDATE
+Toledo;83430;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Catalatraua;83806;PPLN;PPT;;;not;;;;;VALIDATE
+Pedryuannes;83935;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Calatraua;83958;PPLN;PPT;;;not;;;;;VALIDATE
+Toledo;84253;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Toledo;84760;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Toledo;85604;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Toledo;85663;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Toledo;85867;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Calatraua;86005;PN;FT;;;;;;;;FOUND
+Ferrando;86117;PN;FT; ; ;not; ; ; ; ;FOUND
+Alfonsso;86143;PN;FT; ; ;not; ; ; ; ;FOUND
+Alfonsso;86481;PN;FT; ; ;not; ; ; ; ;FOUND
+Alfonsso;86814;PN;FT; ; ;not; ; ; ; ;FOUND
+Gonçaluo;87077;PN;FT;;;;;;;;FOUND
+Garçi;87113;PN;FT;;;;;;;;FOUND
+Ferrand;87145;PN;FT;;;;;;;;FOUND
+Toledo;87208;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Alfonso;87357;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Toledo;87737;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Toledo;87874;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Calatrava;88138;PPLN;PPT;;;not;;;;;VALIDATE
+Toledo;88211;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Maqueda;88252;PLN;FT;http://sws.geonames.org/6361751; ;not;;;null;Geonames;FOUND
+Toledo;88702;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Maqueda;88931;PLN;FT;http://sws.geonames.org/6361751; ;not;;;null;Geonames;FOUND
+Toledo;89027;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Calatraua;89091;PN;FT;;;;;;;;FOUND
+Calatraua;89378;PN;FT;;;;;;;;FOUND
+Calatrava;89472;PPLN;PPT;;;not;;;;;VALIDATE
+Toledo;89676;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Calatraua;89794;PN;FT;;;;;;;;FOUND
+Toledo;89886;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Calatraua;89912;PN;FT;;;;;;;;FOUND
+Alfonso;90033;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Calatraua;90185;PN;FT;;;;;;;;FOUND
+Toledo;90283;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Pedryuannes;90303;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Calatraua;90326;PPLN;PPT;;;not;;;;;VALIDATE
+Toledo;90472;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Alfonsso;90595;PN;FT; ; ;not; ; ; ; ;FOUND
+Iohan;90875;PN;FT;;;;;;;;FOUND
+Ferrandez;90881;PN;FT;;;;;;;;FOUND
+Segouia;90894;PLN;FT;http://pleiades.stoa.org/places/236658;Segovia;not;;; ;Medieval;FOUND
+Alfonsso;90944;PN;FT; ; ;not; ; ; ; ;FOUND
+Gil;90960;PLN;FT;http://sws.geonames.org/10055472; ;not;;;null;Geonames;FOUND
+Nunnez;90964;PN;FT;;;;;;;;FOUND
+Alfonso;91061;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;91086;PN;FT;;;;;;;;FOUND
+Castiella;91099;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;91112;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;91122;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;91130;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;91142;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;91153;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;91164;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;91176;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Sancta;91210;PPN;GENT;;;;;;;;VALIDATE
+Toledo;91250;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Ferrandez;91816;PN;FT;;;;;;;;FOUND
+Segouia;91829;PLN;FT;http://pleiades.stoa.org/places/236658;Segovia;not;;; ;Medieval;FOUND
+Alfonsso;91880;PN;FT; ; ;not; ; ; ; ;FOUND
+Alfonso;91958;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;91983;PN;FT;;;;;;;;FOUND
+Castiella;91996;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;92009;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;92019;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;92027;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;92039;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;92050;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;92061;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;92074;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Yoland;92107;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Ferrando;92161;PN;FT; ; ;not; ; ; ; ;FOUND
+Sancho;92210;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Toledo;92318;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Moneda;92763;PPLN;PPT;;;not;;;;;VALIDATE
+Toledo;92870;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Toledo;94389;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+cosa;94738;APLN;AT;http://pleiades.stoa.org/places/246360; ;yes;CN;;An ancient place, cited: BAtlas 25 G1 Cosa;Medieval;VALIDATE
+Alfonso;95131;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Yoland;95173;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Ferrando;95227;PN;FT; ; ;not; ; ; ; ;FOUND
+Sancho;95278;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Sancho;95454;PN;FT;;;yes;APLN;;;;FOUND
+Toledo;95475;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Remondo;95512;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Seuilla;95534;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Alfonsso;95554;PN;FT;;;yes;APLN;;;;FOUND
+Molina;95566;PN;FT;;;yes;APLN;;;;FOUND
+Felipp;95625;PN;FT;;;yes;APLN;;;;FOUND
+Aboabdille;95661;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Aben;95672;PLN;FT;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/915817; ;not;;;An ancient place, cited: BAtlas 93 unlocated Aban;Medieval;FOUND
+Nazar;95677;PLN;FT;http://sws.geonames.org/6359730; ;not;;;null;Geonames;FOUND
+Rey;95683;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Granada;95691;PLN;FT;http://sws.geonames.org/6357709;Gorad Granada,Grana,Granaada,Granada,Granado,Granata,Graná,Grenada,Grenade,Lungsod ng Granada,Qranada,garanada,ge la na da,ge lan na da,geulanada,ghrnatt,granada,grndh,guranada,jranada,kiranata,kran a da,Γρανάδα,Горад Гранада,Гранаада,Гранада,Ґранада,Գրանադա,גרנדה,جرانادا,غرناطة,غرناطہ,گرانادا,ग्रानाडा,ग्रानादा,গ্রানাডা,ਗਰਾਨਾਦਾ,கிரனாதா,กรานาดา,გრანადა,ግራናዳ,グラナダ,格拉纳达,格蘭納達,그라나다;not;;;null;Geonames;FOUND
+Rey;95713;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Martin;95729;PN;FT;;;yes;APLN;;;;FOUND
+Gonzalez;95736;PLN;FT;http://sws.geonames.org/6478651; ;not;;;null;Geonames;FOUND
+Burgos;95756;PLN;FT;http://sws.geonames.org/6356377;Burgi,Burgos,Burgosas,Burgoso,Burgus,brghsh,brgws,bu er ge si,buleugoseu,bur kos,burugosu,bwrgws,Бургос,Бурґос,برغش,برگوس,بورگوس,บูร์โกส,ブルゴス,布尔戈斯,부르고스;not;;;null;Geonames;FOUND
+Ferrando;95775;PN;FT;;;yes;APLN;;;;FOUND
+Palencia;95795;PLN;FT;http://sws.geonames.org/6360072; ;not;;;null;Geonames;FOUND
+Martin;95822;PN;FT; ; ;not; ; ; ; ;FOUND
+Segouia;95839;PLN;FT;http://pleiades.stoa.org/places/236658;Segovia;not;;; ;Medieval;FOUND
+Osma;95898;PLN;FT;http://sws.geonames.org/3114836;Osma;not;;;null;Geonames;FOUND
+Cuenca;95920;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Benito;95939;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Auila;95957;PLN;FT;http://pleiades.stoa.org/places/236361;Ávila;not;;; ;Medieval;FOUND
+Aznar;95975;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Calahorra;95992;PLN;FT;http://sws.geonames.org/6359026; ;not;;;null;Geonames;FOUND
+Ferrando;96014;PN;FT;;;yes;APLN;;;;FOUND
+Cordoua;96034;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Adam;96054;PN;FT;;;yes;APLN;;;;FOUND
+Plazencia;96070;PPLN;PPT;;;not;;;;;VALIDATE
+Paschual;96092;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Jahen;96112;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Cartagena;96151;PLN;FT;http://sws.geonames.org/6359521; ;not;;;null;Geonames;FOUND
+Pedryuannes;96173;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Maestre;96185;PLN;FT;http://sws.geonames.org/6478142; ;not;;;null;Geonames;FOUND
+Orden;96200;UN;UNI;;;not;;;;;UNIDENTIFIED
+Calatraua;96209;PN;FT;;;;;;;;FOUND
+Pedro;96231;PN;FT;;;yes;APLN;;;;FOUND
+Guzman;96237;PN;FT;;;;;;;;FOUND
+Castiella;96265;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Alfonsso;96287;PN;FT;;;yes;APLN;;;;FOUND
+Garcia;96296;PN;FT;;;;;;;;FOUND
+Murcia;96334;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Nunno;96353;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Alfonsso;96381;PN;FT;;;yes;APLN;;;;FOUND
+Symon;96408;PN;FT;;;yes;APLN;;;;FOUND
+Roys;96414;PPLN;GENT;http://sws.geonames.org/6357342;Rois,Rojs,luo yi si,roisu,rwyas,rwys,Роис,Ройс,رويس,رویاس,ロイス,罗伊斯;not;;;null;Geonames;VALIDATE
+Alfonso;96431;PN;FT;;;yes;APLN;;;;FOUND
+Ferrand;96459;PN;FT;;;yes;APLN;;;;FOUND
+Royz;96467;PN;FT;;;yes;APLN;;;;FOUND
+Castro;96475;PLN;FT;http://pleiades.stoa.org/places/413072; ;yes;PN; ;An ancient place, cited: BAtlas 42 B3 Castro;Medieval;FOUND
+Gomez;96494;PN;FT;;;yes;APLN;;;;FOUND
+Royz;96500;PN;FT;;;;;;;;FOUND
+Gutier;96517;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Diago;96543;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Gomez;96549;PN;FT;;;;;;;;FOUND
+Rodrigo;96567;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Aluarez;96575;PN;FT;;;;;;;;FOUND
+Johan;96595;PN;FT;;;yes;APLN;;;;FOUND
+Garcia;96601;PN;FT;;;;;;;;FOUND
+Diag;96620;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Sanchez;96625;PN;FT;;;;;;;;FOUND
+Gomez;96645;PN;FT;;;yes;APLN;;;;FOUND
+Royz;96651;PN;FT;;;;;;;;FOUND
+Rodrigo;96668;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rodriguez;96676;PN;FT;;;;;;;;FOUND
+Gomez;96698;PN;FT;;;yes;APLN;;;;FOUND
+Suer;96726;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rey;96758;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Henrrique;96774;PN;FT;;;yes;APLN;;;;FOUND
+Perez;96784;PN;FT;;;;;;;;FOUND
+Rey;96811;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Borgonna;96839;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rey;96862;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Gui;96878;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Flandres;96892;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;96915;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Henrri;96931;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Lo;96946;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;96969;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Alfonsso;96985;PN;FT;;;yes;APLN;;;;FOUND
+Rey;97004;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Johan;97009;PN;FT;;;;;;;;FOUND
+Dacre;97015;UN;UNI;;;not;;;;;UNIDENTIFIED
+Emperador;97021;PLN;FT;http://sws.geonames.org/9405399; ;not;;;null;Geonames;FOUND
+Costantinopla;97035;PLN;FT;http://pleiades.stoa.org/places/520998;Constantinopla /Estambul;not;;; ;Medieval;FOUND
+Berenguella;97075;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Rey;97109;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Loys;97125;PN;FT;;;yes;APLN;;;;FOUND
+Emperador;97140;PLN;FT;http://sws.geonames.org/9405399; ;not;;;null;Geonames;FOUND
+Belmont;97191;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;97213;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Johan;97229;PN;FT;;;yes;APLN;;;;FOUND
+Emperador;97245;PLN;FT;http://sws.geonames.org/9405399; ;not;;;null;Geonames;FOUND
+Montfort;97296;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;97319;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Abu;97335;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Murcia;97353;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Beart;97408;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rey;97428;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Limoges;97460;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rey;97482;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Johan;97498;PN;FT;;;yes;APLN;;;;FOUND
+Sanctiago;97518;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;97545;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Martin;97561;PN;FT;;;yes;APLN;;;;FOUND
+Leon;97579;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Pedro;97596;PN;FT;;;yes;APLN;;;;FOUND
+Ouiedo;97613;PPLN;PPT;;;not;;;;;VALIDATE
+Suero;97632;PPN;PPT;;;yes;APLN;;;;VALIDATE
+C'amora;97649;PPLN;PPT;;;not;;;;;VALIDATE
+Pedro;97669;PN;FT;;;yes;APLN;;;;FOUND
+Pedro;97704;PN;FT;;;yes;APLN;;;;FOUND
+Astorga;97721;PLN;FT;http://sws.geonames.org/6358559;Astorga,Astorgo,Asturica Augusta,Estorga,a si tuo er jia,aseutoleuga,astrqt,astwrkha,asutoruga,Асторга,Աստորգա,آستورخا,أسترقة,アストルガ,阿斯托尔加,아스토르가;not;;;null;Geonames;FOUND
+Cibdat;97751;PPLN;PPT;;;not;;;;;VALIDATE
+Lugo;97775;PLN;FT;http://sws.geonames.org/6359189;Gorad Luga,Lougo,Lucus Augusti,Lugas,Lugo,Lugu,lu gao,lu ge,lu ko,lugo,luko,lwghw,lwgw,rugo,Λούγο,Горад Луга,Луго,Լուգո,לוגו,لوغو,لوگو,लूगो,லுகோ,ลูโก,ლუგო,ሉጎ,ルーゴ,卢戈,盧高,루고;not;;;null;Geonames;FOUND
+Johan;97792;PN;FT;;;yes;APLN;;;;FOUND
+Orens;97809;PLN;FT;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/992080;null;not;;;An ancient place, cited: BAtlas 101 M6 Oriens;Medieval;FOUND
+Gil;97827;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Mendonnedo;97842;PPLN;PPT;;;not;;;;;VALIDATE
+Pedro;97865;PN;FT;;;yes;APLN;;;;FOUND
+Coria;97882;PLN;FT;http://sws.geonames.org/6356764;Coria,Còria,Cória,Koria,Korija,ke li ya,qwryt,Кория,Корія,Կորիա,قورية,科里亚;not;;;null;Geonames;FOUND
+Frey;97900;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Silue;97923;PLN;FT;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/688028;null;not;;;An ancient place, cited: BAtlas 70 G1 Silo;Medieval;FOUND
+Badalloz;97962;PPLN;PPT;;;not;;;;;VALIDATE
+Pelay;97983;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Perez;97989;PN;FT;;;;;;;;FOUND
+Maestre;97995;PLN;FT;http://sws.geonames.org/6478142; ;not;;;null;Geonames;FOUND
+Sanctiago;98019;PPLN;PPT;;;not;;;;;VALIDATE
+Garci;98041;PN;FT;;;yes;APLN;;;;FOUND
+Ferrandez;98047;PN;FT;;;;;;;;FOUND
+Maestre;98057;PLN;FT;http://sws.geonames.org/6478142; ;not;;;null;Geonames;FOUND
+Alcantara;98081;PLN;FT;http://sws.geonames.org/10241080; ;not;;;null;Geonames;FOUND
+Martin;98103;PN;FT;;;yes;APLN;;;;FOUND
+Nunnez;98110;PN;FT;;;;;;;;FOUND
+Temple;98143;PLN;FT;http://sws.geonames.org/3108180; ;not;;;null;Geonames;FOUND
+Gonçaluo;98162;PN;FT;;;yes;APLN;;;;FOUND
+Gil;98171;PLN;FT;http://sws.geonames.org/10055472; ;not;;;null;Geonames;FOUND
+Leon;98196;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Roy;98213;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Gallizia;98247;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Johan;98272;PN;FT;;;;;;;;FOUND
+Alfonsso;98278;PN;FT;;;;;;;;FOUND
+Sanctiago;98301;PPLN;PPT;;;not;;;;;VALIDATE
+Ferrand;98350;PN;FT;;;yes;APLN;;;;FOUND
+Loys;98395;PN;FT;;;yes;APLN;;;;FOUND
+Alfonsso;98429;PN;FT;;;yes;APLN;;;;FOUND
+Ferrandez;98438;PN;FT;;;;;;;;FOUND
+Rodrigo;98473;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Alfonsso;98481;PN;FT;;;;;;;;FOUND
+Martin;98502;PN;FT;;;yes;APLN;;;;FOUND
+Alfonsso;98509;PN;FT;;;;;;;;FOUND
+Rodrigo;98530;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Gomez;98538;PN;FT;;;;;;;;FOUND
+Rodrigo;98556;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Iohan;98583;PN;FT;;;yes;APLN;;;;FOUND
+Perez;98589;PN;FT;;;;;;;;FOUND
+Ferrand;98607;PN;FT;;;yes;APLN;;;;FOUND
+Martin;98635;PN;FT;;;yes;APLN;;;;FOUND
+Gil;98642;PLN;FT;http://sws.geonames.org/10055472; ;not;;;null;Geonames;FOUND
+Ramir;98658;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rodriguez;98664;PN;FT;;;;;;;;FOUND
+Pelay;98686;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Perez;98692;PN;FT;;;;;;;;FOUND
+Sanchez;98715;PN;FT;;;yes;APLN;;;;FOUND
+Fines;98726;PLN;FT;http://pleiades.stoa.org/places/114780;null;yes;PN; ;An ancient place, cited: BAtlas 11 unlocated Fines;Pleiades;FOUND
+Mendoça;98789;PN;FT;;;yes;APLN;;;;FOUND
+Johan;98824;PN;FT;;;;;;;;FOUND
+Ferrandez;98830;PN;FT;;;;;;;;FOUND
+Segouia;98843;PLN;FT;http://pleiades.stoa.org/places/236658;Segovia;not;;; ;Medieval;FOUND
+Alfonsso;98894;PN;FT; ; ;not; ; ; ; ;FOUND
+Alfonso;98978;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;99003;PN;FT;;;;;;;;FOUND
+Castiella;99029;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;99043;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;99053;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallicia;99061;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;;null;Freeling;FOUND
+Seuilla;99073;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;99084;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;99095;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;99105;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarue;99117;PPLN;PPT;;;not;;;;;VALIDATE
+Fernando;99202;PN;FT; ; ;yes;APLN;http://sws.geonames.org/3122557;null;Geonames;FOUND
+Sancho;99264;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Pedro;99289;PN;FT; ; ;yes;APLN;http://sws.geonames.org/3114106;null;Geonames;FOUND
+Guadalfaiara;99386;PPLN;PPT;;;not;;;;;VALIDATE
+Guadalfaiara;99530;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;100896;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Julio;100940;PPLN;PPT;;;not;;;;;VALIDATE
+Alfonso;101024;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Yolant;101067;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Ferrando;101118;PN;FT; ; ;not; ; ; ; ;FOUND
+Sancho;101180;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Pedro;101204;PN;FT; ; ;yes;APLN;http://sws.geonames.org/3114106;null;Geonames;FOUND
+Sancho;101379;PN;FT;;;yes;APLN;;;;FOUND
+Toledo;101399;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;yes;PN; ; ;Medieval;FOUND
+Rey;101424;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Seuilla;101460;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;yes;PN; ; ;Medieval;FOUND
+Aboabdille;101480;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Aben;101491;PLN;FT;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/915817; ;not;;;An ancient place, cited: BAtlas 93 unlocated Aban;Medieval;FOUND
+Naçar;101496;PPLN;GENT;http://sws.geonames.org/6359730; ;not;;;null;Geonames;VALIDATE
+Rey;101502;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Granada;101510;PLN;FT;http://sws.geonames.org/6357709;Gorad Granada,Grana,Granaada,Granada,Granado,Granata,Graná,Grenada,Grenade,Lungsod ng Granada,Qranada,garanada,ge la na da,ge lan na da,geulanada,ghrnatt,granada,grndh,guranada,jranada,kiranata,kran a da,Γρανάδα,Горад Гранада,Гранаада,Гранада,Ґранада,Գրանադա,גרנדה,جرانادا,غرناطة,غرناطہ,گرانادا,ग्रानाडा,ग्रानादा,গ্রানাডা,ਗਰਾਨਾਦਾ,கிரனாதா,กรานาดา,გრანადა,ግራናዳ,グラナダ,格拉纳达,格蘭納達,그라나다;not;;;null;Geonames;FOUND
+Rey;101532;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Martin;101548;PN;FT;;;yes;APLN;;;;FOUND
+Burgos;101576;PLN;FT;http://sws.geonames.org/6356377;Burgi,Burgos,Burgosas,Burgoso,Burgus,brghsh,brgws,bu er ge si,buleugoseu,bur kos,burugosu,bwrgws,Бургос,Бурґос,برغش,برگوس,بورگوس,บูร์โกส,ブルゴス,布尔戈斯,부르고스;not;;;null;Geonames;FOUND
+Fernand;101595;PN;FT;;;yes;APLN;;;;FOUND
+Palencia;101614;PLN;FT;http://sws.geonames.org/6360072; ;not;;;null;Geonames;FOUND
+Martin;101640;PN;FT; ; ;not; ; ; ; ;FOUND
+Cuenca;101657;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Auila;101686;PLN;FT;http://pleiades.stoa.org/places/236361;Ávila;not;;; ;Medieval;FOUND
+Aznar;101704;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Calahorra;101721;PLN;FT;http://sws.geonames.org/6359026; ;not;;;null;Geonames;FOUND
+Fernando;101743;PN;FT;;;yes;APLN;;;;FOUND
+Cordoua;101763;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Adan;101783;PN;FT;;;yes;APLN;;;;FOUND
+Plazencia;101799;PPLN;PPT;;;not;;;;;VALIDATE
+Pasqual;101821;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Jahen;101840;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Cartagena;101878;PLN;FT;http://sws.geonames.org/6359521; ;not;;;null;Geonames;FOUND
+Lorenç;101900;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Cepta;101918;PPLN;PPT;;;not;;;;;VALIDATE
+Pero;101936;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Calatraua;101973;PN;FT;;;;;;;;FOUND
+Alfonso;101995;PN;FT;;;yes;APLN;;;;FOUND
+Molina;102006;PN;FT;;;yes;APLN;;;;FOUND
+Nunno;102031;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Alfonso;102059;PN;FT;;;yes;APLN;;;;FOUND
+Symon;102085;PN;FT;;;yes;APLN;;;;FOUND
+Royz;102091;PN;FT;;;;;;;;FOUND
+Alfonso;102108;PN;FT;;;yes;APLN;;;;FOUND
+Royz;102142;PN;FT;;;yes;APLN;;;;FOUND
+Castro;102150;PLN;FT;http://pleiades.stoa.org/places/413072; ;yes;PN; ;An ancient place, cited: BAtlas 42 B3 Castro;Medieval;FOUND
+Pero;102169;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Nunnez;102174;PN;FT;;;;;;;;FOUND
+Rodrigo;102193;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rodrig;102232;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Aluarez;102239;PN;FT;;;;;;;;FOUND
+Alfonso;102259;PN;FT;;;yes;APLN;;;;FOUND
+Garcia;102267;PN;FT;;;;;;;;FOUND
+Diago;102286;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Gomez;102292;PN;FT;;;;;;;;FOUND
+Gomez;102310;PN;FT;;;yes;APLN;;;;FOUND
+Royz;102316;PN;FT;;;;;;;;FOUND
+Gutier;102333;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Suer;102359;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Borgonna;102394;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rey;102417;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Gui;102433;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Flandres;102447;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;102470;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Alfonso;102486;PN;FT;;;yes;APLN;;;;FOUND
+Rey;102504;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Costantinopla;102528;PLN;FT;http://pleiades.stoa.org/places/520998;Constantinopla /Estambul;not;;; ;Medieval;FOUND
+Rey;102599;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Loys;102615;PN;FT;;;yes;APLN;;;;FOUND
+Belmont;102680;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;102702;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Johan;102718;PN;FT;;;yes;APLN;;;;FOUND
+Montfort;102784;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;102807;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Murçia;102839;PLN;FT;http://sws.geonames.org/6362997/;Murcia;yes;PN; ; ;Medieval;FOUND
+Rey;102860;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Gaston;102876;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Beard;102896;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;102916;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Limoges;102948;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rey;102970;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Manuel;103026;PN;FT; ; ;yes;APLN;http://sws.geonames.org/6362025;null;Geonames;FOUND
+Johan;103077;PN;FT;;;yes;APLN;;;;FOUND
+Sanctiago;103096;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rey;103124;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Aben;103140;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rey;103151;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Niebla;103159;PLN;FT;http://sws.geonames.org/6358229; ;not;;;null;Geonames;FOUND
+Rey;103180;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Martin;103196;PN;FT;;;yes;APLN;;;;FOUND
+Leon;103214;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Pero;103231;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Ouiedo;103247;PPLN;PPT;;;not;;;;;VALIDATE
+Suero;103266;PPN;PPT;;;yes;APLN;;;;VALIDATE
+C'amora;103283;PPLN;PPT;;;not;;;;;VALIDATE
+Pero;103303;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Salamanca;103319;PLN;FT;http://pleiades.stoa.org/places/236642;Salamanca;not;;; ;Medieval;FOUND
+Pero;103341;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Astorga;103357;PLN;FT;http://sws.geonames.org/6358559;Astorga,Astorgo,Asturica Augusta,Estorga,a si tuo er jia,aseutoleuga,astrqt,astwrkha,asutoruga,Асторга,Աստորգա,آستورخا,أسترقة,アストルガ,阿斯托尔加,아스토르가;not;;;null;Geonames;FOUND
+Cibdat;103387;PPLN;PPT;;;not;;;;;VALIDATE
+Lugo;103411;PLN;FT;http://sws.geonames.org/6359189;Gorad Luga,Lougo,Lucus Augusti,Lugas,Lugo,Lugu,lu gao,lu ge,lu ko,lugo,luko,lwghw,lwgw,rugo,Λούγο,Горад Луга,Луго,Լուգո,לוגו,لوغو,لوگو,लूगो,லுகோ,ลูโก,ლუგო,ሉጎ,ルーゴ,卢戈,盧高,루고;not;;;null;Geonames;FOUND
+Johan;103428;PN;FT;;;yes;APLN;;;;FOUND
+Orens;103445;PLN;FT;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/992080;null;not;;;An ancient place, cited: BAtlas 101 M6 Oriens;Medieval;FOUND
+Gil;103463;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Tuy;103478;PLN;FT;http://sws.geonames.org/6360252;Tuj,Tuy,to~ui,tu yi,twy,Туй,توي,توی,トゥイ,图伊;not;;;null;Medieval;FOUND
+Johan;103494;PN;FT;;;yes;APLN;;;;FOUND
+Mendonnedo;103511;PPLN;PPT;;;not;;;;;VALIDATE
+Pero;103534;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Coria;103550;PLN;FT;http://sws.geonames.org/6356764;Coria,Còria,Cória,Koria,Korija,ke li ya,qwryt,Кория,Корія,Կորիա,قورية,科里亚;not;;;null;Geonames;FOUND
+Silue;103590;PLN;FT;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/688028;null;not;;;An ancient place, cited: BAtlas 70 G1 Silo;Medieval;FOUND
+Badalloç;103628;PPLN;PPT;;;not;;;;;VALIDATE
+Pelay;103649;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Perez;103655;PN;FT;;;;;;;;FOUND
+Maestre;103661;PLN;FT;http://sws.geonames.org/6478142; ;not;;;null;Geonames;FOUND
+Sanctiago;103685;PPLN;PPT;;;not;;;;;VALIDATE
+Garela;103707;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Fernandez;103714;PN;FT;;;;;;;;FOUND
+Maestre;103724;PLN;FT;http://sws.geonames.org/6478142; ;not;;;null;Geonames;FOUND
+Alcantara;103748;PLN;FT;http://sws.geonames.org/10241080; ;not;;;null;Geonames;FOUND
+Martin;103770;PN;FT;;;yes;APLN;;;;FOUND
+Nunnez;103777;PN;FT;;;;;;;;FOUND
+Maestre;103784;PLN;FT;http://sws.geonames.org/6478142; ;not;;;null;Geonames;FOUND
+Temple;103809;PLN;FT;http://sws.geonames.org/3108180; ;not;;;null;Geonames;FOUND
+Fernando;103828;PN;FT;;;yes;APLN;;;;FOUND
+Loys;103849;PN;FT;;;yes;APLN;;;;FOUND
+Alfonso;103866;PN;FT;;;yes;APLN;;;;FOUND
+Rey;103893;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Rodrigo;103909;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Alfonso;103917;PN;FT;;;;;;;;FOUND
+Martin;103937;PN;FT;;;yes;APLN;;;;FOUND
+Alfonso;103944;PN;FT;;;;;;;;FOUND
+Rodrigo;103964;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Gomez;103972;PN;FT;;;;;;;;FOUND
+Rodrigo;103990;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Johan;104018;PN;FT;;;yes;APLN;;;;FOUND
+Perez;104024;PN;FT;;;;;;;;FOUND
+Ferrand;104042;PN;FT;;;yes;APLN;;;;FOUND
+Ramir;104070;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rodriguez;104076;PN;FT;;;;;;;;FOUND
+Ramir;104098;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Diaz;104104;PN;FT;;;;;;;;FOUND
+Pelay;104121;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Perez;104127;PN;FT;;;;;;;;FOUND
+Diag;104145;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Sanchez;104150;PN;FT;;;;;;;;FOUND
+Adelantado;104158;PLN;FT;http://sws.geonames.org/2522436; ;not;;;null;Geonames;FOUND
+Mayor;104169;PLN;FT;http://sws.geonames.org/3117103;Mayor,Santa Maria,Santa María;not;;;null;Geonames;FOUND
+Gonçaluo;104201;PN;FT;;;yes;APLN;;;;FOUND
+Gil;104210;PLN;FT;http://sws.geonames.org/10055472; ;not;;;null;Geonames;FOUND
+Adelantado;104214;PLN;FT;http://sws.geonames.org/2522436; ;not;;;null;Geonames;FOUND
+Leon;104235;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Alfonso;104251;PN;FT;;;yes;APLN;;;;FOUND
+Garcia;104259;PN;FT;;;;;;;;FOUND
+Ade;104266;PPLN;GENT;http://sws.geonames.org/3130966;Ada,Adá;not;;;null;Geonames;VALIDATE
+Roy;104300;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Garcia;104304;PN;FT;;;;;;;;FOUND
+Galliçia;104334;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;;null;Freeling;FOUND
+Johan;104354;PN;FT;;;yes;APLN;;;;FOUND
+Alfonso;104360;PN;FT;;;;;;;;FOUND
+Sanctiaguo;104382;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;104408;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Alfonso;104473;PN;FT;;;yes;APLN;;;;FOUND
+Dios;104499;PN;FT;;;;;;;;FOUND
+Castiella;104512;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;104525;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;104535;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;104543;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;104555;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;104566;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;104577;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;104587;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarue;104599;PPLN;PPT;;;not;;;;;VALIDATE
+Toledo;104693;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Dios;105640;PN;FT; ; ;not; ; ; ; ;FOUND
+Valladolit;105688;PLN;FT;http://sws.geonames.org/3106672/;Valladolid;not;;;null;Freeling;FOUND
+Burgos;106529;PLN;FT;http://sws.geonames.org/6356377;Burgi,Burgos,Burgosas,Burgoso,Burgus,brghsh,brgws,bu er ge si,buleugoseu,bur kos,burugosu,bwrgws,Бургос,Бурґос,برغش,برگوس,بورگوس,บูร์โกส,ブルゴス,布尔戈斯,부르고스;not;;;null;Geonames;FOUND
+Yo;109306;UN;UNI;;;not;;;;;UNIDENTIFIED
+Gil;109309;PLN;FT;http://sws.geonames.org/10055472; ;not;;;null;Geonames;FOUND
+Martinez;109313;APLN;AT;http://sws.geonames.org/9170045; ;yes;PN; ;null;Geonames;VALIDATE
+Siguença;109326;PPLN;PPT;;;not;;;;;VALIDATE
+Millan;109362;PPLN;GENT;;;not;;;;;VALIDATE
+Perez;109370;PN;FT;;;;;;;;FOUND
+Aellon;109379;PPLN;PPT;;;not;;;;;VALIDATE
+Alfonso;109420;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Alfonso;109481;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;109506;PN;FT;;;;;;;;FOUND
+Castiella;109519;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;109532;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;109542;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;109550;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilia;109562;PLN;FT;http://sws.geonames.org/2510911/;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;109573;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murçia;109584;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;109596;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Ferrando;109675;PN;FT; ; ;not; ; ; ; ;FOUND
+Ferrandus;109719;UN;UNI;;;not;;;;;UNIDENTIFIED
+Dei;109729;PN;FT;;;;;;;;FOUND
+Madrid;109809;PLN;FT;http://sws.geonames.org/6359304/;Madrid;not;;;null;Freeling;FOUND
+Facta;110334;PPLN;GENT;http://sws.geonames.org/3122691; ; ; ; ;null;Geonames;VALIDATE
+Alfonso;110438;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+cosa;110573;APLN;AT;http://pleiades.stoa.org/places/246360; ;yes;CN;;An ancient place, cited: BAtlas 25 G1 Cosa;Medieval;VALIDATE
+Rey;110711;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Alfonso;110792;APLN;AT;http://sws.geonames.org/10240358; ;yes;PN; ;null;Geonames;VALIDATE
+Martinez;110800;APLN;AT;http://sws.geonames.org/9170045; ;yes;PN; ;null;Geonames;VALIDATE
+Garcia;110833;PN;FT;;;;;;;;FOUND
+Alfonso;110913;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;110938;PN;FT;;;;;;;;FOUND
+Castiella;110951;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;110964;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;110974;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;110982;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;110994;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;111005;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;111016;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;111026;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarbe;111038;PPLN;PPT;;;not;;;;;VALIDATE
+Toledo;111104;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Agostin;111152;PN;FT; ; ;not; ; ; ; ;FOUND
+Osma;111170;PLN;FT;http://sws.geonames.org/3114836;Osma;not;;;null;Geonames;FOUND
+Pedro;111184;PN;FT; ; ;yes;APLN;http://sws.geonames.org/3114106;null;Geonames;FOUND
+Cuenca;111200;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Seuilla;111344;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Remondo;111443;PLN;FT;http://sws.geonames.org/6360891; ;not; ; ;null;Geonames;FOUND
+Seuilla;111464;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Segouia;111610;PLN;FT;http://pleiades.stoa.org/places/236658;Segovia;not;;; ;Medieval;FOUND
+Aluarrazin;111623;PPLN;PPT;;;not;;;;;VALIDATE
+Toledo;111705;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Seuilla;111723;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Alfonsso;112004;PN;FT; ; ;not; ; ; ; ;FOUND
+Toledo;112045;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Remondo;112127;PLN;FT;http://sws.geonames.org/6360891; ;not; ; ;null;Geonames;FOUND
+Seuilla;112148;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Remondo;112223;PLN;FT;http://sws.geonames.org/6360891; ;not; ; ;null;Geonames;FOUND
+Alfonso;112529;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;112554;PN;FT;;;;;;;;FOUND
+Castiella;112567;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;112580;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;112590;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;112598;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;112610;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;112621;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;112632;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;112642;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarue;112654;PPLN;PPT;;;not;;;;;VALIDATE
+Yolant;112689;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Ferrando;112742;PN;FT; ; ;not; ; ; ; ;FOUND
+Sancho;112791;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Pedro;112819;PN;FT; ; ;yes;APLN;http://sws.geonames.org/3114106;null;Geonames;FOUND
+Madrit;112857;PLN;FT;http://sws.geonames.org/6359304/;Madrid;not;;;null;Freeling;FOUND
+Madrit;113258;PLN;FT;http://sws.geonames.org/6359304/;Madrid;not;;; ;Medieval;FOUND
+Alfonso;113548;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Ferrando;113624;PN;FT; ; ;not; ; ; ; ;FOUND
+Madrit;113852;PLN;FT;http://sws.geonames.org/6359304/;Madrid;not;;; ;Medieval;FOUND
+Nauidat;113968;PPLN;PPT;;;not;;;;;VALIDATE
+Sant;113993;PPLN;PPT;;;not;;;;;VALIDATE
+Johan;113999;PN;FT;;;;;;;;FOUND
+Babtista;114005;UN;UNI;;;not;;;;;UNIDENTIFIED
+Madrit;117791;PLN;FT;http://sws.geonames.org/6359304/;Madrid;not;;; ;Medieval;FOUND
+cosa;118491;APLN;AT;http://pleiades.stoa.org/places/246360; ;yes;CN;;An ancient place, cited: BAtlas 25 G1 Cosa;Medieval;VALIDATE
+Madrit;118608;PLN;FT;http://sws.geonames.org/6359304/;Madrid;not;;; ;Medieval;FOUND
+Alfonso;118928;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Yolant;118970;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Ferrando;119023;PN;FT; ; ;not; ; ; ; ;FOUND
+Sancho;119072;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Pedro;119100;PN;FT; ; ;yes;APLN;http://sws.geonames.org/3114106;null;Geonames;FOUND
+Domingo;119276;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Toledo;119295;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Seuilla;119355;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;yes;PN; ; ;Medieval;FOUND
+Alfonso;119375;PN;FT;;;yes;APLN;;;;FOUND
+Molina;119386;PN;FT;;;yes;APLN;;;;FOUND
+Felipp;119405;PN;FT;;;yes;APLN;;;;FOUND
+Aboabdille;119424;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Naçar;119441;UN;UNI;;;not;;;;;UNIDENTIFIED
+Granada;119454;PLN;FT;http://sws.geonames.org/6357709;Gorad Granada,Grana,Granaada,Granada,Granado,Granata,Graná,Grenada,Grenade,Lungsod ng Granada,Qranada,garanada,ge la na da,ge lan na da,geulanada,ghrnatt,granada,grndh,guranada,jranada,kiranata,kran a da,Γρανάδα,Горад Гранада,Гранаада,Гранада,Ґранада,Գրանադա,גרנדה,جرانادا,غرناطة,غرناطہ,گرانادا,ग्रानाडा,ग्रानादा,গ্রানাডা,ਗਰਾਨਾਦਾ,கிரனாதா,กรานาดา,გრანადა,ግራናዳ,グラナダ,格拉纳达,格蘭納達,그라나다;yes;PN; ;null;Geonames;FOUND
+Rey;119476;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Martin;119492;PN;FT;;;yes;APLN;;;;FOUND
+Burgos;119510;PLN;FT;http://sws.geonames.org/6356377;Burgi,Burgos,Burgosas,Burgoso,Burgus,brghsh,brgws,bu er ge si,buleugoseu,bur kos,burugosu,bwrgws,Бургос,Бурґос,برغش,برگوس,بورگوس,บูร์โกส,ブルゴス,布尔戈斯,부르고스;not;;;null;Geonames;FOUND
+Ferrando;119529;PN;FT;;;yes;APLN;;;;FOUND
+Palencia;119549;PLN;FT;http://sws.geonames.org/6360072; ;not;;;null;Geonames;FOUND
+Martin;119575;PN;FT; ; ;not; ; ; ; ;FOUND
+Segouia;119592;PLN;FT;http://pleiades.stoa.org/places/236658;Segovia;not;;; ;Medieval;FOUND
+Agostin;119641;PN;FT;;;yes;APLN;;;;FOUND
+Osma;119660;PLN;FT;http://sws.geonames.org/3114836;Osma;not;;;null;Geonames;FOUND
+Pedro;119677;PN;FT;;;yes;APLN;;;;FOUND
+Cuenca;119694;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Aznar;119739;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Calahorra;119756;PLN;FT;http://sws.geonames.org/6359026; ;not;;;null;Geonames;FOUND
+Ferrando;119778;PN;FT;;;yes;APLN;;;;FOUND
+Cordoua;119798;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Adam;119818;PN;FT;;;yes;APLN;;;;FOUND
+Plazencia;119834;PPLN;PPT;;;not;;;;;VALIDATE
+Pascual;119856;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Jahen;119875;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Cartagena;119914;PLN;FT;http://sws.geonames.org/6359521; ;not;;;null;Geonames;FOUND
+Pedryuannes;119936;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Maestre;119948;PLN;FT;http://sws.geonames.org/6478142; ;not;;;null;Geonames;FOUND
+Orden;119963;UN;UNI;;;not;;;;;UNIDENTIFIED
+Calatraua;119972;PN;FT;;;;;;;;FOUND
+Pedro;119994;PN;FT;;;yes;APLN;;;;FOUND
+Guzman;120000;PN;FT;;;;;;;;FOUND
+Castiella;120028;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Nunno;120050;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Alfonso;120078;PN;FT;;;yes;APLN;;;;FOUND
+Alfonso;120104;PN;FT;;;yes;APLN;;;;FOUND
+Johan;120132;PN;FT;;;yes;APLN;;;;FOUND
+Alfonso;120138;PN;FT;;;;;;;;FOUND
+Ferrand;120158;PN;FT;;;yes;APLN;;;;FOUND
+Royz;120166;PN;FT;;;yes;APLN;;;;FOUND
+Castro;120174;PLN;FT;http://pleiades.stoa.org/places/413072; ;yes;PN; ;An ancient place, cited: BAtlas 42 B3 Castro;Medieval;FOUND
+Gomez;120193;PN;FT;;;yes;APLN;;;;FOUND
+Royz;120199;PN;FT;;;;;;;;FOUND
+Rodrig;120216;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Aluarez;120223;PN;FT;;;;;;;;FOUND
+Suer;120243;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Bergonna;120280;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rey;120303;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Gui;120319;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Flandres;120333;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;120356;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Henrri;120372;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Lo;120387;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;120410;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Alfonso;120426;PN;FT;;;yes;APLN;;;;FOUND
+Rey;120444;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Johan;120449;PN;FT;;;;;;;;FOUND
+Dacre;120455;UN;UNI;;;not;;;;;UNIDENTIFIED
+Emperador;120461;PLN;FT;http://sws.geonames.org/9405399; ;not;;;null;Geonames;FOUND
+Costantinopla;120475;PLN;FT;http://pleiades.stoa.org/places/520998;Constantinopla /Estambul;not;;; ;Medieval;FOUND
+Berenguella;120515;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Rey;120549;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Loys;120565;PN;FT;;;yes;APLN;;;;FOUND
+Emperador;120580;PLN;FT;http://sws.geonames.org/9405399; ;not;;;null;Geonames;FOUND
+Belmont;120631;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;120653;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Johan;120669;PN;FT;;;yes;APLN;;;;FOUND
+Emperador;120685;PLN;FT;http://sws.geonames.org/9405399; ;not;;;null;Geonames;FOUND
+Montfort;120736;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;120759;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Murcia;120792;PLN;FT;http://sws.geonames.org/6362997/;Murcia;yes;PN; ; ;Medieval;FOUND
+Rey;120813;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Beart;120848;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rey;120868;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Limoges;120900;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rey;120922;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Ferrando;120948;PN;FT; ; ;not; ; ; ; ;FOUND
+Manuel;121012;PN;FT; ; ;yes;APLN;http://sws.geonames.org/6362025;null;Geonames;FOUND
+Johan;121058;PN;FT;;;yes;APLN;;;;FOUND
+Santiago;121077;PLN;FT;http://sws.geonames.org/9224885; ;yes;PN; ;null;Geonames;FOUND
+Martin;121119;PN;FT;;;yes;APLN;;;;FOUND
+Leon;121137;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Pedro;121154;PN;FT;;;yes;APLN;;;;FOUND
+Ouiedo;121171;PPLN;PPT;;;not;;;;;VALIDATE
+Suero;121190;PPN;PPT;;;yes;APLN;;;;VALIDATE
+C'amora;121207;PPLN;PPT;;;not;;;;;VALIDATE
+Pedro;121227;PN;FT;;;yes;APLN;;;;FOUND
+Salamanca;121244;PLN;FT;http://pleiades.stoa.org/places/236642;Salamanca;not;;; ;Medieval;FOUND
+Pedro;121266;PN;FT;;;yes;APLN;;;;FOUND
+Astorga;121283;PLN;FT;http://sws.geonames.org/6358559;Astorga,Astorgo,Asturica Augusta,Estorga,a si tuo er jia,aseutoleuga,astrqt,astwrkha,asutoruga,Асторга,Աստորգա,آستورخا,أسترقة,アストルガ,阿斯托尔加,아스토르가;not;;;null;Geonames;FOUND
+Domingo;121303;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Cibdat;121322;PPLN;PPT;;;not;;;;;VALIDATE
+Miguel;121341;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Lugo;121359;PLN;FT;http://sws.geonames.org/6359189;Gorad Luga,Lougo,Lucus Augusti,Lugas,Lugo,Lugu,lu gao,lu ge,lu ko,lugo,luko,lwghw,lwgw,rugo,Λούγο,Горад Луга,Луго,Լուգո,לוגו,لوغو,لوگو,लूगो,லுகோ,ลูโก,ლუგო,ሉጎ,ルーゴ,卢戈,盧高,루고;not;;;null;Geonames;FOUND
+Johan;121376;PN;FT;;;yes;APLN;;;;FOUND
+Orens;121393;PLN;FT;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/992080;null;not;;;An ancient place, cited: BAtlas 101 M6 Oriens;Medieval;FOUND
+Gil;121411;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Tuy;121426;PLN;FT;http://sws.geonames.org/6360252;Tuj,Tuy,to~ui,tu yi,twy,Туй,توي,توی,トゥイ,图伊;not;;;null;Medieval;FOUND
+Munno;121442;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Mondonnedo;121459;PLN;FT;http://sws.geonames.org/6359191; ;not;;;null;Medieval;FOUND
+Ferrando;121482;PN;FT;;;yes;APLN;;;;FOUND
+Coria;121502;PLN;FT;http://sws.geonames.org/6356764;Coria,Còria,Cória,Koria,Korija,ke li ya,qwryt,Кория,Корія,Կորիա,قورية,科里亚;not;;;null;Geonames;FOUND
+Garcia;121520;PN;FT;;;yes;APLN;;;;FOUND
+Silue;121538;PLN;FT;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/688028;null;not;;;An ancient place, cited: BAtlas 70 G1 Silo;Medieval;FOUND
+Badalloz;121577;PPLN;PPT;;;not;;;;;VALIDATE
+Pelay;121598;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Perez;121604;PN;FT;;;;;;;;FOUND
+Maestre;121610;PLN;FT;http://sws.geonames.org/6478142; ;not;;;null;Geonames;FOUND
+Orden;121625;UN;UNI;;;not;;;;;UNIDENTIFIED
+Sanctiago;121634;PPLN;PPT;;;not;;;;;VALIDATE
+Garci;121656;PN;FT;;;yes;APLN;;;;FOUND
+Ferrandez;121662;PN;FT;;;;;;;;FOUND
+Maestre;121672;PLN;FT;http://sws.geonames.org/6478142; ;not;;;null;Geonames;FOUND
+Orden;121687;UN;UNI;;;not;;;;;UNIDENTIFIED
+Alcantara;121696;PLN;FT;http://sws.geonames.org/10241080; ;not;;;null;Geonames;FOUND
+Martin;121718;PN;FT;;;yes;APLN;;;;FOUND
+Nunnez;121725;PN;FT;;;;;;;;FOUND
+Maestre;121732;PLN;FT;http://sws.geonames.org/6478142; ;not;;;null;Geonames;FOUND
+Gutier;121776;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Leon;121811;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;121839;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Johan;121864;PN;FT;;;;;;;;FOUND
+Alfonso;121870;PN;FT;;;;;;;;FOUND
+Rey;121891;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Leon;121899;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Arcidiano;121906;UN;UNI;;;not;;;;;UNIDENTIFIED
+Sanctiago;121920;PPLN;PPT;;;not;;;;;VALIDATE
+Ferrando;121942;PN;FT;;;yes;APLN;;;;FOUND
+Loys;121963;PN;FT;;;yes;APLN;;;;FOUND
+Alfonso;121980;PN;FT;;;yes;APLN;;;;FOUND
+Ferrandez;121988;PN;FT;;;;;;;;FOUND
+Rey;122008;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Rodrig;122024;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Alfonso;122031;PN;FT;;;;;;;;FOUND
+Martin;122051;PN;FT;;;yes;APLN;;;;FOUND
+Alfonso;122058;PN;FT;;;;;;;;FOUND
+Rodrigo;122078;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Johan;122105;PN;FT;;;yes;APLN;;;;FOUND
+Perez;122111;PN;FT;;;;;;;;FOUND
+Ferand;122129;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Ramir;122156;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Diaz;122162;PN;FT;;;;;;;;FOUND
+Pelay;122179;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Perez;122185;PN;FT;;;;;;;;FOUND
+Alfonso;122203;PN;FT;;;yes;APLN;;;;FOUND
+Garcia;122211;PN;FT;;;;;;;;FOUND
+Murcia;122249;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Andaluzia;122262;PLN;FT;http://sws.geonames.org/2593109/;Andalucía;not;;; ;Medieval;FOUND
+Yo;122280;UN;UNI;;;not;;;;;UNIDENTIFIED
+Johan;122283;PN;FT;;;;;;;;FOUND
+Perez;122289;PN;FT;;;;;;;;FOUND
+Cibdat;122299;PPLN;PPT;;;not;;;;;VALIDATE
+Millan;122333;PPLN;GENT;;;not;;;;;VALIDATE
+Perez;122341;PN;FT;;;;;;;;FOUND
+Aellon;122350;PPLN;PPT;;;not;;;;;VALIDATE
+Alfonso;122391;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Orden;122512;UN;UNI;;;not;;;;;UNIDENTIFIED
+Alcantara;122521;PLN;FT;http://sws.geonames.org/10241080; ;not;;;null;Geonames;FOUND
+Perero;122537;PPLN;PPT;;;not;;;;;VALIDATE
+Toledo;122632;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Alcocer;122663;PLN;FT;http://sws.geonames.org/6357814; ;not;;;null;Geonames;FOUND
+Guia;122710;PLN;FT;http://sws.geonames.org/2516861;Guia de Gran Canaria,Guía de Gran Canaria;not;;;null;Geonames;FOUND
+Guadiana;122770;PLN;FT;http://sws.geonames.org/2516939;Cortijada Guadiana,Cortijo de Guadiana,Guadiana;not;;;null;Geonames;FOUND
+Dios;122841;PN;FT;;;;;;;;FOUND
+Castiella;122854;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;122867;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;122877;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;122885;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;122897;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;122908;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;122919;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;122929;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarue;122941;PPLN;PPT;;;not;;;;;VALIDATE
+Johan;123265;PN;FT;;;;;;;;FOUND
+Ferrandez;123271;PN;FT;;;;;;;;FOUND
+Diag;123300;UN;UNI;;;not;;;;;UNIDENTIFIED
+Alfonso;123305;APLN;AT;http://sws.geonames.org/10240358; ;yes;PN; ;null;Geonames;VALIDATE
+Alfonso;123315;APLN;AT;http://sws.geonames.org/10240358; ;yes;PN; ;null;Geonames;VALIDATE
+Ferrandez;123323;PN;FT;;;;;;;;FOUND
+Alfonso;123335;APLN;AT;http://sws.geonames.org/10240358; ;yes;PN; ;null;Geonames;VALIDATE
+Matheos;123343;UN;UNI;;;not;;;;;UNIDENTIFIED
+Toledo;123393;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Alcocer;124202;PLN;FT;http://sws.geonames.org/6357814; ;not;;;null;Geonames;FOUND
+Durant;124233;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Maestre;124465;PLN;FT;http://sws.geonames.org/6478142; ;not;;;null;Geonames;FOUND
+Toledo;124534;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Durant;124592;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Alcantara;124858;PLN;FT;http://sws.geonames.org/10241080; ;not;;;null;Geonames;FOUND
+Toledo;124971;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Durant;125216;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Manuel;125333;PN;FT; ; ;yes;APLN;http://sws.geonames.org/6362025;null;Geonames;FOUND
+Loys;125357;PN;FT; ; ;not; ; ; ; ;FOUND
+Toledo;125547;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Alcocer;125658;PLN;FT;http://sws.geonames.org/6357814; ;not;;;null;Geonames;FOUND
+Guadiana;125692;PLN;FT;http://sws.geonames.org/2516939;Cortijada Guadiana,Cortijo de Guadiana,Guadiana;not; ; ;null;Geonames;FOUND
+Toledo;125715;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Alcocer;125725;PLN;FT;http://sws.geonames.org/6357814; ;not;;;null;Geonames;FOUND
+Guadiana;125824;PLN;FT;http://sws.geonames.org/2516939;Cortijada Guadiana,Cortijo de Guadiana,Guadiana;not;;;null;Geonames;FOUND
+Alcocer;125855;PLN;FT;http://sws.geonames.org/6357814; ;not;;;null;Geonames;FOUND
+Lares;125893;PLN;FT;http://pleiades.stoa.org/places/315061;null;not;;;An ancient place, cited: BAtlas 32 C4 Lares;Pleiades;FOUND
+Lares;125918;PLN;FT;http://pleiades.stoa.org/places/315061; ;not;;;An ancient place, cited: BAtlas 32 C4 Lares;Medieval;FOUND
+Guadalemar;125981;PPLN;PPT;;;not;;;;;VALIDATE
+Moiaraf;126093;PPLN;PPT;;;not;;;;;VALIDATE
+Moiaraf;126131;PPLN;PPT;;;not;;;;;VALIDATE
+Durant;126165;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Guia;126204;PLN;FT;http://sws.geonames.org/2516861;Guia de Gran Canaria,Guía de Gran Canaria;not;;;null;Geonames;FOUND
+Guadiana;126217;PLN;FT;http://sws.geonames.org/2516939;Cortijada Guadiana,Cortijo de Guadiana,Guadiana;not; ; ;null;Geonames;FOUND
+Bienquerencia;126232;UN;UNI;;;not;;;;;UNIDENTIFIED
+Capiella;126248;UN;UNI;;;not;;;;;UNIDENTIFIED
+Toledo;126408;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Cordoua;126456;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Orden;126804;UN;UNI;;;not;;;;;UNIDENTIFIED
+Alcantara;126813;PLN;FT;http://sws.geonames.org/10241080; ;not;;;null;Geonames;FOUND
+Toledo;126871;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Yo;127056;UN;UNI;;;not;;;;;UNIDENTIFIED
+Johan;127059;PN;FT;;;;;;;;FOUND
+Perez;127065;PN;FT;;;;;;;;FOUND
+Cibdat;127075;PPLN;PPT;;;not;;;;;VALIDATE
+Millan;127109;PPLN;GENT;;;not;;;;;VALIDATE
+Perez;127117;PN;FT;;;;;;;;FOUND
+Aellon;127126;PPLN;PPT;;;not;;;;;VALIDATE
+Alfonso;127167;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Alfonso;127243;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;127268;PN;FT;;;;;;;;FOUND
+Castiella;127281;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;127294;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;127304;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;127312;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;127324;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;127335;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;127346;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;127356;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarue;127368;PPLN;PPT;;;not;;;;;VALIDATE
+Yolant;127403;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Ferrando;127456;PN;FT; ; ;not; ; ; ; ;FOUND
+Sancho;127505;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Pedro;127533;PN;FT; ; ;yes;APLN;http://sws.geonames.org/3114106;null;Geonames;FOUND
+Johan;127560;PN;FT; ; ;not; ; ; ; ;FOUND
+Guadalhaiara;127598;PPLN;PPT;;;not;;;;;VALIDATE
+Guadalhaiara;128005;PPLN;PPT;;;not;;;;;VALIDATE
+Alfonso;128302;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Ferrando;128378;PN;FT; ; ;not; ; ; ; ;FOUND
+Guadalhaiara;128605;PPLN;PPT;;;not;;;;;VALIDATE
+Nauidat;128705;PPLN;PPT;;;not;;;;;VALIDATE
+Guadalhaiara;132339;PPLN;PPT;;;not;;;;;VALIDATE
+cosa;133033;APLN;AT;http://pleiades.stoa.org/places/246360; ;yes;CN;;An ancient place, cited: BAtlas 25 G1 Cosa;Medieval;VALIDATE
+Alfonso;133465;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Yolant;133507;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Ferrando;133560;PN;FT; ; ;not; ; ; ; ;FOUND
+Sancho;133609;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Pedro;133637;PN;FT; ; ;yes;APLN;http://sws.geonames.org/3114106;null;Geonames;FOUND
+Johan;133664;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Remondo;133865;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Arçobispo;133874;UN;UNI;;;not;;;;;UNIDENTIFIED
+Seuilla;133887;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Alfonso;133907;PN;FT;;;yes;APLN;;;;FOUND
+Molina;133918;PN;FT;;;yes;APLN;;;;FOUND
+Felipp;133937;PN;FT;;;yes;APLN;;;;FOUND
+Aboabdille;133956;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Naçar;133973;UN;UNI;;;not;;;;;UNIDENTIFIED
+Granada;133986;PLN;FT;http://sws.geonames.org/6357709;Gorad Granada,Grana,Granaada,Granada,Granado,Granata,Graná,Grenada,Grenade,Lungsod ng Granada,Qranada,garanada,ge la na da,ge lan na da,geulanada,ghrnatt,granada,grndh,guranada,jranada,kiranata,kran a da,Γρανάδα,Горад Гранада,Гранаада,Гранада,Ґранада,Գրանադա,גרנדה,جرانادا,غرناطة,غرناطہ,گرانادا,ग्रानाडा,ग्रानादा,গ্রানাডা,ਗਰਾਨਾਦਾ,கிரனாதா,กรานาดา,გრანადა,ግራናዳ,グラナダ,格拉纳达,格蘭納達,그라나다;yes;PN; ;null;Geonames;FOUND
+Rey;134008;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Martin;134024;PN;FT;;;yes;APLN;;;;FOUND
+Burgos;134042;PLN;FT;http://sws.geonames.org/6356377;Burgi,Burgos,Burgosas,Burgoso,Burgus,brghsh,brgws,bu er ge si,buleugoseu,bur kos,burugosu,bwrgws,Бургос,Бурґос,برغش,برگوس,بورگوس,บูร์โกส,ブルゴス,布尔戈斯,부르고스;not;;;null;Geonames;FOUND
+Ferrando;134061;PN;FT;;;yes;APLN;;;;FOUND
+Palencia;134081;PLN;FT;http://sws.geonames.org/6360072; ;not;;;null;Geonames;FOUND
+Martin;134107;PN;FT; ; ;not; ; ; ; ;FOUND
+Segouia;134124;PLN;FT;http://pleiades.stoa.org/places/236658;Segovia;not;;; ;Medieval;FOUND
+Agostin;134173;PN;FT;;;yes;APLN;;;;FOUND
+Osma;134192;PLN;FT;http://sws.geonames.org/3114836;Osma;not;;;null;Geonames;FOUND
+Pedro;134209;PN;FT;;;yes;APLN;;;;FOUND
+Cuenca;134226;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Aznar;134271;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Calahorra;134288;PLN;FT;http://sws.geonames.org/6359026; ;not;;;null;Geonames;FOUND
+Ferrando;134310;PN;FT;;;yes;APLN;;;;FOUND
+Cordoua;134330;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Adam;134350;PN;FT;;;yes;APLN;;;;FOUND
+Plazencia;134366;PPLN;PPT;;;not;;;;;VALIDATE
+Pascual;134388;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Jahen;134407;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Cartagena;134446;PLN;FT;http://sws.geonames.org/6359521; ;not;;;null;Geonames;FOUND
+Pedryuannes;134468;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Maestre;134480;PLN;FT;http://sws.geonames.org/6478142; ;not;;;null;Geonames;FOUND
+Orden;134495;UN;UNI;;;not;;;;;UNIDENTIFIED
+Calatraua;134504;PN;FT;;;;;;;;FOUND
+Pedro;134526;PN;FT;;;yes;APLN;;;;FOUND
+Guzman;134532;PN;FT;;;;;;;;FOUND
+Castiella;134560;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Nunno;134582;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Alfonso;134610;PN;FT;;;yes;APLN;;;;FOUND
+Alfonso;134636;PN;FT;;;yes;APLN;;;;FOUND
+Johan;134664;PN;FT;;;yes;APLN;;;;FOUND
+Alfonso;134670;PN;FT;;;;;;;;FOUND
+Ferrand;134690;PN;FT;;;yes;APLN;;;;FOUND
+Royz;134698;PN;FT;;;yes;APLN;;;;FOUND
+Castro;134706;PLN;FT;http://pleiades.stoa.org/places/413072; ;yes;PN; ;An ancient place, cited: BAtlas 42 B3 Castro;Medieval;FOUND
+Johan;134725;PN;FT;;;yes;APLN;;;;FOUND
+Garcia;134731;PN;FT;;;;;;;;FOUND
+Diag;134750;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Sanchez;134755;PN;FT;;;;;;;;FOUND
+Gomez;134775;PN;FT;;;yes;APLN;;;;FOUND
+Royz;134781;PN;FT;;;;;;;;FOUND
+Rodrigo;134798;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rodriguez;134806;PN;FT;;;;;;;;FOUND
+Gomez;134828;PN;FT;;;yes;APLN;;;;FOUND
+Rodrig;134856;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Aluarez;134863;PN;FT;;;;;;;;FOUND
+Suer;134883;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rey;134915;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Henrrique;134931;PN;FT;;;yes;APLN;;;;FOUND
+Perez;134941;PN;FT;;;;;;;;FOUND
+Rey;134968;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Borgonna;134996;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rey;135019;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Gui;135035;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Flandres;135049;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;135072;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Henrri;135088;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Lo;135103;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;135126;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Alfonso;135142;PN;FT;;;yes;APLN;;;;FOUND
+Rey;135160;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Johan;135165;PN;FT;;;;;;;;FOUND
+Dacre;135171;UN;UNI;;;not;;;;;UNIDENTIFIED
+Emperador;135177;PLN;FT;http://sws.geonames.org/9405399; ;not;;;null;Geonames;FOUND
+Costantinopla;135191;PLN;FT;http://pleiades.stoa.org/places/520998;Constantinopla /Estambul;not;;; ;Medieval;FOUND
+Berenguella;135231;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Rey;135265;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Loys;135281;PN;FT;;;yes;APLN;;;;FOUND
+Emperador;135296;PLN;FT;http://sws.geonames.org/9405399; ;not;;;null;Geonames;FOUND
+Belmont;135347;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;135369;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Johan;135385;PN;FT;;;yes;APLN;;;;FOUND
+Emperador;135401;PLN;FT;http://sws.geonames.org/9405399; ;not;;;null;Geonames;FOUND
+Montfort;135452;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;135475;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Beart;135510;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rey;135530;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Limoges;135562;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rey;135584;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Ferrando;135610;PN;FT; ; ;not; ; ; ; ;FOUND
+Manuel;135674;PN;FT; ; ;yes;APLN;http://sws.geonames.org/6362025;null;Geonames;FOUND
+Johan;135720;PN;FT;;;yes;APLN;;;;FOUND
+Arçobispo;135727;UN;UNI;;;not;;;;;UNIDENTIFIED
+Sanctiago;135740;PPLN;PPT;;;not;;;;;VALIDATE
+Murcia;135800;PLN;FT;http://sws.geonames.org/6362997/;Murcia;yes;PN; ; ;Medieval;FOUND
+Rey;135821;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Martin;135837;PN;FT;;;yes;APLN;;;;FOUND
+Leon;135855;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Pedro;135872;PN;FT;;;yes;APLN;;;;FOUND
+Ouiedo;135889;PPLN;PPT;;;not;;;;;VALIDATE
+Suero;135908;PPN;PPT;;;yes;APLN;;;;VALIDATE
+C'amora;135925;PPLN;PPT;;;not;;;;;VALIDATE
+Pedro;135945;PN;FT;;;yes;APLN;;;;FOUND
+Pedro;135980;PN;FT;;;yes;APLN;;;;FOUND
+Astorga;135997;PLN;FT;http://sws.geonames.org/6358559;Astorga,Astorgo,Asturica Augusta,Estorga,a si tuo er jia,aseutoleuga,astrqt,astwrkha,asutoruga,Асторга,Աստորգա,آستورخا,أسترقة,アストルガ,阿斯托尔加,아스토르가;not;;;null;Geonames;FOUND
+Domingo;136017;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Cibdat;136036;PPLN;PPT;;;not;;;;;VALIDATE
+Miguel;136055;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Lugo;136073;PLN;FT;http://sws.geonames.org/6359189;Gorad Luga,Lougo,Lucus Augusti,Lugas,Lugo,Lugu,lu gao,lu ge,lu ko,lugo,luko,lwghw,lwgw,rugo,Λούγο,Горад Луга,Луго,Լուգո,לוגו,لوغو,لوگو,लूगो,லுகோ,ลูโก,ლუგო,ሉጎ,ルーゴ,卢戈,盧高,루고;not;;;null;Geonames;FOUND
+Johan;136090;PN;FT;;;yes;APLN;;;;FOUND
+Orens;136107;PLN;FT;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/992080;null;not;;;An ancient place, cited: BAtlas 101 M6 Oriens;Medieval;FOUND
+Gil;136125;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Tuy;136140;PLN;FT;http://sws.geonames.org/6360252;Tuj,Tuy,to~ui,tu yi,twy,Туй,توي,توی,トゥイ,图伊;not;;;null;Medieval;FOUND
+Munno;136156;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Mondonnedo;136173;PLN;FT;http://sws.geonames.org/6359191; ;not;;;null;Medieval;FOUND
+Ferrando;136196;PN;FT;;;yes;APLN;;;;FOUND
+Coria;136216;PLN;FT;http://sws.geonames.org/6356764;Coria,Còria,Cória,Koria,Korija,ke li ya,qwryt,Кория,Корія,Կորիա,قورية,科里亚;not;;;null;Geonames;FOUND
+Garcia;136234;PN;FT;;;yes;APLN;;;;FOUND
+Silue;136252;PLN;FT;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/688028;null;not;;;An ancient place, cited: BAtlas 70 G1 Silo;Medieval;FOUND
+Badalloz;136291;PPLN;PPT;;;not;;;;;VALIDATE
+Pelay;136312;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Perez;136318;PN;FT;;;;;;;;FOUND
+Maestre;136324;PLN;FT;http://sws.geonames.org/6478142; ;not;;;null;Geonames;FOUND
+Orden;136339;UN;UNI;;;not;;;;;UNIDENTIFIED
+Sanctiago;136348;PPLN;PPT;;;not;;;;;VALIDATE
+Garci;136370;PN;FT;;;yes;APLN;;;;FOUND
+Ferrandez;136376;PN;FT;;;;;;;;FOUND
+Maestre;136386;PLN;FT;http://sws.geonames.org/6478142; ;not;;;null;Geonames;FOUND
+Orden;136401;UN;UNI;;;not;;;;;UNIDENTIFIED
+Alcantara;136410;PLN;FT;http://sws.geonames.org/10241080; ;not;;;null;Geonames;FOUND
+Martin;136432;PN;FT;;;yes;APLN;;;;FOUND
+Nunnez;136439;PN;FT;;;;;;;;FOUND
+Maestro;136446;PLN;FT;http://pleiades.stoa.org/places/462293;null;not;;;An ancient place, cited: BAtlas 47 F5 Maestro;Pleiades;FOUND
+Gutier;136490;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Leon;136525;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Andreo;136542;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Gallizia;136570;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Johan;136595;PN;FT;;;;;;;;FOUND
+Alfonso;136601;PN;FT;;;;;;;;FOUND
+Rey;136622;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Leon;136630;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Arcidiano;136637;UN;UNI;;;not;;;;;UNIDENTIFIED
+Sanctiago;136651;PPLN;PPT;;;not;;;;;VALIDATE
+Ferrando;136673;PN;FT;;;yes;APLN;;;;FOUND
+Loys;136694;PN;FT;;;yes;APLN;;;;FOUND
+Alfonso;136711;PN;FT;;;yes;APLN;;;;FOUND
+Ferrandez;136719;PN;FT;;;;;;;;FOUND
+Rey;136739;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Rodrigo;136755;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Alfonso;136763;PN;FT;;;;;;;;FOUND
+Martin;136783;PN;FT;;;yes;APLN;;;;FOUND
+Alfonso;136790;PN;FT;;;;;;;;FOUND
+Rodrigo;136810;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Johan;136837;PN;FT;;;yes;APLN;;;;FOUND
+Perez;136843;PN;FT;;;;;;;;FOUND
+Ferand;136861;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Ramir;136888;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Diaz;136894;PN;FT;;;;;;;;FOUND
+Ramir;136911;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rodriguez;136917;PN;FT;;;;;;;;FOUND
+Pelay;136939;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Perez;136945;PN;FT;;;;;;;;FOUND
+Aluar;136963;PN;FT;;;yes;APLN;;;;FOUND
+Diaz;136969;PN;FT;;;;;;;;FOUND
+Alfonso;136986;PN;FT;;;yes;APLN;;;;FOUND
+Garcia;136994;PN;FT;;;;;;;;FOUND
+Murcia;137035;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Andaluzia;137048;PLN;FT;http://sws.geonames.org/2593109/;Andalucía;not;;; ;Medieval;FOUND
+Yo;137066;UN;UNI;;;not;;;;;UNIDENTIFIED
+Johan;137069;PN;FT;;;;;;;;FOUND
+Perez;137075;PN;FT;;;;;;;;FOUND
+Cibdat;137085;PPLN;PPT;;;not;;;;;VALIDATE
+Millan;137119;PPLN;GENT;;;not;;;;;VALIDATE
+Perez;137127;PN;FT;;;;;;;;FOUND
+Aellon;137136;PPLN;PPT;;;not;;;;;VALIDATE
+Alfonso;137184;PN;FT;;;yes;APLN;;;;FOUND
+Dios;137210;PN;FT;;;;;;;;FOUND
+Castiella;137223;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;137236;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;137246;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;137254;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;137266;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;137277;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;137288;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;137298;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarue;137310;PPLN;PPT;;;not;;;;;VALIDATE
+Villa;137482;PLN;FT;http://sws.geonames.org/3105769; ;not;;;null;Geonames;FOUND
+Real;137488;PLN;FT;http://sws.geonames.org/6521316; ;not;;;null;Geonames;FOUND
+Yo;137998;UN;UNI;;;not;;;;;UNIDENTIFIED
+Sancho;138001;APLN;AT;http://sws.geonames.org/9170929; ;yes;PN; ;null;Geonames;VALIDATE
+Perez;138008;PN;FT;;;;;;;;FOUND
+Alfonso;138128;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;138153;PN;FT;;;;;;;;FOUND
+Castiella;138166;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;138179;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;138189;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;138197;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;138209;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;138220;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;138231;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;138241;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarbe;138253;PPLN;PPT;;;not;;;;;VALIDATE
+Caualleria;138337;UN;UNI;;;not;;;;;UNIDENTIFIED
+Sanctiago;138351;PPLN;PPT;;;not;;;;;VALIDATE
+Alcaraz;138421;PLN;FT;http://sws.geonames.org/6355300;Al'karas,Alkaras,alkaras,alkrz,Алькарас,Ալկարաս,آلکاراس,الكرز;not;;;null;Geonames;FOUND
+Migael;138576;UN;UNI;;;not;;;;;UNIDENTIFIED
+Perez;138583;PN;FT;;;;;;;;FOUND
+Gil;138591;PLN;FT;http://sws.geonames.org/10055472; ;not;;;null;Geonames;FOUND
+Moya;138599;PLN;FT;http://sws.geonames.org/6360183;Moja,Mojja,mo ya,mwya,Мойя,Моя,مويا,莫亚;not;;;null;Geonames;FOUND
+Johan;138607;PN;FT;;;;;;;;FOUND
+Matheo;138613;PN;FT;;;;;;;;FOUND
+Villanueua;138623;PPLN;PPT;;;not;;;;;VALIDATE
+Johan;138637;PN;FT;;;;;;;;FOUND
+Donate;138643;UN;UNI;;;not;;;;;UNIDENTIFIED
+Alcaraz;138677;PLN;FT;http://sws.geonames.org/6355300;Al'karas,Alkaras,alkaras,alkrz,Алькарас,Ալկարաս,آلکاراس,الكرز;not;;;null;Geonames;FOUND
+Vcles;139048;PPLN;PPT;;;not;;;;;VALIDATE
+Pedro;139102;APLN;AT;http://sws.geonames.org/3114106;Pedro;yes;PN; ;null;Geonames;VALIDATE
+Gutierrez;139108;UN;UNI;;;not;;;;;UNIDENTIFIED
+Segura;139133;PLN;FT;http://pleiades.stoa.org/places/256441;null;not;;;An ancient place, cited: BAtlas 26 D2 Segura;Pleiades;FOUND
+Lope;139143;UN;UNI;;;not;;;;;UNIDENTIFIED
+Ferrandez;139148;PN;FT;;;;;;;;FOUND
+Montiel;139161;PLN;FT;http://sws.geonames.org/6357151; ;not;;;null;Geonames;FOUND
+Alcaraz;139250;PLN;FT;http://sws.geonames.org/6355300;Al'karas,Alkaras,alkaras,alkrz,Алькарас,Ալկարաս,آلکاراس,الكرز;not;;;null;Geonames;FOUND
+Migael;139281;UN;UNI;;;not;;;;;UNIDENTIFIED
+Perez;139288;PN;FT;;;;;;;;FOUND
+Alfonso;139296;APLN;AT;http://sws.geonames.org/10240358; ;yes;PN; ;null;Geonames;VALIDATE
+Gomez;139304;PN;FT;;;;;;;;FOUND
+Alcaraz;139322;PLN;FT;http://sws.geonames.org/6355300;Al'karas,Alkaras,alkaras,alkrz,Алькарас,Ալկարաս,آلکاراس,الكرز;not;;;null;Geonames;FOUND
+Ferrand;139366;PN;FT;;;;;;;;FOUND
+Perez;139374;PN;FT;;;;;;;;FOUND
+Cuenca;139383;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Alcaraz;139480;PLN;FT;http://sws.geonames.org/6355300;Al'karas,Alkaras,alkaras,alkrz,Алькарас,Ալկարաս,آلکاراس,الكرز;not;;;null;Geonames;FOUND
+Alcaraz;139757;PLN;FT;http://sws.geonames.org/6355300;Al'karas,Alkaras,alkaras,alkrz,Алькарас,Ալկարաս,آلکاراس,الكرز;not;;;null;Geonames;FOUND
+Alcaraz;140623;PLN;FT;http://sws.geonames.org/6355300;Al'karas,Alkaras,alkaras,alkrz,Алькарас,Ալկարաս,آلکاراس,الكرز;not;;;null;Geonames;FOUND
+Ferrando;140725;PN;FT; ; ;not; ; ; ; ;FOUND
+Ferrand;141075;PN;FT;;;;;;;;FOUND
+Perez;141083;PN;FT;;;;;;;;FOUND
+Cuenca;141092;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Pedro;141120;APLN;AT;http://sws.geonames.org/3114106;Pedro;yes;PN; ;null;Geonames;VALIDATE
+Gutierrez;141126;UN;UNI;;;not;;;;;UNIDENTIFIED
+Segura;141151;PLN;FT;http://pleiades.stoa.org/places/256441; ;not;;;An ancient place, cited: BAtlas 26 D2 Segura;Medieval;FOUND
+Lope;141163;UN;UNI;;;not;;;;;UNIDENTIFIED
+Ferrandez;141168;PN;FT;;;;;;;;FOUND
+Montiel;141181;PLN;FT;http://sws.geonames.org/6357151; ;not;;;null;Geonames;FOUND
+Orden;141204;UN;UNI;;;not;;;;;UNIDENTIFIED
+Vcles;141213;PPLN;PPT;;;not;;;;;VALIDATE
+Migael;141224;UN;UNI;;;not;;;;;UNIDENTIFIED
+Perez;141231;PN;FT;;;;;;;;FOUND
+Alcaraz;141269;PLN;FT;http://sws.geonames.org/6355300;Al'karas,Alkaras,alkaras,alkrz,Алькарас,Ալկարաս,آلکاراس,الكرز;not;;;null;Geonames;FOUND
+Alcaraz;141316;PLN;FT;http://sws.geonames.org/6355300;Al'karas,Alkaras,alkaras,alkrz,Алькарас,Ալկարաս,آلکاراس,الكرز;not; ; ;null;Geonames;FOUND
+Orden;141329;UN;UNI;;;not;;;;;UNIDENTIFIED
+Vcles;141338;PPLN;PPT;;;not;;;;;VALIDATE
+Ferrando;141923;PN;FT; ; ;not; ; ; ; ;FOUND
+Garcia;142330;APLN;AT;http://sws.geonames.org/6361308; ;yes;PN; ;null;Geonames;VALIDATE
+Dominguez;142337;UN;UNI;;;not;;;;;UNIDENTIFIED
+Alfonso;142421;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;142446;PN;FT;;;;;;;;FOUND
+Castiella;142459;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;142472;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;142482;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;142490;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;142502;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;142513;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;142524;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;142534;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarue;142546;PPLN;PPT;;;not;;;;;VALIDATE
+Madryt;142593;PPLN;GENT;;;not;;;;;VALIDATE
+Madrit;142840;PLN;FT;http://sws.geonames.org/6359304/;Madrid;not;;; ;Medieval;FOUND
+Domingo;143009;PPLN;PPT;;;not;;;;;VALIDATE
+Gonçaluo;143047;PN;FT;;;;;;;;FOUND
+Yague;143096;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Ximena;143120;PN;FT; ; ;not; ; ; ; ;FOUND
+Sant;143183;PPLN;PPT;;;not;;;;;VALIDATE
+Alfonso;143356;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Ferrando;143396;PN;FT; ; ;not; ; ; ; ;FOUND
+Yo;143657;UN;UNI;;;not;;;;;UNIDENTIFIED
+Johan;143660;PN;FT;;;;;;;;FOUND
+Perez;143666;PN;FT;;;;;;;;FOUND
+Cibdat;143676;PPLN;PPT;;;not;;;;;VALIDATE
+Millan;143710;PPLN;GENT;;;not;;;;;VALIDATE
+Perez;143718;PN;FT;;;;;;;;FOUND
+Aellon;143727;PPLN;PPT;;;not;;;;;VALIDATE
+Alfonso;143768;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Alfonso;143839;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;143864;PN;FT;;;;;;;;FOUND
+Castiella;143877;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;143890;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;143900;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;143908;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;143920;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;143931;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;143942;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;143952;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarue;143964;PPLN;PPT;;;not;;;;;VALIDATE
+Alfonso;144008;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Ferrando;144048;PN;FT; ; ;not; ; ; ; ;FOUND
+Cuenca;144114;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+cosa;144850;APLN;AT;http://pleiades.stoa.org/places/246360; ;yes;CN;;An ancient place, cited: BAtlas 25 G1 Cosa;Medieval;VALIDATE
+Yo;145222;UN;UNI;;;not;;;;;UNIDENTIFIED
+Johan;145225;PN;FT;;;;;;;;FOUND
+Perez;145231;PN;FT;;;;;;;;FOUND
+Cibdat;145241;PPLN;PPT;;;not;;;;;VALIDATE
+Millan;145275;PPLN;GENT;;;not;;;;;VALIDATE
+Perez;145283;PN;FT;;;;;;;;FOUND
+Aellon;145292;PPLN;PPT;;;not;;;;;VALIDATE
+Alfonso;145333;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Martin;145349;PN;FT;;;;;;;;FOUND
+Perez;145356;PN;FT;;;;;;;;FOUND
+Alfonso;145409;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;145434;PN;FT;;;;;;;;FOUND
+Castiella;145447;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;145460;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;145470;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;145478;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;145490;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;145501;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;145512;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;145522;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarue;145534;PPLN;PPT;;;not;;;;;VALIDATE
+Pedro;145573;PN;FT; ; ;yes;APLN;http://sws.geonames.org/3114106;null;Geonames;FOUND
+Cuenca;145589;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Regna;145722;PPLN;PPT;;;not;;;;;VALIDATE
+cosa;146137;APLN;AT;http://pleiades.stoa.org/places/246360; ;yes;CN;;An ancient place, cited: BAtlas 25 G1 Cosa;Medieval;VALIDATE
+Yo;146494;UN;UNI;;;not;;;;;UNIDENTIFIED
+Johan;146497;PN;FT;;;;;;;;FOUND
+Perez;146503;PN;FT;;;;;;;;FOUND
+Cibdat;146513;PPLN;PPT;;;not;;;;;VALIDATE
+Millan;146547;PPLN;GENT;;;not;;;;;VALIDATE
+Perez;146555;PN;FT;;;;;;;;FOUND
+Aellon;146564;PPLN;PPT;;;not;;;;;VALIDATE
+Alfonso;146605;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Martin;146621;PN;FT;;;;;;;;FOUND
+Perez;146628;PN;FT;;;;;;;;FOUND
+Alfonso;146695;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;146720;PN;FT;;;;;;;;FOUND
+Castiella;146733;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;146746;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;146756;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;146764;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;146776;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;146787;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;146798;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;146808;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarue;146820;PPLN;PPT;;;not;;;;;VALIDATE
+Alfonso;146838;APLN;AT;http://sws.geonames.org/10240358; ;yes;PN; ;null;Geonames;VALIDATE
+Matheos;146846;UN;UNI;;;not;;;;;UNIDENTIFIED
+Alfonso;146856;APLN;AT;http://sws.geonames.org/10240358; ;yes;PN; ;null;Geonames;VALIDATE
+Diaz;146864;PN;FT;;;;;;;;FOUND
+Toledo;146896;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Cordoua;146933;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Xemen;146944;UN;UNI;;;not;;;;;UNIDENTIFIED
+Perez;146950;PN;FT;;;;;;;;FOUND
+Peralta;146959;PLN;FT;http://sws.geonames.org/3113800;Azkoien,Peral'ta,Peralta,Peralta - Azkoien,Peralta – Azkoien,pei la er ta,Перальта,佩拉尔塔;not;;;null;Geonames;FOUND
+Cordoua;146994;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Toledo;147376;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Cordoua;147456;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Cordoua;147489;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Toledo;147566;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Amassatrigo;147875;PPLN;PPT;;;not;;;;;VALIDATE
+Moiarrahe;147911;PPLN;PPT;;;not;;;;;VALIDATE
+Seruela;147954;PPLN;PPT;;;not;;;;;VALIDATE
+Seruela;147975;PPLN;PPT;;;not;;;;;VALIDATE
+Agudo;148024;PLN;FT;http://sws.geonames.org/6357096; ;not;;;null;Geonames;FOUND
+Ribera;148263;PLN;FT;http://sws.geonames.org/11127954; ;not;;;null;Geonames;FOUND
+Guadiana;148273;PLN;FT;http://sws.geonames.org/2516939;Cortijada Guadiana,Cortijo de Guadiana,Guadiana;not;;;null;Geonames;FOUND
+Guadiana;148289;PLN;FT;http://sws.geonames.org/2516939;Cortijada Guadiana,Cortijo de Guadiana,Guadiana;not;;;null;Geonames;FOUND
+Temur;148518;PPLN;PPT;;;not;;;;;VALIDATE
+Seruela;148538;PPLN;PPT;;;not;;;;;VALIDATE
+Toledo;149055;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Cordoua;149097;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not; ; ; ;Medieval;FOUND
+Cordoua;149124;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+cosa;149454;APLN;AT;http://pleiades.stoa.org/places/246360; ;yes;CN;;An ancient place, cited: BAtlas 25 G1 Cosa;Medieval;VALIDATE
+Toledo;149764;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Cordoua;149796;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Yo;149997;PLN;GENT;http://sws.geonames.org/9406783; ;not;;;null;Geonames;VALIDATE
+Millan;150000;PLN;GENT;http://sws.geonames.org/9406783; ;not;;;null;Geonames;VALIDATE
+Perez;150007;PN;FT;;;;;;;;FOUND
+Aellon;150017;PPLN;PPT;;;not;;;;;VALIDATE
+Alfonso;150074;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Martin;150090;PN;FT;;;;;;;;FOUND
+Perez;150097;PN;FT;;;;;;;;FOUND
+Alfonsso;150110;PN;FT;;;yes;APLN;;;;FOUND
+Dios;150137;PN;FT;;;;;;;;FOUND
+Castiella;150150;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;150163;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;150173;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;150181;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;150193;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;150204;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;150215;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;150225;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarbe;150237;PPLN;PPT;;;not;;;;;VALIDATE
+Pero;150256;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Cuenca;150293;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Granada;150491;PLN;FT;http://sws.geonames.org/6357709;Gorad Granada,Grana,Granaada,Granada,Granado,Granata,Graná,Grenada,Grenade,Lungsod ng Granada,Qranada,garanada,ge la na da,ge lan na da,geulanada,ghrnatt,granada,grndh,guranada,jranada,kiranata,kran a da,Γρανάδα,Горад Гранада,Гранаада,Гранада,Ґранада,Գրանադա,גרנדה,جرانادا,غرناطة,غرناطہ,گرانادا,ग्रानाडा,ग्रानादा,গ্রানাডা,ਗਰਾਨਾਦਾ,கிரனாதா,กรานาดา,გრანადა,ግራናዳ,グラナダ,格拉纳达,格蘭納達,그라나다;not;;;null;Geonames;FOUND
+Gizirat;151344;PPLN;PPT;;;not;;;;;VALIDATE
+Adra;151356;PLN;FT;http://sws.geonames.org/6355520;Abdera,Adra,a de la,adeula,adra,Адра,Ադրա,آدرا,عذرة,阿德拉,아드라;not;;;null;Geonames;FOUND
+Tarif;151363;UN;UNI;;;not;;;;;UNIDENTIFIED
+Tunez;152160;PPLN;PPT;;;not;;;;;VALIDATE
+Dios;153535;PN;FT;;;;;;;;FOUND
+Dios;153674;PN;FT; ; ;not; ; ; ; ;FOUND
+cosa;153912;APLN;AT;http://pleiades.stoa.org/places/246360; ;yes;CN;;An ancient place, cited: BAtlas 25 G1 Cosa;Medieval;VALIDATE
+Granada;154173;PLN;FT;http://sws.geonames.org/6357709;Gorad Granada,Grana,Granaada,Granada,Granado,Granata,Graná,Grenada,Grenade,Lungsod ng Granada,Qranada,garanada,ge la na da,ge lan na da,geulanada,ghrnatt,granada,grndh,guranada,jranada,kiranata,kran a da,Γρανάδα,Горад Гранада,Гранаада,Гранада,Ґранада,Գրանադա,גרנדה,جرانادا,غرناطة,غرناطہ,گرانادا,ग्रानाडा,ग्रानादा,গ্রানাডা,ਗਰਾਨਾਦਾ,கிரனாதா,กรานาดา,გრანადა,ግራናዳ,グラナダ,格拉纳达,格蘭納達,그라나다;not;;;null;Geonames;FOUND
+Innocencio;154246;PPLN;PPT;;;not;;;;;VALIDATE
+Alexandre;154268;PN;FT;;;;;;;;FOUND
+Espanna;154380;PLN;FT;http://pleiades.stoa.org/places/992072;España;not;;;null;Freeling;FOUND
+Castiella;154415;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Leon;154430;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Vltramar;154615;PPLN;PPT;;;not;;;;;VALIDATE
+Dei;155377;PN;FT;;;;;;;;FOUND
+Filio;155381;UN;UNI;;;not;;;;;UNIDENTIFIED
+Alfonsso;155998;PN;FT; ; ;not; ; ; ; ;FOUND
+Alfonsso;156419;PN;FT; ; ;not; ; ; ; ;FOUND
+Granada;157701;PLN;FT;http://sws.geonames.org/6357709;Gorad Granada,Grana,Granaada,Granada,Granado,Granata,Graná,Grenada,Grenade,Lungsod ng Granada,Qranada,garanada,ge la na da,ge lan na da,geulanada,ghrnatt,granada,grndh,guranada,jranada,kiranata,kran a da,Γρανάδα,Горад Гранада,Гранаада,Гранада,Ґранада,Գրանադա,גרנדה,جرانادا,غرناطة,غرناطہ,گرانادا,ग्रानाडा,ग्रानादा,গ্রানাডা,ਗਰਾਨਾਦਾ,கிரனாதா,กรานาดา,გრანადა,ግራናዳ,グラナダ,格拉纳达,格蘭納達,그라나다;not;;;null;Geonames;FOUND
+Remondo;158228;PLN;FT;http://sws.geonames.org/6360891; ;not; ; ;null;Geonames;FOUND
+Seuilla;158249;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Ferrando;158266;PN;FT; ; ;not; ; ; ; ;FOUND
+Coria;158285;PLN;FT;http://sws.geonames.org/6356764;Coria,Còria,Cória,Koria,Korija,ke li ya,qwryt,Кория,Корія,Կորիա,قورية,科里亚;not;;;null;Geonames;FOUND
+Johan;158464;PN;FT;;;;;;;;FOUND
+Martinez;158470;APLN;AT;http://sws.geonames.org/9170045; ;yes;PN; ;null;Geonames;VALIDATE
+Alfonso;158494;PN;FT;;;yes;APLN;;;;FOUND
+Dios;158520;PN;FT;;;;;;;;FOUND
+Castiella;158533;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;158546;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;158556;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;158564;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilia;158576;PLN;FT;http://sws.geonames.org/2510911/;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;158587;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murçia;158598;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;158608;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarbe;158620;PPLN;PPT;;;not;;;;;VALIDATE
+Villa;158660;PLN;FT;http://sws.geonames.org/3105769; ;not;;;null;Geonames;FOUND
+Garci;159599;PN;FT;;;;;;;;FOUND
+Alfonsso;159621;PN;FT;;;yes;APLN;;;;FOUND
+Dios;159648;PN;FT;;;;;;;;FOUND
+Castiella;159661;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;159674;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;159684;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;159692;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;159704;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;159715;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murçia;159726;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;159736;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarue;159748;PPLN;PPT;;;not;;;;;VALIDATE
+Madrit;159793;PLN;FT;http://sws.geonames.org/6359304/;Madrid;not;;; ;Medieval;FOUND
+Estremadura;159885;PPLN;GENT;;;not;;;;;VALIDATE
+Agora;160294;PLN;FT;http://pleiades.stoa.org/places/501332;null;not; ; ;An ancient place, cited: BAtlas 51 H3 Agora;Pleiades;FOUND
+Estremadura;160577;PPLN;GENT;;;not;;;;;VALIDATE
+Fernando;163552;PN;FT; ; ;yes;APLN;http://sws.geonames.org/3122557;null;Geonames;FOUND
+Sant;169079;PPLN;PPT;;;not;;;;;VALIDATE
+Johan;170908;PN;FT; ; ;not; ; ; ; ;FOUND
+Alfonso;170993;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;171018;PN;FT;;;;;;;;FOUND
+Castiella;171031;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;171044;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;171054;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;171062;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;171074;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;171085;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murçia;171096;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;171106;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarue;171118;PPLN;PPT;;;not;;;;;VALIDATE
+Pero;171151;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Cuenca;171166;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Pero;171263;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Dios;171285;PN;FT;;;;;;;;FOUND
+Cuenca;171301;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Cuenca;171348;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Alfonso;172514;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Yo;172666;UN;UNI;;;not;;;;;UNIDENTIFIED
+Sancho;172669;APLN;AT;http://sws.geonames.org/9170929; ;yes;PN; ;null;Geonames;VALIDATE
+Perez;172676;PN;FT;;;;;;;;FOUND
+Alfonsso;172742;PN;FT;;;yes;APLN;;;;FOUND
+Dios;172769;PN;FT;;;;;;;;FOUND
+Castiella;172782;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;172795;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;172805;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;172813;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;172825;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;172836;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;172847;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;172857;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarbe;172869;PPLN;PPT;;;not;;;;;VALIDATE
+Cuenca;172961;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Yo;174036;UN;UNI;;;not;;;;;UNIDENTIFIED
+Martin;174039;PN;FT;;;;;;;;FOUND
+Perez;174046;PN;FT;;;;;;;;FOUND
+Niebla;174106;PLN;FT;http://sws.geonames.org/6358229; ;not;;;null;Geonames;FOUND
+Alfonso;174120;PN;FT;;;yes;APLN;;;;FOUND
+Dios;174146;PN;FT;;;;;;;;FOUND
+Castiella;174159;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;174172;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;174182;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;174190;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilia;174202;PLN;FT;http://sws.geonames.org/2510911/;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;174213;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;174224;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;174234;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarue;174246;PPLN;PPT;;;not;;;;;VALIDATE
+Cuenca;174292;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Peydro;174354;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Cuenca;174701;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Dios;174798;PN;FT;;;;;;;;FOUND
+Dios;174866;PN;FT; ; ;not; ; ; ; ;FOUND
+Ferrando;175005;PN;FT; ; ;not; ; ; ; ;FOUND
+dia;175037;APLN;AT;http://pleiades.stoa.org/places/573184;null;yes;CN;;An ancient settlement, attested by literary or documentary sources, whose precise location cannot be determined today;Pleiades;VALIDATE
+Yo;175460;UN;UNI;;;not;;;;;UNIDENTIFIED
+Johan;175463;PN;FT;;;;;;;;FOUND
+Mathe;175469;PLN;FT;http://pleiades.stoa.org/places/806354; ;not;;;An ancient place, cited: BAtlas 82 unlocated Mathe;Medieval;FOUND
+Alfonsso;175498;PN;FT;;;yes;APLN;;;;FOUND
+Dios;175525;PN;FT;;;;;;;;FOUND
+Castiella;175538;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;175551;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;175561;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;175569;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;175581;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;175592;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murçia;175603;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;175613;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarbe;175625;PPLN;PPT;;;not;;;;;VALIDATE
+Villa;175885;PLN;FT;http://sws.geonames.org/3105769; ;not;;;null;Geonames;FOUND
+Villa;176077;PLN;FT;http://sws.geonames.org/3105769; ;not;;;null;Geonames;FOUND
+Villa;176624;PLN;FT;http://sws.geonames.org/3105769; ;not;;;null;Geonames;FOUND
+Yo;177193;UN;UNI;;;not;;;;;UNIDENTIFIED
+Johan;177196;PN;FT;;;;;;;;FOUND
+Mathe;177202;PLN;FT;http://pleiades.stoa.org/places/806354; ;not;;;An ancient place, cited: BAtlas 82 unlocated Mathe;Medieval;FOUND
+Alfonso;177291;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;177316;PN;FT;;;;;;;;FOUND
+Castiella;177329;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;177342;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;177352;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;177360;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;177372;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;177383;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;177394;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;177404;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarue;177416;PPLN;PPT;;;not;;;;;VALIDATE
+Sancto;177472;PPLN;GENT;;;not;;;;;VALIDATE
+Domingo;177480;UN;UNI;;;not;;;;;UNIDENTIFIED
+Maydrit;177491;PPLN;PPT;;;not;;;;;VALIDATE
+Atiença;177590;PPLN;GENT;;;not;;;;;VALIDATE
+Yo;177870;UN;UNI;;;not;;;;;UNIDENTIFIED
+Sancho;177873;APLN;AT;http://sws.geonames.org/9170929; ;yes;PN; ;null;Geonames;VALIDATE
+Perez;177880;PN;FT;;;;;;;;FOUND
+Jahen;177936;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Alfonso;177985;PN;FT;;;yes;APLN;;;;FOUND
+Dios;178011;PN;FT;;;;;;;;FOUND
+Castiella;178024;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;178037;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;178047;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;178055;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;178067;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;178078;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murçia;178089;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;178099;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarbe;178111;PPLN;PPT;;;not;;;;;VALIDATE
+Madrid;178340;PLN;FT;http://sws.geonames.org/6359304/;Madrid;not;;; ;Medieval;FOUND
+Sancto;178363;PPLN;GENT;;;not;;;;;VALIDATE
+Yo;178973;UN;UNI;;;not;;;;;UNIDENTIFIED
+Velasco;178976;PLN;FT;http://sws.geonames.org/3106220; ;not;;;null;Geonames;FOUND
+Gomez;178984;PN;FT;;;;;;;;FOUND
+Alfonso;179033;PN;FT;;;yes;APLN;;;;FOUND
+Dios;179059;PN;FT;;;;;;;;FOUND
+Castiella;179072;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;179085;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;179095;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;179103;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;179115;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;179126;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murçia;179137;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;179147;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarue;179159;PPLN;PPT;;;not;;;;;VALIDATE
+Cuenca;179185;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Pedro;179225;PN;FT; ; ;yes;APLN;http://sws.geonames.org/3114106;null;Geonames;FOUND
+Cuenca;179241;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Gonçaluo;179251;PN;FT;;;;;;;;FOUND
+Garcia;179260;APLN;AT;http://sws.geonames.org/6361308; ;yes;PN; ;null;Geonames;VALIDATE
+Huepte;179281;PPLN;PPT;;;not;;;;;VALIDATE
+Cuenca;179396;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Ferrando;179727;PN;FT; ; ;not; ; ; ; ;FOUND
+Alfonso;180117;PN;FT;;;yes;APLN;;;;FOUND
+Dios;180143;PN;FT;;;;;;;;FOUND
+Castiella;180156;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;180169;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;180179;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;180187;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;180199;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;180210;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;180221;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;180231;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarbe;180243;PPLN;PPT;;;not;;;;;VALIDATE
+Madrid;180297;PLN;FT;http://sws.geonames.org/6359304/;Madrid;not;;; ;Medieval;FOUND
+Diego;180333;PN;FT;;;;;;;;FOUND
+Garcia;180339;APLN;AT;http://sws.geonames.org/6361308; ;yes;PN; ;null;Geonames;VALIDATE
+Nunno;180348;PN;GENT;;;;;;;;VALIDATE
+Garcia;180354;APLN;AT;http://sws.geonames.org/6361308; ;yes;PN; ;null;Geonames;VALIDATE
+Nunno;180363;PN;GENT;;;;;;;;VALIDATE
+Nunnes;180369;UN;UNI;;;not;;;;;UNIDENTIFIED
+Gonçaluo;180379;PN;FT;;;;;;;;FOUND
+Moriel;180388;PLN;GENT;http://sws.geonames.org/6362227; ;not;;;null;Geonames;VALIDATE
+Madrid;180461;PLN;FT;http://sws.geonames.org/6359304/;Madrid;not;;; ;Medieval;FOUND
+Johan;181326;PN;FT;;;;;;;;FOUND
+Garcia;181332;APLN;AT;http://sws.geonames.org/6361308; ;yes;PN; ;null;Geonames;VALIDATE
+Alfonso;181374;PN;FT;;;yes;APLN;;;;FOUND
+Dios;181400;PN;FT;;;;;;;;FOUND
+Castiella;181413;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;181426;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;181436;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;181444;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;181456;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;181467;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murçia;181478;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;181488;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarbe;181500;PPLN;PPT;;;not;;;;;VALIDATE
+Cuenca;181546;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Gonçalo;181611;PN;FT; ; ;not; ; ; ; ;FOUND
+Cuenca;181629;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Gonçalo;181972;PN;FT; ; ;not; ; ; ; ;FOUND
+Alfonso;182448;PN;FT;;;yes;APLN;;;;FOUND
+Dios;182474;PN;FT;;;;;;;;FOUND
+Castiella;182487;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;182500;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;182510;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;182518;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilia;182530;PLN;FT;http://sws.geonames.org/2510911/;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;182541;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;182552;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;182562;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarbe;182574;PPLN;PPT;;;not;;;;;VALIDATE
+Cuenca;182597;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Sancta;182751;PPN;GENT;;;;;;;;VALIDATE
+Cuenca;182787;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Yo;183071;UN;UNI;;;not;;;;;UNIDENTIFIED
+Gonçaluo;183074;PN;FT;;;;;;;;FOUND
+Alfonso;183136;PN;FT;;;yes;APLN;;;;FOUND
+Dios;183162;PN;FT;;;;;;;;FOUND
+Castiella;183175;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;183188;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;183198;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;183206;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;183218;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;183229;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;183240;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;183250;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarue;183262;PPLN;PPT;;;not;;;;;VALIDATE
+Sancto;183382;PPLN;GENT;;;not;;;;;VALIDATE
+Domingo;183390;UN;UNI;;;not;;;;;UNIDENTIFIED
+Madrit;183401;PLN;FT;http://sws.geonames.org/6359304/;Madrid;not;;; ;Medieval;FOUND
+Mançanares;183544;PPLN;GENT;;;not;;;;;VALIDATE
+Yo;183848;UN;UNI;;;not;;;;;UNIDENTIFIED
+Gonçaluo;183851;PN;FT;;;;;;;;FOUND
+FFerrandez;183860;PN;FT;;;;;;;;FOUND
+Alfonsso;183954;PN;FT; ; ;not; ; ; ; ;FOUND
+Dios;183980;PN;FT;;;;;;;;FOUND
+Castiella;183993;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;184006;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;184016;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;184024;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;184036;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;184047;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murçia;184058;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;184068;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarbe;184080;PPLN;PPT;;;not;;;;;VALIDATE
+Pedro;184123;PN;FT; ; ;yes;APLN;http://sws.geonames.org/3114106;null;Geonames;FOUND
+Cuenca;184139;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Portogal;184351;PLN;FT;http://pleiades.stoa.org/places/991319;Portugal;not;;;null;Freeling;FOUND
+Gonçaluo;184836;PN;FT;;;;;;;;FOUND
+Toledo;184875;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Pero;184919;UN;UNI;;;not;;;;;UNIDENTIFIED
+Martinez;184924;APLN;AT;http://sws.geonames.org/9170045; ;yes;PN; ;null;Geonames;VALIDATE
+Alfonso;185007;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;185032;PN;FT;;;;;;;;FOUND
+Castiella;185045;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;185058;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;185068;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;185076;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;185088;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;185099;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;185110;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;185120;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarue;185132;PPLN;PPT;;;not;;;;;VALIDATE
+Yolant;185167;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Ferrando;185221;PN;FT; ; ;not; ; ; ; ;FOUND
+Sancho;185259;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Pedro;185272;PN;FT; ; ;yes;APLN;http://sws.geonames.org/3114106;null;Geonames;FOUND
+Johan;185284;PN;FT; ; ;not; ; ; ; ;FOUND
+Jaymes;185296;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Madrit;185358;PLN;FT;http://sws.geonames.org/6359304/;Madrid;not;;; ;Medieval;FOUND
+Ferrando;185572;PN;FT; ; ;not; ; ; ; ;FOUND
+Alfonso;185608;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+cosa;186541;APLN;AT;http://pleiades.stoa.org/places/246360; ;yes;CN;;An ancient place, cited: BAtlas 25 G1 Cosa;Medieval;VALIDATE
+Alfonso;186952;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Yolant;186994;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Ferrando;187047;PN;FT; ; ;not; ; ; ; ;FOUND
+Sancho;187085;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Pedro;187098;PN;FT; ; ;yes;APLN;http://sws.geonames.org/3114106;null;Geonames;FOUND
+Johan;187110;PN;FT; ; ;not; ; ; ; ;FOUND
+Jaymes;187122;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Sancho;187298;PN;FT;;;yes;APLN;;;;FOUND
+Toledo;187319;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Castiella;187342;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Rey;187369;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Remondo;187385;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Seuilla;187407;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Fredric;187438;PN;FT; ; ;not; ; ; ; ;FOUND
+Felipp;187468;PN;FT; ; ;not; ; ; ; ;FOUND
+Guillem;187486;PN;FT;;;yes;APLN;;;;FOUND
+Montserrat;187505;PLN;FT;http://sws.geonames.org/6362037;Monserrat;yes;PN; ;null;Geonames;FOUND
+Yugo;187545;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Borgonna;187558;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;187581;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Henrri;187597;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Lorregne;187612;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;187635;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Loys;187651;PN;FT;;;yes;APLN;;;;FOUND
+Costantinopla;187684;PLN;FT;http://pleiades.stoa.org/places/520998;Constantinopla /Estambul;not;;; ;Medieval;FOUND
+Berenguela;187724;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Belmont;187744;PPLN;PPT;;;not;;;;;VALIDATE
+Rey;187766;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Iohan;187782;PN;FT;;;yes;APLN;;;;FOUND
+Monfort;187848;PPLN;PPT;;;not;;;;;VALIDATE
+Gaston;187885;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Beart;187905;PPLN;PPT;;;not;;;;;VALIDATE
+Sanctiago;187950;PPLN;PPT;;;not;;;;;VALIDATE
+Burgos;187980;PLN;FT;http://sws.geonames.org/6356377;Burgi,Burgos,Burgosas,Burgoso,Burgus,brghsh,brgws,bu er ge si,buleugoseu,bur kos,burugosu,bwrgws,Бургос,Бурґос,برغش,برگوس,بورگوس,บูร์โกส,ブルゴス,布尔戈斯,부르고스;not;;;null;Geonames;FOUND
+Palencia;188004;PLN;FT;http://sws.geonames.org/6360072; ;not;;;null;Geonames;FOUND
+Ferrando;188025;PN;FT;;;yes;APLN;;;;FOUND
+Segouia;188045;PLN;FT;http://pleiades.stoa.org/places/236658;Segovia;not;;; ;Medieval;FOUND
+Siguença;188075;PPLN;PPT;;;not;;;;;VALIDATE
+Osma;188101;PLN;FT;http://sws.geonames.org/3114836;Osma;not;;;null;Geonames;FOUND
+Pedro;188118;PN;FT;;;yes;APLN;;;;FOUND
+Cuenca;188135;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Auila;188164;PLN;FT;http://pleiades.stoa.org/places/236361;Ávila;not;;; ;Medieval;FOUND
+Calahorra;188187;PLN;FT;http://sws.geonames.org/6359026; ;not;;;null;Geonames;FOUND
+Ferrando;188209;PN;FT;;;yes;APLN;;;;FOUND
+Cordoua;188229;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Pedro;188253;PN;FT;;;;;;;;FOUND
+Plazencia;188270;PPLN;PPT;;;not;;;;;VALIDATE
+Pascual;188292;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Jahen;188311;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Cartagena;188339;PLN;FT;http://sws.geonames.org/6359521; ;not;;;null;Geonames;FOUND
+Cadiz;188380;PLN;FT;http://sws.geonames.org/2520600;CDZ,Cadice,Cadis,Cadix,Cadiz,Cai,Càdice,Cádice,Cádis,Cádiz,Gadeira,Gades,Gadir,Gaðes,Iungadir,Kadis,Kadisas,Kadiz,Kadizo,Kadyks,Kantith,La tacita de plata,jia de si,kadi s,kadiseu,kadisu,kads,kadydh,kadys,qads,qdys,Κάντιθ,Кадиз,Кадис,Кадіс,קדיס,قادس,كاديذ,کادس,کادیس,กาดิซ,კადისი,ካዲዝ,カディス,加的斯,카디스;not;;;null;Geonames;FOUND
+Iohan;188398;PN;FT;;;yes;APLN;;;;FOUND
+Calatraua;188438;PN;FT;;;;;;;;FOUND
+Nunno;188460;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Diaz;188492;PN;FT;;;yes;APLN;;;;FOUND
+Vizcaya;188500;PLN;FT;http://www.geonames.org/3104469/;Vizcaya;yes;PN; ;null;Freeling;FOUND
+Alfonso;188520;PN;FT;;;yes;APLN;;;;FOUND
+Alfonso;188557;PN;FT;;;yes;APLN;;;;FOUND
+Molina;188568;PN;FT;;;yes;APLN;;;;FOUND
+Symon;188587;PN;FT;;;yes;APLN;;;;FOUND
+Royz;188593;PN;FT;;;;;;;;FOUND
+Iohan;188625;PN;FT;;;yes;APLN;;;;FOUND
+Alfonso;188631;PN;FT;;;yes;APLN;;;;FOUND
+Haro;188642;PLN;FT;http://sws.geonames.org/6359061;Aro,a luo,alo,aro,Аро,Արո,アーロ,阿罗,아로;yes;PN; ;null;Geonames;FOUND
+Ferrando;188659;PN;FT;;;yes;APLN;;;;FOUND
+Royz;188668;PN;FT;;;yes;APLN;;;;FOUND
+Castro;188676;PLN;FT;http://pleiades.stoa.org/places/413072; ;yes;PN; ;An ancient place, cited: BAtlas 42 B3 Castro;Medieval;FOUND
+Diag;188695;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Sanchez;188700;PN;FT;;;;;;;;FOUND
+Gil;188746;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Garcia;188750;PN;FT;;;;;;;;FOUND
+Ferrando;188801;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Pedro;188815;PN;FT;;;yes;APLN;;;;FOUND
+Aragon;188831;PLN;FT;http://sws.geonames.org/3129906/;Aragón;yes;PN; ;null;Freeling;FOUND
+Meneses;188867;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Alfonso;188887;PN;FT;;;yes;APLN;;;;FOUND
+Villalua;188906;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Cisneros;188948;PLN;FT;http://sws.geonames.org/6360025; ;yes;PN; ;null;Geonames;FOUND
+Gomez;188969;PN;FT;;;yes;APLN;;;;FOUND
+Royz;188975;PN;FT;;;;;;;;FOUND
+Diego;189001;PN;FT;;;yes;APLN;;;;FOUND
+Haro;189016;PLN;FT;http://sws.geonames.org/6359061;Aro,a luo,alo,aro,Аро,Արո,アーロ,阿罗,아로;yes;PN; ;null;Geonames;FOUND
+Ferrando;189033;PN;FT;;;yes;APLN;;;;FOUND
+Perez;189042;PN;FT;;;yes;APLN;;;;FOUND
+Guzman;189051;PN;FT;;;yes;APLN;;;;FOUND
+Rodrigo;189070;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Rodriguez;189078;PN;FT;;;;;;;;FOUND
+Henrrique;189100;PN;FT;;;yes;APLN;;;;FOUND
+Perez;189110;PN;FT;;;;;;;;FOUND
+Rey;189138;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Diego;189154;PN;FT;;;yes;APLN;;;;FOUND
+Toledo;189169;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;yes;PN; ; ;Medieval;FOUND
+Martin;189223;PN;FT;;;yes;APLN;;;;FOUND
+Leon;189241;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Ouiedo;189268;PPLN;PPT;;;not;;;;;VALIDATE
+C'amora;189292;PPLN;PPT;;;not;;;;;VALIDATE
+Salamanca;189322;PLN;FT;http://pleiades.stoa.org/places/236642;Salamanca;not;;; ;Medieval;FOUND
+Astorga;189349;PLN;FT;http://sws.geonames.org/6358559;Astorga,Astorgo,Asturica Augusta,Estorga,a si tuo er jia,aseutoleuga,astrqt,astwrkha,asutoruga,Асторга,Աստորգա,آستورخا,أسترقة,アストルガ,阿斯托尔加,아스토르가;not;;;null;Geonames;FOUND
+Domingo;189369;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Cibdat;189388;PPLN;PPT;;;not;;;;;VALIDATE
+Iohan;189407;PN;FT;;;yes;APLN;;;;FOUND
+Orense;189424;PLN;FT;http://sws.geonames.org/6477980; ;not;;;null;Geonames;FOUND
+Gil;189443;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Tuy;189458;PLN;FT;http://sws.geonames.org/6360252;Tuj,Tuy,to~ui,tu yi,twy,Туй,توي,توی,トゥイ,图伊;not;;;null;Medieval;FOUND
+Munno;189474;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Mendonnedo;189491;PPLN;PPT;;;not;;;;;VALIDATE
+Fray;189514;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Silue;189541;PLN;FT;https://pleiades.stoa.orghttp://pleiades.stoa.org/places/688028;null;not;;;An ancient place, cited: BAtlas 70 G1 Silo;Medieval;FOUND
+Fray;189559;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Badalloz;189583;PPLN;PPT;;;not;;;;;VALIDATE
+Pelay;189604;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Perez;189610;PN;FT;;;;;;;;FOUND
+Sanctiago;189640;PPLN;PPT;;;not;;;;;VALIDATE
+Garci;189662;PN;FT;;;yes;APLN;;;;FOUND
+Ferrandez;189668;PN;FT;;;;;;;;FOUND
+Alcantara;189702;PLN;FT;http://sws.geonames.org/10241080; ;not;;;null;Geonames;FOUND
+Guillem;189724;PN;FT;;;yes;APLN;;;;FOUND
+Temple;189757;PLN;FT;http://sws.geonames.org/3108180; ;not;;;null;Geonames;FOUND
+Esteuan;189776;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Ferrandez;189784;PN;FT;;;;;;;;FOUND
+Gallizia;189809;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Alfonso;189830;PN;FT;;;yes;APLN;;;;FOUND
+Ferrandez;189838;PN;FT;;;;;;;;FOUND
+Molina;189874;PPLN;GENT;http://sws.geonames.org/6359477; ;not;;;null;Geonames;VALIDATE
+Rodrigo;189893;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Sanctiago;189924;PPLN;PPT;;;not;;;;;VALIDATE
+Martinez;189950;PN;FT;;;yes;APLN;;;;FOUND
+Porce;189962;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Martin;189980;PN;FT;;;yes;APLN;;;;FOUND
+Gil;189987;PLN;FT;http://sws.geonames.org/10055472; ;not;;;null;Geonames;FOUND
+Iohan;190003;PN;FT;;;yes;APLN;;;;FOUND
+Ferrandez;190009;PN;FT;;;;;;;;FOUND
+Diaz;190048;PN;FT;;;yes;APLN;;;;FOUND
+Cientfuentes;190056;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Gonçaluo;190085;PN;FT;;;;;;;;FOUND
+Toledo;190139;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Perez;190161;PN;FT;;;;;;;;FOUND
+Aellon;190170;PPLN;PPT;;;not;;;;;VALIDATE
+Pedro;190264;PN;FT;;;yes;APLN;;;;FOUND
+Garcia;190270;PN;FT;;;yes;APLN;;;;FOUND
+Toledo;190280;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Alfonso;190306;PN;FT;;;yes;APLN;;;;FOUND
+Dios;190332;PN;FT;;;;;;;;FOUND
+Castiella;190345;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;190358;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;190368;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;190376;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;190388;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;190399;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;190410;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;190420;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarue;190432;PPLN;PPT;;;not;;;;;VALIDATE
+Maydrit;190455;PPLN;PPT;;;not;;;;;VALIDATE
+Gonçaluo;190489;PN;FT;;;;;;;;FOUND
+Perez;190498;PN;FT;;;;;;;;FOUND
+Maydrit;190590;PPLN;PPT;;;not;;;;;VALIDATE
+Sancto;190681;PPLN;GENT;;;not;;;;;VALIDATE
+Yo;191410;UN;UNI;;;not;;;;;UNIDENTIFIED
+Sancho;191413;APLN;AT;http://sws.geonames.org/9170929; ;yes;PN; ;null;Geonames;VALIDATE
+Perez;191420;PN;FT;;;;;;;;FOUND
+Jahen;191470;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Alfonsso;191519;PN;FT;;;yes;APLN;;;;FOUND
+Dios;191546;PN;FT;;;;;;;;FOUND
+Castiella;191559;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;191572;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;191582;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;191590;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;191602;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;191613;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murçia;191624;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;191634;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarbe;191646;PPLN;PPT;;;not;;;;;VALIDATE
+Cuenca;191700;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Gonçaluo;191728;PN;FT;;;yes;APLN;;;;FOUND
+Cuenca;191748;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Cuenca;191826;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Yo;192531;PN;GENT;;;;;;;;VALIDATE
+Roy;192534;PN;GENT;;;;;;;;VALIDATE
+Martinez;192538;APLN;AT;http://sws.geonames.org/9170045; ;yes;PN; ;null;Geonames;VALIDATE
+Alfonsso;192632;PN;FT; ; ;not; ; ; ; ;FOUND
+Dios;192658;PN;FT;;;;;;;;FOUND
+Castiella;192671;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;192684;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;192694;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;192702;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;192714;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;192725;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murçia;192736;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;192746;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarue;192758;PPLN;PPT;;;not;;;;;VALIDATE
+Pedro;192803;PN;FT; ; ;yes;APLN;http://sws.geonames.org/3114106;null;Geonames;FOUND
+Cuenca;192819;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Yo;193986;PN;GENT;;;;;;;;VALIDATE
+Roy;193989;PN;GENT;;;;;;;;VALIDATE
+Martinez;193993;APLN;AT;http://sws.geonames.org/9170045; ;yes;PN; ;null;Geonames;VALIDATE
+Alfonso;194096;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;194121;PN;FT;;;;;;;;FOUND
+Castiella;194134;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;194147;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;194157;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;194165;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;194177;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;194188;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;194199;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;194209;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarbe;194222;PPLN;PPT;;;not;;;;;VALIDATE
+Toledo;194357;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Yo;195139;UN;UNI;;;not;;;;;UNIDENTIFIED
+Iohan;195142;PN;FT;;;;;;;;FOUND
+Perez;195148;PN;FT;;;;;;;;FOUND
+Millan;195163;PPLN;GENT;;;not;;;;;VALIDATE
+Rey;195200;PLN;FT;http://sws.geonames.org/3111903;Rey,Santa Eulalia;not;;;null;Geonames;FOUND
+Alfonso;195312;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;195337;PN;FT;;;;;;;;FOUND
+Castiella;195350;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;195363;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;195373;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;195381;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;195393;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;195404;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murcia;195415;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;195425;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarbe;195437;PPLN;PPT;;;not;;;;;VALIDATE
+Madrit;195476;PLN;FT;http://sws.geonames.org/6359304/;Madrid;not;;; ;Medieval;FOUND
+Castiella;195598;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Estremadura;195613;PPLN;GENT;;;not;;;;;VALIDATE
+Perez;196559;PN;FT;;;;;;;;FOUND
+Aellon;196568;PPLN;PPT;;;not;;;;;VALIDATE
+Pedro;196669;PN;FT;;;yes;APLN;;;;FOUND
+Garcia;196675;PN;FT;;;yes;APLN;;;;FOUND
+Toledo;196685;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Alfonsso;196751;PN;FT; ; ;not; ; ; ; ;FOUND
+Dios;196777;PN;FT;;;;;;;;FOUND
+Castiella;196790;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;196803;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;196813;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;196821;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;196833;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;196844;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murçia;196855;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;196865;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarbe;196877;PPLN;PPT;;;not;;;;;VALIDATE
+Sant;196942;PPLN;PPT;;;not;;;;;VALIDATE
+Domingo;196948;UN;UNI;;;not;;;;;UNIDENTIFIED
+Madrit;196959;PLN;FT;http://sws.geonames.org/6359304/;Madrid;not;;; ;Medieval;FOUND
+Esparanas;197037;PPLN;PPT;;;not;;;;;VALIDATE
+Alfonso;197419;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;197444;PN;FT;;;;;;;;FOUND
+Castiella;197457;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;197470;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;197480;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;197488;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;197500;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;197511;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murçia;197522;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;197532;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarue;197544;PPLN;PPT;;;not;;;;;VALIDATE
+Toledo;197886;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Yo;198132;UN;UNI;;;not;;;;;UNIDENTIFIED
+Johan;198135;PN;FT;;;;;;;;FOUND
+Perez;198141;PN;FT;;;;;;;;FOUND
+Millan;198156;PPLN;GENT;;;not;;;;;VALIDATE
+Alfonso;198263;PN;FT;;;yes;APLN;;;;FOUND
+Dios;198289;PN;FT;;;;;;;;FOUND
+Castiella;198302;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;198315;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;198325;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;198333;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;198345;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;198356;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murçia;198367;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;198377;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarbe;198389;PPLN;PPT;;;not;;;;;VALIDATE
+Alcala;198412;PLN;FT;http://pleiades.stoa.org/places/246352;Alcalá de Henares;not;;; ;Medieval;FOUND
+Fenares;198422;PPLN;PPT;;;not;;;;;VALIDATE
+Estremadura;198566;PPLN;GENT;;;not;;;;;VALIDATE
+Allensierra;198583;PPLN;PPT;;;not;;;;;VALIDATE
+Burgos;198629;PLN;FT;http://sws.geonames.org/6356377;Burgi,Burgos,Burgosas,Burgoso,Burgus,brghsh,brgws,bu er ge si,buleugoseu,bur kos,burugosu,bwrgws,Бургос,Бурґос,برغش,برگوس,بورگوس,บูร์โกส,ブルゴス,布尔戈斯,부르고스;not; ; ;null;Geonames;FOUND
+Niebla;198760;PLN;FT;http://sws.geonames.org/6358229; ;not;;;null;Geonames;FOUND
+C'ag;198915;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Maleha;198926;PLN;GENT;http://pleiades.stoa.org/places/570454;null;not;;;An ancient place, cited: BAtlas 58 C3 Malea;Pleiades;VALIDATE
+Roy;198935;PN;GENT;;;;;;;;VALIDATE
+Ferrandez;198939;PN;FT;;;;;;;;FOUND
+Sant;198953;PPLN;PPT;;;not;;;;;VALIDATE
+Niebla;201013;PLN;FT;http://sws.geonames.org/6358229; ;not;;;null;Geonames;FOUND
+Mayr;201234;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Estremadura;203409;PPLN;GENT;;;not;;;;;VALIDATE
+Allensierra;203426;PPLN;PPT;;;not;;;;;VALIDATE
+dias;203768;APLN;AT;http://pleiades.stoa.org/places/642516; ;yes;CN;;An ancient place, cited: BAtlas 65 unlocated Dias;Medieval;VALIDATE
+Yo;204970;UN;UNI;;;not;;;;;UNIDENTIFIED
+Pedro;204973;APLN;AT;http://sws.geonames.org/3114106;Pedro;yes;PN; ;null;Geonames;VALIDATE
+Gonzalez;204979;PLN;FT;http://sws.geonames.org/6478651; ;not;;;null;Geonames;FOUND
+Roy;205026;PN;GENT;;;;;;;;VALIDATE
+Martinez;205030;APLN;AT;http://sws.geonames.org/9170045; ;yes;PN; ;null;Geonames;VALIDATE
+Alfonso;205101;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Dios;205126;PN;FT;;;;;;;;FOUND
+Castiella;205139;PLN;FT; ;Castilla;not;;; ;Medieval;FOUND
+Toledo;205152;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Leon;205162;PLN;FT;http://pleiades.stoa.org/places/236512;León;not;;; ;Medieval;FOUND
+Gallizia;205170;PLN;FT;http://pleiades.stoa.org/places/991317;Galicia;not;;; ;Medieval;FOUND
+Seuilla;205182;PLN;FT;http://pleiades.stoa.org/places/256210;Sevilla;not;;; ;Medieval;FOUND
+Cordoua;205193;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Murçia;205204;PLN;FT;http://sws.geonames.org/6362997/;Murcia;not;;; ;Medieval;FOUND
+Jahen;205214;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Algarue;205226;PPLN;PPT;;;not;;;;;VALIDATE
+Yolant;205261;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Sancho;205314;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Pedro;205342;PN;FT; ; ;yes;APLN;http://sws.geonames.org/3114106;null;Geonames;FOUND
+Johan;205354;PN;FT; ; ;not; ; ; ; ;FOUND
+Jaymes;205366;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Guadalfaiara;205437;PPLN;PPT;;;not;;;;;VALIDATE
+Alfonso;205547;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Ferrando;205586;PN;FT; ; ;not; ; ; ; ;FOUND
+cosa;206005;APLN;AT;http://pleiades.stoa.org/places/246360; ;yes;CN;;An ancient place, cited: BAtlas 25 G1 Cosa;Medieval;VALIDATE
+Alfonso;206440;PN;FT; ; ;yes;APLN;http://sws.geonames.org/10240358;null;Geonames;FOUND
+Yolant;206482;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Sancho;206536;PN;FT; ; ;yes;APLN;http://sws.geonames.org/9170929;null;Geonames;FOUND
+Pedro;206564;PN;FT; ; ;yes;APLN;http://sws.geonames.org/3114106;null;Geonames;FOUND
+Johan;206576;PN;FT; ; ;not; ; ; ; ;FOUND
+Jaymes;206588;PPN;PPT; ; ; ; ; ; ; ;VALIDATE
+Ferrando;206764;PN;FT;;;yes;APLN;;;;FOUND
+Toledo;206784;PLN;FT;http://pleiades.stoa.org/places/266066;Toledo;not;;; ;Medieval;FOUND
+Gonçaluo;206803;PN;FT;;;yes;APLN;;;;FOUND
+Burgos;206823;PLN;FT;http://sws.geonames.org/6356377;Burgi,Burgos,Burgosas,Burgoso,Burgus,brghsh,brgws,bu er ge si,buleugoseu,bur kos,burugosu,bwrgws,Бургос,Бурґос,برغش,برگوس,بورگوس,บูร์โกส,ブルゴス,布尔戈斯,부르고스;not;;;null;Geonames;FOUND
+Johan;206842;PN;FT;;;yes;APLN;;;;FOUND
+Palençia;206859;PLN;FT;http://sws.geonames.org/6360072/;Palencia;not;;;null;Freeling;FOUND
+Ferrando;206880;PN;FT;;;yes;APLN;;;;FOUND
+Segouia;206900;PLN;FT;http://pleiades.stoa.org/places/236658;Segovia;not;;; ;Medieval;FOUND
+Gonçaluo;206920;PN;FT;;;yes;APLN;;;;FOUND
+Siguença;206940;PPLN;PPT;;;not;;;;;VALIDATE
+Agostin;206961;PN;FT;;;yes;APLN;;;;FOUND
+Osma;206980;PLN;FT;http://sws.geonames.org/3114836;Osma;not;;;null;Geonames;FOUND
+Diago;206997;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Cuenca;207014;PLN;FT;http://sws.geonames.org/6357429; ;not;;;null;Geonames;FOUND
+Esteuan;207059;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Calahorra;207078;PLN;FT;http://sws.geonames.org/6359026; ;not;;;null;Geonames;FOUND
+Pascual;207100;PPN;PPT;;;yes;APLN;;;;VALIDATE
+Cordoua;207119;PLN;FT;http://pleiades.stoa.org/places/256128;Córdoba;not;;; ;Medieval;FOUND
+Pedro;207139;PN;FT;;;yes;APLN;;;;FOUND
+Plazencia;207156;PPLN;PPT;;;not;;;;;VALIDATE
+Martin;207178;PN;FT;;;yes;APLN;;;;FOUND
+Jahen;207196;PLN;FT;http://pleiades.stoa.org/places/265810;Jaén;not;;; ;Medieval;FOUND
+Johan;207250;PN;FT; ; ;not; ; ; ; ;FOUND
+Cadiz;207266;PLN;FT;http://sws.geonames.org/2520600;CDZ,Cadice,Cadis,Cadix,Cadiz,Cai,Càdice,Cádice,Cádis,Cádiz,Gadeira,Gades,Gadir,Gaðes,Iungadir,Kadis,Kadisas,Kadiz,Kadizo,Kadyks,Kantith,La tacita de plata,jia de si,kadi s,kadiseu,kadisu,kads,kadydh,kadys,qads,qdys,Κάντιθ,Кадиз,Кадис,Кадіс,קדיס,قادس,كاديذ,کادس,کادیس,กาดิซ,კადისი,ካዲዝ,カディス,加的斯,카디스;not;;;null;Geonames;FOUND
+Johan;207284;PN;FT;;;yes;APLN;;;;FOUND
+Maestre;207300;PLN;FT;http://sws.geonames.org/6478142; ;not;;;null;Geonames;FOUND
+Orden;207315;UN;UNI;;;not;;;;;UNIDENTIFI

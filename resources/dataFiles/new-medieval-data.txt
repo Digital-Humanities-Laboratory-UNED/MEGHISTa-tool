@@ -1,0 +1,123 @@
+Aellon; ; ; ; ; ;TEXT.ACN; 
+Alarcon; ; ; ; ;PPT;TEXT.ACN; 
+Alcoçer; ; ; ; ;PPT;TEXT.ACN; 
+Alegre; ; ; ; ;PPT;TEXT.ACN; 
+Algarbe; ; ; ; ;PPT;TEXT.ACN; 
+Algarue; ; ; ; ;PPT;TEXT.ACN; 
+Allensierra; ; ; ; ;PPT;TEXT.ACN; 
+Aluarrazin; ; ; ; ;PPT;TEXT.ACN; 
+Amassatrigo; ; ; ; ;PPT;TEXT.ACN; 
+Anglatierra; ; ; ; ;PPT;TEXT.ACN; 
+Arcidiano; ; ; ; ;PPT;TEXT.ACN; 
+Atiença;Atienza; ;http://sws.geonames.org/6357841; ; ;TEXT.ACN;Geonames
+Ayllon; ; ; ; ; ;TEXT.ACN; 
+Beard; ; ; ; ;PPT;TEXT.ACN; 
+Beart; ; ; ; ;PPT;TEXT.ACN; 
+Belmont; ; ; ; ;PPT;TEXT.ACN; 
+Bienquerencia; ; ; ; ;PPT;TEXT.ACN; 
+Borgonna; ; ; ; ;PPT;TEXT.ACN; 
+C'amora; ; ; ; ;PPT;TEXT.ACN; 
+C'uferuela; ; ; ; ;PPT;TEXT.ACN; 
+Cabeça;Cabeza; ;http://sws.geonames.org/9167635; ; ;TEXT.ACN;Geonames
+Calatraua; ; ; ; ;PPT;TEXT.ACN; 
+Calatrava; ; ; ; ;PPT;TEXT.ACN; 
+Capiella; ; ; ; ;PPT;TEXT.ACN; 
+Carthagena;Cartagena; ;http://sws.geonames.org/6359521; ; ;TEXT.ACN;Geonames
+Castelle;Castalla; ;http://sws.geonames.org/6355429; ; ;TEXT.ACN;Geonames
+Catalatraua; ; ; ; ;PPT;TEXT.ACN; 
+Cepta; ; ; ; ;PPT;TEXT.ACN; 
+Cibdat; ; ; ; ;PPT;TEXT.ACN; 
+Cipdat; ; ; ; ;PPT;TEXT.ACN; 
+Cordube;Córdoba; ;http://sws.geonames.org/2519240; ; ;TEXT.ACN;Geonames
+Domingo; ; ; ; ;PPT;TEXT.ACN; 
+Domingo de Madrit ; ; ; ; ;PPLN;TEXT.ACN; 
+Domingo de Maydrit ; ; ; ; ;PPLN;TEXT.ACN; 
+Eglesia de San Martin ; ; ; ; ;PPLN;TEXT.ACNdos; 
+Eglesia de Sant Johan ; ; ; ; ;PPLN;TEXT.ACNdos; 
+Esparanas; ; ; ; ;PPT;TEXT.ACN; 
+Estremadura;Extremadura; ;http://sws.geonames.org/2593112; ; ;TEXT.ACN;Geonames
+Et; ; ; ; ;PPT;TEXT.ACN; 
+Facta;Facha; ;http://sws.geonames.org/3122691; ; ;TEXT.ACN;Geonames
+Fenares; ; ; ; ;PPT;TEXT.ACN; 
+Fita; ; ; ; ;PPT;TEXT.ACN; 
+Flandres; ; ; ; ;PPT;TEXT.ACN; 
+Focalcaçar; ; ; ; ;PPT;TEXT.ACN; 
+Fromesta; ; ; ; ; ;TEXT.ACN; 
+Gallecie;Córdoba; ;http://sws.geonames.org/2519240; ; ;TEXT.ACN;Geonames
+Garci Martinez de Toledo ; ; ; ; ;PPLN;TEXT.ACN; 
+Gizirat; ; ; ; ;PPT;TEXT.ACN; 
+Guadalemar; ; ; ; ;PPT;TEXT.ACN; 
+Guadalfaiara; ; ; ; ;PPT;TEXT.ACN; 
+Guadalhaiara; ; ; ; ;PPT;TEXT.ACN; 
+Huelamo; ; ; ; ;PPT;TEXT.ACN; 
+Huepte; ; ; ; ;PPT;TEXT.ACN; 
+Iaen; ; ; ; ;PPT;TEXT.ACN; 
+Innocencio; ; ; ; ;PPT;TEXT.ACN; 
+Ispanie;Kingdom of Spain; ;http://sws.geonames.org/2510769; ; ;TEXT.ACN;Geonames
+Julio; ; ; ; ;PPT;TEXT.ACN; 
+Legionis;Córdoba; ;http://sws.geonames.org/2519240; ; ;TEXT.ACN;Geonames
+Limoges; ; ; ; ;PPT;TEXT.ACN; 
+Lo; ; ; ; ;PPT;TEXT.ACN; 
+Lorregne; ; ; ; ;PPT;TEXT.ACN; 
+Mançanares;Manzanares; ;http://sws.geonames.org/9179363; ; ;TEXT.ACN;Geonames
+Maria de Toledo ; ; ; ; ;PPLN;TEXT.ACN; 
+Maydrit; ; ; ; ; ;TEXT.ACN; 
+Mayo; ; ; ; ;PPT;TEXT.ACN; 
+Mayor de Cuenca ; ; ; ; ;PPLN;TEXT.ACN; 
+Medina;Madina; ;http://sws.geonames.org/6325382; ; ;TEXT.ACN;Geonames
+Mendonedo; ; ; ; ;PPT;TEXT.ACN; 
+Mendonnedo; ; ; ; ;PPT;TEXT.ACN; 
+Millan;Milan; ;http://sws.geonames.org/9406783; ; ;TEXT.ACN;Geonames
+Moiaraf; ; ; ; ;PPT;TEXT.ACN; 
+Moiarrahe; ; ; ; ;PPT;TEXT.ACN; 
+Molina;Mollina; ;http://sws.geonames.org/6359477; ; ;TEXT.ACN;Geonames
+Mondonnedo;Mondoñedo; ;http://sws.geonames.org/6359191; ; ;TEXT.ACN;Geonames
+Moneda; ; ; ; ;PPT;TEXT.ACN; 
+Monfort; ; ; ; ;PPT;TEXT.ACN; 
+Mont Agudo; ; ; ; ;PPT;TEXT.ACN; 
+Montagudo; ; ; ; ;PPT;TEXT.ACN; 
+Montfort; ; ; ; ;PPT;TEXT.ACN; 
+Moriel;Muriel; ;http://sws.geonames.org/6362227; ; ;TEXT.ACN;Geonames
+Nauidat; ; ; ; ;PPT;TEXT.ACN; 
+Naçar;Nazar; ;http://sws.geonames.org/6359730; ; ;TEXT.ACN;Geonames
+Notario; ; ; ; ;PPT;TEXT.ACN; 
+Ouiedo; ; ; ; ;PPT;TEXT.ACN; 
+Pelay; ; ; ; ; ;TEXT.ACN; 
+Pelay Yuannes; ; ; ; ; ;TEXT.ACN; 
+Perero; ; ; ; ;PPT;TEXT.ACN; 
+Plazencia; ; ; ; ;PPT;TEXT.ACN; 
+Regna; ; ; ; ;PPT;TEXT.ACN; 
+Regno; ; ; ; ;PPT;TEXT.ACN; 
+Salzedo;Salcedo; ;http://sws.geonames.org/3111074; ; ;TEXT.ACN;Geonames
+Sanctiago; ; ; ; ;PPT;TEXT.ACN; 
+Sancto;Sancho; ;http://sws.geonames.org/9170929; ; ;TEXT.ACN;Geonames
+Sanctyago; ; ; ; ;PPT;TEXT.ACN; 
+Sant Ander; ; ; ; ;PPT;TEXT.ACN; 
+Sant Fagund; ; ; ; ;PPT;TEXT.ACN; 
+Sant Felizes; ; ; ; ;PPT;TEXT.ACN; 
+Sant Migael; ; ; ; ;PPT;TEXT.ACN; 
+Sant Pedro; ; ; ; ;PPT;TEXT.ACN; 
+Seruela; ; ; ; ;PPT;TEXT.ACN; 
+Siguenza; ; ; ; ;PPT;TEXT.ACN; 
+Siguença; ; ; ; ;PPT;TEXT.ACN; 
+Taio;Tajo; ;http://sws.geonames.org/9178307; ; ;TEXT.ACN;Geonames
+Temur; ; ; ; ;PPT;TEXT.ACN; 
+Toleti;Córdoba; ;http://sws.geonames.org/2519240; ; ;TEXT.ACN;Geonames
+Toleti Legionis;Córdoba; ;http://sws.geonames.org/2519240; ; ;TEXT.ACN;Geonames
+Tunez; ; ; ; ;PPT;TEXT.ACN; 
+Tuy;Tui; ;http://sws.geonames.org/6360252; ; ;TEXT.ACN;Geonames
+Vhepte; ; ; ; ;PPT;TEXT.ACN; 
+Villanueua; ; ; ; ; ;TEXT.ACN; 
+Vltramar; ; ; ; ;PPT;TEXT.ACN; 
+Xodar; ; ; ; ; ;TEXT.ACN; 
+Yuannes; ; ; ; ; ;TEXT.ACN; 
+de  ; ; ; ; ;PPT;TEXT.ACN; 
+de de Auila; ; ; ; ;PPT;TEXT.ACN; 
+de de C'uferuela; ; ; ; ;PPT;TEXT.ACN; 
+de de Castiella de Toledo de Leon de Gallizia de Seuilla de Cordoua de Murcia de Jahen e del Algarue; ; ; ; ;PPT;TEXT.ACN; 
+de de Cibdat; ; ; ; ;PPT;TEXT.ACN; 
+de de Guadalemar; ; ; ; ;PPT;TEXT.ACN; 
+de de Ouiedo; ; ; ; ;PPT;TEXT.ACN; 
+de de Salamanca; ; ; ; ;PPT;TEXT.ACN; 
+de de Siguença; ; ; ; ;PPT;TEXT.ACN; 
+eglesia Maria; ; ; ; ;PPT;TEXT.ACN; 
