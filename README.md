@@ -7,7 +7,7 @@ The implementation of this tool is under the phase of development, test and trai
 
 The recognition phase has been carried out based on two kinds of procedures:
 
-1.	Identification of terms takes into account its context. As a consequence, a hierarchy of contexts with polymorphic functions has been defined and implemented. Tokenizers and ngramms are used in the processes. This feature allows the recognition of different categories of names. The detection of ambiguities is also feasible. The tool can resolve those ambiguities. Complex structures, nominal phrases, lists of terms, terms with appositions and others are computed. Gazetteers and dictionaries for both ancient and modern names are used for identification functions.
+1.	Identification of terms takes into account its semantic context. As a consequence, a hierarchy of semantic contexts with polymorphic functions has been defined and implemented. Tokenizers and ngramms are used in the processes. This feature allows the recognition of different categories of names. The detection of ambiguities is also feasible. The tool can resolve those ambiguities. Complex structures, nominal phrases, lists of terms, terms with appositions and others are computed. Gazetteers and dictionaries for both ancient and modern names are used for identification functions.
 
 2.	Generation of variants of terms that have not been found in gazetteers and dictionaries. Morphological rules are applied to them for its identification, according to the evolution of Spanish language from Latin to modern Spanish language.
 
